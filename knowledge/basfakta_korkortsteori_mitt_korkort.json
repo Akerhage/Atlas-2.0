@@ -1,0 +1,129 @@
+{
+"section_title": "BASFAKTA – Körkortsteori med appen 'Mitt Körkort'",
+"source_info": "Information om vår mobilapp 'Mitt Körkort' och hur teoristudier fungerar hos oss.",
+"sections": [
+{
+"title": "Vad är 'Mitt Körkort' för något?",
+"answer": "Mitt Körkort är vår prisbelönta mobilapp som ger dig allt du behöver för att klara teoriprovet. Den täcker behörigheterna AM, B (personbil) och MC. Appen innehåller interaktiva kapitel, mängder av övningsfrågor och prov som efterliknar Trafikverkets riktiga prov. Du laddar ner den via App Store eller Google Play.",
+"keywords": [
+"AM",
+"android",
+"app",
+"app store",
+"B",
+"google play",
+"iphone",
+"MC",
+"mitt körkort",
+"mobilapp",
+"teori",
+"teoripaket",
+"vad är"
+]
+},
+{
+"title": "Kostar appen något? (Gratis vs Premium)",
+"answer": "Du kan ladda ner appen GRATIS och testa funktionerna. För att få tillgång till hela utbildningspaketet (alla 1000 frågor, alla kapitel och obegränsade prov) betalar du en engångskostnad. Då får du obegränsad tillgång tills du har tagit ditt körkort.",
+"keywords": [
+"betala",
+"engångskostnad",
+"gratis",
+"kostar",
+"köpa",
+"ladda ner",
+"obegränsad tillgång",
+"premium",
+"pris",
+"testa",
+"vad kostar"
+]
+},
+{
+"title": "Vad innehåller teoripaketet?",
+"answer": "Teoripaketet är uppdelat i tre smarta delar: 1. Plugga-portalen: Interaktiva kapitel där du lär dig grunderna. 2. Skyltar: En sektion med över 300 frågor specifikt om vägmärken. 3. Teori/Prov-portalen: Över 1000 övningsfrågor som tränar dig inför det riktiga provet.",
+"keywords": [
+"1000 frågor",
+"300 frågor",
+"delar",
+"innehåll",
+"plugga",
+"prov",
+"skyltar",
+"teoripaket",
+"vad ingår",
+"vägmärken",
+"övningsfrågor"
+]
+},
+{
+"title": "Finns teorin som ljudbok? (Uppläsning)",
+"answer": "Ja, appen har stöd för uppläsning (talsyntes). Det är ett utmärkt hjälpmedel om du föredrar att lyssna, har dyslexi eller läs- och skrivsvårigheter.",
+"keywords": [
+"dyslexi",
+"hjälpmedel",
+"ljudbok",
+"lyssna",
+"läsa",
+"lässvårigheter",
+"talsyntes",
+"uppläsning"
+]
+},
+{
+"title": "Andra funktioner: Boka och Chatta",
+"answer": "Appen är ditt nav för hela körkortet. Här kan du boka och avboka körlektioner, se ditt saldo, läsa feedback från din trafiklärare och till och med chatta direkt med supporten eller din lärare. Appen fungerar även i offlineläge om du saknar internet.",
+"keywords": [
+"avboka",
+"boka",
+"chatta",
+"feedback",
+"funktioner",
+"internet",
+"kontakt",
+"lektioner",
+"lärare",
+"offline",
+"saldo"
+]
+},
+{
+"title": "Statistik: Bemästra frågorna för att klara provet",
+"answer": "Vi använder en metod som heter 'Bemästra'. När du svarar rätt på en fråga två gånger i rad räknas den som bemästrad. Statistik visar att elever som bemästrar 900 av de 1000 frågorna har över 90% chans att klara teoriprovet hos Trafikverket på första försöket.",
+"keywords": [
+"90%",
+"900 frågor",
+"bemästra",
+"chans",
+"första försöket",
+"garanti",
+"klara provet",
+"statistik",
+"två gånger i rad"
+]
+},
+{
+"title": "Kan jag använda appen på datorn?",
+"answer": "Appen är byggd för mobilen (iPhone och Android), men du kan använda den på en dator (PC/Mac) om du installerar ett program som heter Bluestacks (som simulerar en mobil på datorn).",
+"keywords": [
+"bluestacks",
+"dator",
+"mac",
+"pc",
+"webben",
+"webbläsare"
+]
+},
+{
+"title": "Privata teorilektioner",
+"answer": "Behöver du extra stöd? Utöver appen erbjuder vi privata teorilektioner med våra trafiklärare. Det är perfekt om du kör fast på specifika moment. Du ser priser och bokar dessa direkt via bokningssidan.",
+"keywords": [
+"en till en",
+"extra hjälp",
+"hjälp med teorin",
+"privatlektion",
+"svårt med teorin",
+"teorilektion"
+]
+}
+]
+}

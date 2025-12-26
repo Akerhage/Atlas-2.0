@@ -1,0 +1,419 @@
+/* ═══════════════════════════════════════════════════════════════
+SUNSET HORIZON — Premium Deluxe Solnedgångstema
+Färgpalett: Rosa, Orange, Lila, Guld
+Känsla: Varm, Livfull, Lyxig
+Fil: sunset-horizon/sunset-horizon.css
+═══════════════════════════════════════════════════════════════ */
+
+:root {
+--bg-image: url("./sunset-horizon-bg.jpg");
+--bg-color: #1a0a1f;
+
+/* Solnedgångsfärger */
+--bg-dark-primary: #1f0e2e;
+--bg-dark-secondary: #2a1540;
+--bg-dark-tertiary: #3d2255;
+--text-primary: #fff5f0;
+--text-secondary: #dab8d8;
+--accent-primary: #ff6b9d;
+--accent-hover: #ffa07a;
+--accent-gold: #ffd700;
+--accent-purple: #b24bf3;
+--border-color: rgba(255, 107, 157, 0.2);
+
+/* Gruppfärger */
+--group-bg: linear-gradient(135deg, rgba(255, 107, 157, 0.12), rgba(255, 160, 122, 0.08));
+--group-hover: linear-gradient(135deg, rgba(255, 107, 157, 0.22), rgba(255, 160, 122, 0.15));
+--group-text: #ff6b9d;
+--group-border: rgba(255, 107, 157, 0.35);
+--group-shadow: rgba(255, 107, 157, 0.2);
+--group-shadow-hover: rgba(255, 160, 122, 0.4);
+--item-bg: rgba(61, 34, 85, 0.9);
+--item-hover: linear-gradient(135deg, rgba(255, 107, 157, 0.2), rgba(178, 75, 243, 0.15));
+--item-border: rgba(255, 107, 157, 0.25);
+--accent: #ff6b9d;
+
+/* Glassmorphism med guld-glow */
+--bg-frosty-sidebar: rgba(31, 14, 46, 0.88);
+--bg-frosty-header: rgba(42, 21, 64, 0.85);
+--bg-frosty-content: rgba(45, 24, 68, 0.82);
+--bg-frosty-bubble-atlas: rgba(61, 34, 85, 0.95);
+--bg-frosty-bubble-user: linear-gradient(135deg, #ff6b9d 0%, #ffa07a 50%, #b24bf3 100%);
+--bg-frosty-input-area: rgba(42, 21, 64, 0.88);
+--bg-frosty-input-field: rgba(61, 34, 85, 0.92);
+--blur-amount: 30px;
+
+--glow-sunset: 0 0 40px rgba(255, 107, 157, 0.6);
+--glow-gold: 0 0 35px rgba(255, 215, 0, 0.5);
+--glow-purple: 0 0 30px rgba(178, 75, 243, 0.5);
+--transition-fast: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+--transition-slow: 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+body {
+background: var(--bg-image) center/cover no-repeat fixed;
+background-color: var(--bg-color);
+color: var(--text-primary);
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+position: relative;
+}
+
+/* Guldstjärnor i bakgrunden */
+body::before {
+content: "";
+position: fixed;
+top: 0; left: 0; right: 0; bottom: 0;
+background: 
+radial-gradient(2px 2px at 20% 30%, rgba(255, 215, 0, 0.6), transparent),
+radial-gradient(1.5px 1.5px at 80% 70%, rgba(255, 107, 157, 0.5), transparent),
+radial-gradient(2px 2px at 40% 80%, rgba(178, 75, 243, 0.4), transparent);
+background-size: 220px 220px, 280px 280px, 250px 250px;
+animation: shimmer 10s ease-in-out infinite;
+pointer-events: none;
+opacity: 0.7;
+z-index: 0;
+}
+
+@keyframes shimmer {
+0%, 100% { opacity: 0.7; transform: translateY(0); }
+50% { opacity: 0.5; transform: translateY(-10px); }
+}
+
+.app-container {
+position: relative;
+z-index: 1;
+}
+
+/* === GLASSPANELER === */
+.sidebar, .chat-header, .chat-input-area, .about-container,
+.template-editor-container, .template-list-container {
+backdrop-filter: blur(var(--blur-amount)) saturate(170%);
+-webkit-backdrop-filter: blur(var(--blur-amount)) saturate(170%);
+background: var(--bg-frosty-sidebar);
+border: 1px solid var(--border-color);
+box-shadow: 
+0 12px 50px rgba(0, 0, 0, 0.6),
+inset 0 1px 0 rgba(255, 255, 255, 0.1),
+0 0 45px rgba(255, 107, 157, 0.15);
+transition: var(--transition-slow);
+border-radius: 20px;
+overflow: hidden;
+}
+
+.sidebar:hover, .about-container:hover {
+box-shadow: 
+0 16px 60px rgba(0, 0, 0, 0.7),
+0 0 60px rgba(255, 107, 157, 0.25),
+0 0 80px rgba(255, 215, 0, 0.15);
+transform: translateY(-3px);
+}
+
+/* === SIDEBAR LOGO === */
+.sidebar-logo {
+filter: drop-shadow(0 6px 20px rgba(255, 107, 157, 0.5))
+drop-shadow(0 0 30px rgba(255, 215, 0, 0.3));
+transition: var(--transition-slow);
+}
+
+.sidebar:hover .sidebar-logo {
+transform: translateY(-12px) scale(1.15) rotate(5deg);
+filter: drop-shadow(0 18px 45px rgba(255, 107, 157, 0.7))
+drop-shadow(0 10px 40px rgba(255, 215, 0, 0.5));
+}
+
+/* === MENYITEMS === */
+.menu-item {
+color: var(--text-secondary);
+border-radius: 14px;
+margin: 4px 8px;
+padding: 12px 16px;
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+
+.menu-item::before {
+content: '';
+position: absolute;
+left: -100%;
+top: 0;
+width: 100%;
+height: 100%;
+background: linear-gradient(90deg, 
+transparent, 
+rgba(255, 107, 157, 0.2), 
+rgba(255, 215, 0, 0.15),
+transparent);
+transition: left 0.7s;
+}
+
+.menu-item:hover {
+background: linear-gradient(135deg, 
+rgba(255, 107, 157, 0.15), 
+rgba(178, 75, 243, 0.1));
+color: var(--accent-primary);
+transform: translateX(8px);
+box-shadow: 0 6px 20px rgba(255, 107, 157, 0.2);
+}
+
+.menu-item:hover::before {
+left: 100%;
+}
+
+.menu-item.active {
+background: linear-gradient(90deg, 
+rgba(255, 107, 157, 0.3), 
+rgba(178, 75, 243, 0.15));
+color: white;
+border-left: 4px solid var(--accent-gold);
+font-weight: 700;
+box-shadow: var(--glow-sunset), var(--glow-gold);
+}
+
+/* === CHAT BUBBLES === */
+.message .bubble {
+border-radius: 18px;
+padding: 14px 18px;
+transition: all var(--transition-fast);
+box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45);
+backdrop-filter: blur(15px);
+}
+
+.message.atlas .bubble {
+background: var(--bg-frosty-bubble-atlas);
+border: 1px solid rgba(255, 107, 157, 0.2);
+}
+
+.message.atlas .bubble:hover {
+transform: translateY(-3px);
+box-shadow: 
+0 10px 40px rgba(0, 0, 0, 0.55),
+0 0 30px rgba(255, 107, 157, 0.3);
+}
+
+.message.user .bubble {
+background: var(--bg-frosty-bubble-user);
+color: white;
+text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+box-shadow: 
+0 8px 35px rgba(255, 107, 157, 0.5),
+0 0 40px rgba(255, 215, 0, 0.3);
+}
+
+.message.user .bubble:hover {
+box-shadow: 
+0 12px 50px rgba(255, 107, 157, 0.7),
+0 0 60px rgba(255, 215, 0, 0.4);
+}
+
+/* === KNAPPAR === */
+#send-button, .header-button {
+background: linear-gradient(135deg, #ff6b9d 0%, #ffa07a 50%, #ffd700 100%);
+color: #1a0a1f;
+border-radius: 14px;
+font-weight: 700;
+box-shadow: 
+0 6px 24px rgba(255, 107, 157, 0.5),
+0 0 35px rgba(255, 215, 0, 0.3);
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+
+#send-button::before, .header-button::before {
+content: '';
+position: absolute;
+inset: 0;
+background: linear-gradient(45deg, 
+transparent, 
+rgba(255, 255, 255, 0.3), 
+transparent);
+transform: translateX(-100%);
+transition: transform 0.6s;
+}
+
+#send-button:hover::before, .header-button:hover::before {
+transform: translateX(100%);
+}
+
+#send-button:hover, .header-button:hover {
+transform: translateY(-3px) scale(1.05);
+box-shadow: 
+0 10px 40px rgba(255, 107, 157, 0.6),
+0 0 50px rgba(255, 215, 0, 0.5);
+}
+
+/* === INPUT === */
+#chat-form {
+background: var(--bg-frosty-input-field);
+border: 1px solid rgba(255, 107, 157, 0.2);
+}
+
+#chat-form:focus-within {
+border-color: var(--accent-gold);
+box-shadow: 
+0 0 40px rgba(255, 107, 157, 0.4),
+0 0 60px rgba(255, 215, 0, 0.3);
+}
+
+/* === SCROLLBAR === */
+::-webkit-scrollbar {
+width: 12px;
+}
+
+::-webkit-scrollbar-track {
+background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+background: linear-gradient(180deg, #ff6b9d, #ffa07a, #ffd700);
+border-radius: 10px;
+box-shadow: 
+0 0 25px rgba(255, 107, 157, 0.6),
+inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: linear-gradient(180deg, #ffd700, #ffa07a, #ff6b9d);
+box-shadow: 0 0 35px rgba(255, 215, 0, 0.8);
+}
+
+/* === SERVER STATUS === */
+#server-status {
+color: #ffd700;
+font-weight: 700;
+text-shadow: 0 0 25px #ffd700;
+animation: goldPulse 4s ease-in-out infinite;
+}
+
+@keyframes goldPulse {
+0%, 100% { 
+text-shadow: 0 0 25px #ffd700;
+}
+50% { 
+text-shadow: 0 0 45px #ffd700, 0 0 70px rgba(255, 215, 0, 0.7);
+}
+}
+
+/* === GUIDE STEPS === */
+.guide-step {
+background: linear-gradient(135deg, 
+rgba(255, 107, 157, 0.15), 
+rgba(178, 75, 243, 0.1));
+border-left: 5px solid var(--accent-gold);
+border-radius: 12px;
+transition: all var(--transition-fast);
+backdrop-filter: blur(12px);
+}
+
+.guide-step:hover {
+transform: translateX(10px) translateY(-2px);
+box-shadow: 
+0 8px 35px rgba(255, 107, 157, 0.35),
+0 0 40px rgba(255, 215, 0, 0.2);
+background: linear-gradient(135deg, 
+rgba(255, 107, 157, 0.22), 
+rgba(178, 75, 243, 0.15));
+}
+
+.step-number {
+background: linear-gradient(135deg, #ff6b9d, #ffd700);
+color: #1a0a1f;
+border-radius: 50%;
+width: 40px;
+height: 40px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: 700;
+box-shadow: var(--glow-sunset);
+}
+
+/* === SHORTCUTS === */
+.shortcut-item {
+background: rgba(255, 107, 157, 0.08);
+border-radius: 12px;
+transition: all var(--transition-fast);
+backdrop-filter: blur(12px);
+}
+
+.shortcut-item:hover {
+background: linear-gradient(135deg, 
+rgba(255, 107, 157, 0.2), 
+rgba(178, 75, 243, 0.15));
+border-left: 3px solid var(--accent-gold);
+transform: translateX(10px);
+box-shadow: 0 6px 25px rgba(255, 107, 157, 0.3);
+}
+
+.shortcut-item kbd {
+background: linear-gradient(135deg, #ff6b9d, #ffa07a);
+color: white;
+border-radius: 8px;
+padding: 6px 12px;
+font-weight: 600;
+box-shadow: 0 4px 15px rgba(255, 107, 157, 0.5);
+}
+
+/* === EXTRA DETALJER === */
+.status-lamp-dot.green {
+background-color: #ffd700;
+box-shadow: 
+0 0 25px #ffd700, 
+0 0 50px rgba(255, 215, 0, 0.6);
+}
+
+.template-group-header {
+background: var(--group-bg);
+border: 1px solid var(--group-border);
+box-shadow: 0 4px 16px var(--group-shadow);
+}
+
+.template-group-header:hover {
+background: var(--group-hover);
+box-shadow: 0 6px 24px var(--group-shadow-hover);
+}
+
+.template-item:hover {
+background: var(--item-hover);
+border-color: var(--accent-gold);
+box-shadow: 
+0 6px 24px rgba(255, 107, 157, 0.25),
+0 0 30px rgba(255, 215, 0, 0.15);
+}
+
+/* === SÖKFÄLT STYLING === */
+#template-search {
+background: var(--bg-dark-tertiary);
+border: 1px solid rgba(255, 107, 157, 0.2);
+color: var(--text-primary);
+}
+
+#template-search:focus {
+border-color: var(--accent-gold);
+box-shadow: 
+0 0 20px rgba(255, 107, 157, 0.3),
+0 0 30px rgba(255, 215, 0, 0.2);
+}
+
+.collapse-all-btn:hover {
+background: linear-gradient(135deg, #ff6b9d, #ffd700);
+border-color: var(--accent-gold);
+}
+.nav-badge {
+/* Dina Sunset-färger (Rosa/Orange) */
+background: linear-gradient(135deg, #ff6b9d, #ffa07a) !important;
+box-shadow: 0 0 15px rgba(255, 107, 157, 0.6) !important;
+color: white !important;
+}
+
+/* Självlysande taggar för mörka teman */
+.tag-chatt {
+background: rgba(0, 255, 157, 0.1) !important;
+color: #00ff9d !important;
+}
+
+.tag-form {
+background: rgba(0, 212, 255, 0.1) !important;
+color: #00d4ff !important;
+}

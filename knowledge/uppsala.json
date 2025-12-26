@@ -1,0 +1,228 @@
+{
+  "id": "my_driving_academy_uppsala",
+  "name": "My Driving Academy – Uppsala",
+  "brand": "My Driving Academy",
+  "city": "Uppsala",
+  "description": "Vi rekommenderar att du börjar din körkortsresa i Uppsala med en 80 min testlektion för endast 699 kr! En testlektion är en rabatterad körlektion där du tillsammans med en instruktör planerar din utbildning. Det bästa sättet att börja ta ditt körkort i Uppsala är att sätta dig bakom ratten med en professionell instruktör!",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "uppsala",
+    "kontakt",
+    "öppettider",
+    "priser",
+    "testlektion",
+    "körkort"
+  ],
+  "contact": {
+    "phone": "010-20 70 775 (centralsupporten)",
+    "email": "hej@mydrivingacademy.com",
+    "address": "Stationsgatan 32, 753 40 Uppsala"
+  },
+  "opening_hours": [
+    {
+      "days": "Info",
+      "hours": "Ingen bemannad reception, ring, chatta eller mejla centralsupporten."
+    }
+  ],
+  "services_offered": [
+    "Bil"
+  ],
+  "languages": [
+    "svenska",
+    "engelska",
+    "arabiska",
+    "kurdiska"
+  ],
+  "prices": [
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1399,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 1399,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Testlektion BIL",
+      "price": 699,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Prova-På-Uppkörning BIL",
+      "price": 1399,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 11199,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 14949,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 22799,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 6749,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 13699,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 849,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    },
+    {
+      "service_name": "Risk 2 BIL",
+      "price": 2249,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "uppsala"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200011&locationId=2",
+    "MC": null,
+    "AM": null
+  }
+}

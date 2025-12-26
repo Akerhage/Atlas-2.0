@@ -1,0 +1,104 @@
+{
+"section_title": "BASFAKTA - MC-behörigheter (A, A1, A2)",
+"source_info": "Information om regler, åldersgränser och krav för de olika motorcykelkorten.",
+"sections": [
+{
+"title": "A1-körkort (Lätt motorcykel)",
+"answer": "A1 är behörigheten för lätt motorcykel. Du får ta det från 16 års ålder. Motorcykeln får ha max 125 kubik (cc) och en effekt på max 11 kW. Förhållandet mellan effekt och vikt får inte överstiga 0,1 kW/kg.",
+"keywords": [
+"0,1 kw/kg",
+"11kw",
+"125cc",
+"16 år",
+"a1",
+"cc",
+"kubik",
+"lätt mc",
+"lätt motorcykel",
+"ålder"
+]
+},
+{
+"title": "A2-körkort (Mellanstor motorcykel)",
+"answer": "A2 är behörigheten för mellanstor motorcykel. Du får ta det från 18 års ålder. Motorcykeln får ha en effekt på max 35 kW. Förhållandet mellan effekt och vikt får inte överstiga 0,2 kW/kg. Om motorcykeln är strypt får den ursprungligen inte ha haft mer än 70 kW.",
+"keywords": [
+"0,2 kw/kg",
+"18 år",
+"35kw",
+"70kw",
+"a2",
+"effekt",
+"mellanstor mc",
+"mellanklass",
+"strypt",
+"ålder"
+]
+},
+{
+"title": "A-körkort (Tung motorcykel)",
+"answer": "A är behörigheten för tung motorcykel (obegränsad effekt). Du kan ta det direkt om du är 24 år (direkttillträde). Om du har haft A2-körkort i minst 2 år kan du ta A-körkortet redan från 20 års ålder genom ett körprov.",
+"keywords": [
+"20 år",
+"21 år",
+"24 år",
+"a",
+"a-kort",
+"direkttillträde",
+"obegränsad",
+"tung mc",
+"tung motorcykel",
+"ålder"
+]
+},
+{
+"title": "Uppgradera A1 till A2, eller A2 till A",
+"answer": "Om du vill uppgradera din behörighet (t.ex. från A1 till A2, eller A2 till A) och har haft det lägre körkortet i minst 2 år, behöver du bara göra ett godkänt körprov (uppkörning). Du behöver INTE göra om teoriprovet och du behöver INTE göra om riskutbildningarna.",
+"keywords": [
+"a1 till a2",
+"a2 till a",
+"behöver jag göra om teorin",
+"göra om riskettan",
+"ingen teori",
+"inte teoriprov",
+"körprov",
+"slipper teori",
+"två år",
+"uppgradera",
+"uppgradering"
+]
+},
+{
+"title": "Trehjulig och Fyrhjulig MC (Regler)",
+"answer": "För trehjulig MC över 15 kW krävs A-körkort och att du fyllt 21 år. För fyrhjulig MC (t.ex. Quad/ATV) krävs normalt B-körkort (bil), om du inte tog ditt MC-kort före 19 januari 2013.",
+"keywords": [
+"21 år",
+"atv",
+"b-kort",
+"fyrhjulig",
+"quad",
+"trehjulig",
+"undantag"
+]
+},
+{
+"title": "Var erbjuder ni MC-utbildning?",
+"answer": "Vi erbjuder MC-utbildning på flera orter, bland annat: Malmö, Stockholm (Österåker), Helsingborg, Kristianstad, Landskrona, Trelleborg, Lund, Ystad, Ängelholm, Hässleholm och Göteborg. Kontakta respektive kontor för kursstarter.",
+"keywords": [
+"göteborg",
+"helsingborg",
+"hässleholm",
+"kristianstad",
+"landskrona",
+"lund",
+"malmö",
+"mc-kort",
+"stockholm",
+"trelleborg",
+"var finns ni",
+"ystad",
+"ängelholm",
+"österåker"
+]
+}
+]
+}

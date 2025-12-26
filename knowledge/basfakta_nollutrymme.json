@@ -1,0 +1,93 @@
+{
+"section_title": "Nollutrymme För Fel - Kritiska Svar & Chit-chat",
+"source_info": "Svar som kräver 100% korrekthet samt vanliga hälsningsfraser. Prioriteras före AI-sökning.",
+"sections": [
+{
+"title": "Fakturaadress Mårtenssons",
+"answer": "Vår fakturaadress för PDF-fakturor till Mårtenssons är: martenssons.trafikskola@pdf.scancloud.se. Fysiska fakturor skickas till: Mårtenssons Trafikskola AB, FE 7283 Scancloud, 831 90 Östersund.",
+"keywords": [
+"fakturaadress mårtenssons",
+"faktura mårtenssons",
+"skicka faktura mårtenssons",
+"fakturaadress",
+"faktura-adress",
+"vart skicka faktura",
+"skicka en faktura",
+"scancloud"
+]
+},
+{
+"title": "Fakturaadress MDA",
+"answer": "Vår fakturaadress för PDF-fakturor till My Driving Academy är: mydrivingacademy.com@pdf.scancloud.se. Fysiska fakturor skickas till: My Driving Academy AB, FE 7283 Scancloud, 831 90 Östersund.",
+"keywords": [
+"fakturaadress mda",
+"faktura mda",
+"faktura my driving academy",
+"skicka faktura mda"
+]
+},
+{
+"title": "Ångerrätt Policy",
+"answer": "Enligt vår policy har du 14 dagars ångerrätt enligt distanshandelslagen. Efter 14 dagar kan oanvända delar återbetalas mot en 10% administrativ avgift. Paket gäller i 24 månader.",
+"keywords": [
+"ångerrätt",
+"ångra köp",
+"ångra mitt köp",
+"få pengarna tillbaka",
+"få pengar tillbaka",
+"kräva pengarna tillbaka",
+"administrativ avgift",
+"ångerfrist",
+"distanshandelslagen"
+]
+},
+{
+"title": "Hej",
+"answer": "Hej! Jag är din virtuella assistent. Jag kan svara på frågor om körkort, priser och bokning. Vad funderar du på?",
+"keywords": [
+"hej",
+"tja",
+"tjena",
+"hallå",
+"god morgon",
+"god dag",
+"hejsan"
+]
+},
+{
+"title": "Tack",
+"answer": "Varsågod! Bara att fråga om du undrar något mer.",
+"keywords": [
+"tack",
+"tack så mycket",
+"tusen tack",
+"schysst",
+"grymt tack"
+]
+},
+{
+"title": "Vem är du?",
+"answer": "Jag är en AI-assistent för Mårtenssons Trafikskola och My Driving Academy. Jag kan allt om körkort, men jag är inte en riktig människa.",
+"keywords": [
+"vem är du",
+"vad är du",
+"är du en människa",
+"är du på riktigt",
+"pratar jag med en dator",
+"bot"
+]
+},
+{
+"title": "Jag vill prata med en människa",
+"answer": "Självklart. Du når vår support på telefon 010-333 32 31 (Mårtenssons) eller 010-20 70 775 (MDA). Du kan också chatta med en handläggare direkt i appen 'Mitt Körkort'.",
+"keywords": [
+"prata med en människa",
+"prata med personal",
+"kundtjänst",
+"vill ringa",
+"telefonnummer",
+"supporten"
+]
+}
+]
+}

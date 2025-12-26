@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' http://localhost:* http://127.0.0.1:* https://*.ngrok-free.dev ws://localhost:* ws://127.0.0.1:* wss://*.ngrok-free.dev; script-src 'self' 'unsafe-inline' http://localhost:3001; style-src 'self' 'unsafe-inline'; img-src 'self' data: http: https:;">
+<title>Atlas</title>
+<link rel="stylesheet" href="./assets/css/style.css">
+<link href="./assets/css/quill.snow.css" rel="stylesheet">
+<link id="theme-stylesheet" rel="stylesheet" href="./assets/themes/chrome-light/chrome-light.css">
+</head>
+<body>
+<div class="app-container">
+<nav class="sidebar">
+<div class="sidebar-header">
+<img src="./assets/images/logo.png" alt="Logo" class="sidebar-logo">
+<span id="app-name-display" style="display: none;">Atlas</span>
+</div>
+<ul class="sidebar-menu">
+  <li class="menu-item active" data-view="chat">
+    <img src="assets/icons/menu-home.svg" class="menu-icon">
+    <span class="menu-text">Hem</span>
+  </li>
+  <li class="menu-item" data-view="my-tickets">
+    <img src="assets/icons/menu-myown.svg" class="menu-icon">
+    <span class="menu-text">Mina ärenden</span>
+    <span class="nav-badge" id="badge-my-tickets" style="display:none;">0</span>
+  </li>
+  <li class="menu-item" data-view="inbox">
+    <img src="assets/icons/menu-inbox.svg" class="menu-icon">
+    <span class="menu-text">Inkorg</span>
+    <span class="nav-badge" id="badge-inbox" style="display:none;">0</span>
+  </li>
+  <li class="menu-item" data-view="archive">
+    <img src="assets/icons/menu-archive.svg" class="menu-icon">
+    <span class="menu-text">Garaget</span>
+  </li>
+  <li class="menu-item" data-view="templates">
+    <img src="assets/icons/menu-templates.svg" class="menu-icon">
+    <span class="menu-text">Mailmallar</span>
+  </li>
+  <li class="menu-item" data-view="settings">
+    <img src="assets/icons/menu-settings.svg" class="menu-icon">
+    <span class="menu-text">Om</span>
+  </li>
+  
+  <li class="menu-item" id="logout-btn" style="margin-top: auto;">
+    <img src="assets/icons/menu-logout.svg" class="menu-icon">
+    <span class="menu-text">Logga ut</span>
+  </li>
+</ul>
+</nav>
+
+
+<main class="chat-view" id="view-chat" style="display: flex;">
+<header class="chat-header">
+<h2>Atlas - Din körkortsguide</h2>
+<button id="new-chat-btn-header" class="header-button">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 6px;"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+Ny chatt
+</button>
+</header>
+<div class="chat-messages" id="chat-messages">
+<div class="message atlas">
+<div class="bubble">Hej! Jag är Atlas, din digitala assistent. Jag kan allt om körkort och My Driving Academys tjänster och information, testa mig!?</div>
+</div>
+</div>
+<footer class="chat-input-area">
+<form id="chat-form">
+<input type="text" id="message-input" placeholder="Ställ din fråga till Atlas..." autocomplete="off">
+<button type="submit" id="send-button">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+<path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+</svg>
+</button>
+</form>
+</footer>
+</main>
+
+<main class="templates-view" id="view-templates" style="display: none;">
+<header class="chat-header">
+<h2>Mailmallar</h2>
+<button id="new-template-btn" class="header-button">Skapa ny mall</button>
+</header>
+<div class="templates-container">
+<div class="template-list-container">
+<h3>Dina mallar</h3>
+
+<div class="template-search-container">
+<input 
+type="text" 
+id="template-search" 
+placeholder="🔍 Sök mallar..."
+autocomplete="off"
+>
+<button id="collapse-all-btn" class="collapse-all-btn" title="Stäng alla grupper">
+<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+<polyline points="18 15 12 9 6 15"></polyline>
+</svg>
+</button>
+</div>
+
+<div id="template-list">
+<div class="template-item-empty">Du har inga mallar än.</div>
+</div>
+</div>
+<div class="template-editor-container">
+<div id="editor-placeholder">
+Välj en mall för att redigera eller klicka på "Skapa ny mall".
+</div>
+<form id="template-editor-form" style="display: none;">
+<input type="hidden" id="template-id-input">
+<label for="template-title-input">Titel:</label>
+<input type="text" id="template-title-input" placeholder="T.ex. 'Info om AM-kurs'">
+<label for="template-group-input">Grupp:</label>
+<input type="text" id="template-group-input" placeholder="T.ex. 'AM-mallar'">
+<label>Innehåll:</label>
+<div id="quill-editor" style="height: 400px; background: var(--bg-dark-tertiary); border-radius: 8px;"></div>
+<input type="hidden" id="template-content-input">
+<div class="editor-buttons">
+<button type="submit" class="save-button">Spara mall</button>
+<button type="button" id="delete-template-btn" class="delete-button" style="display: none;">Ta bort</button>
+</div>
+</form>
+</div>
+</div>
+</main>
+
+<main class="templates-view" id="view-my-tickets" style="display: none;">
+  <header class="chat-header">
+    <h2>Mina pågående ärenden</h2>
+  </header>
+  <div class="templates-container">
+    <div class="template-list-container">
+      <h3>Dina plockade ärenden</h3>
+      <div id="my-tickets-list">
+        <div class="template-item-empty">Du har inga aktiva ärenden just nu.</div>
+      </div>
+    </div>
+    <div class="template-editor-container">
+      <div id="my-detail-placeholder" style="display: flex;" class="template-item-empty">
+        Välj ett ärende för att fortsätta konversationen.
+      </div>
+      <div id="my-ticket-detail" style="display: none; flex-direction: column; height: 100%;">
+        <div id="my-ticket-chat-area" style="flex: 1; background: var(--bg-dark-tertiary); padding: 16px; border-radius: 12px; overflow-y: auto; display: flex; flex-direction: column; gap: 10px;">
+          </div>
+        <div style="margin-top: 16px; display: flex; gap: 12px;">
+          <button id="my-copy-btn" class="header-button" style="background: #28a745;">Kopiera historik</button>
+          <button id="my-archive-btn" class="header-button" style="background: #6c757d;">Arkivera ärende</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<main class="templates-view" id="view-inbox" style="display: none;">
+<header class="chat-header">
+<h2>Inkorg - Senaste 50 frågorna</h2>
+<button id="clear-inbox-btn" class="header-button" style="background: #dc3545;">Rensa alla</button>
+</header>
+<div class="templates-container">
+<div class="template-list-container">
+<h3>Frågehistorik</h3>
+<div id="inbox-list">
+<div class="template-item-empty">Inga frågor än. Ställ en fråga i Hem-vyn!</div>
+</div>
+</div>
+<div class="template-editor-container">
+<div id="inbox-placeholder" style="display: flex;">
+Välj en fråga från listan för att se fullständigt svar.
+</div>
+<div id="inbox-detail" style="display: none; flex-direction: column; height: 100%;">
+<div style="margin-bottom: 24px;">
+<label style="font-weight: 600; color: var(--text-secondary); font-size: 13px; text-transform: uppercase; letter-spacing: 0.8px;">FRÅGA:</label>
+<div id="inbox-question" style="background: var(--bg-dark-tertiary); padding: 16px; border-radius: 12px; margin-top: 8px; color: var(--text-primary); font-size: 15px; line-height: 1.6;"></div>
+</div>
+<div style="flex: 1; display: flex; flex-direction: column;">
+<label style="font-weight: 600; color: var(--text-secondary); font-size: 13px; text-transform: uppercase; letter-spacing: 0.8px;">SVAR:</label>
+<div id="inbox-answer" style="flex: 1; background: var(--bg-dark-tertiary); padding: 16px; border-radius: 12px; margin-top: 8px; color: var(--text-primary); font-size: 15px; line-height: 1.6; overflow-y: auto;"></div>
+</div>
+<div style="margin-top: 16px; display: flex; gap: 12px;">
+<button id="copy-answer-btn" class="header-button" style="background: #28a745;">Kopiera svar</button>
+<button id="archive-qa-btn" class="header-button" style="background: #6c757d;">Arkivera</button>
+<button id="delete-qa-btn" class="header-button" style="background: #dc3545; margin-left: auto;">Ta bort</button>
+</div>
+</div>
+</div>
+</div>
+</main>
+
+<main class="templates-view" id="view-archive" style="display: none;">
+<header class="chat-header">
+<h2>Arkiv - Historik & Automatiska svar</h2>
+<button id="clear-archive-btn" class="header-button" style="background: #666;">Rensa Arkiv</button>
+</header>
+<div class="templates-container">
+<div class="template-list-container">
+<h3>Arkiverade ärenden</h3>
+<div id="archive-list">
+<div class="template-item-empty">Arkivet är tomt.</div>
+</div>
+</div>
+<div class="template-editor-container">
+<div id="archive-placeholder" style="display: flex;">
+Välj ett arkiverat ärende för att granska konversationen.
+</div>
+<div id="archive-detail" style="display: none; flex-direction: column; height: 100%;">
+<div id="archive-content" style="flex: 1; background: var(--bg-dark-tertiary); padding: 16px; border-radius: 12px; overflow-y: auto; color: var(--text-primary);">
+</div>
+
+<div style="margin-top: 16px; display: flex; gap: 12px;">
+<button id="unarchive-qa-btn" class="header-button" style="background: #28a745;">Återskapa till Inkorg</button>
+</div>
+</div>
+</div>
+</div>
+</main>
+
+<main class="settings-view" id="view-settings" style="display: none;">
+<header class="chat-header">
+<h2>Om Atlas</h2>
+</header>
+<div class="about-container" id="about-panel">
+
+<div class="section" id="quick-guide-section">
+<h3>⚡ Snabbguide & Tangentbordsgenvägar</h3>
+<div class="guide-section">
+<div class="guide-step"><span class="step-number">1</span><div class="step-content"><strong>Markera text</strong> i vilket program som helst</div></div>
+<div class="guide-step"><span class="step-number">2</span><div class="step-content"><strong>Tryck Ctrl+C</strong> för att kopiera</div></div>
+<div class="guide-step"><span class="step-number">3</span><div class="step-content"><strong>Tryck Ctrl+P</strong> för att starta <strong>NY</strong> chatt med Atlas</div></div>
+<div class="guide-step"><span class="step-number">4</span><div class="step-content">Eller tryck <strong>Ctrl+Alt+P</strong> för att ställa en <strong>följdfråga</strong> i samma chatt</div></div>
+</div>
+
+<div class="shortcut-list" style="margin-top: 16px;">
+<div class="shortcut-item"><div><kbd>Ctrl</kbd> + <kbd>P</kbd></div><span>Ny fråga (Rensar minnet)</span></div>
+<div class="shortcut-item"><div><kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>P</kbd></div><span>Följdfråga (Behåller minnet)</span></div>
+<div class="shortcut-item"><div><kbd>Ctrl</kbd> + <kbd>S</kbd></div><span>Spara mall</span></div>
+<div class="shortcut-item"><div><kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd></div><span>Byt tema</span></div>
+</div>
+</div>
+
+<div class="section" id="appearance-section">
+<h3>🎨 Utseende</h3>
+<div class="setting-item">
+<label for="theme-select">Välj tema</label>
+<select id="theme-select">
+<option value="standard-theme">Standard Vision ⚡</option>
+<option value="chrome-light">Chrome Light ✨</option>
+<option value="apple-dark">Apple Dark 🍏</option>
+<option value="apple-road">Apple Road 🛣️</option>
+<option value="atlas-nebula">Atlas Nebula 🌌</option>
+<option value="sunset-horizon">Sunset Horizon 🌅</option>
+<option value="atlas-navigator">Atlas Navigator 🧭</option>
+</select>
+</div>
+</div>
+
+<div class="section" id="app-info-section">
+<h3>ℹ️ Applikationsinformation</h3>
+<div class="info-item"><span class="info-label">Atlas Version (Klient):</span> <span id="app-version-display">...</span></div>
+<div class="info-item"><span class="info-label">Server Version (Backend):</span> <span id="server-version-display">...</span></div>
+<div class="info-item" style="justify-content: space-between;">
+<span class="info-label">Serverstatus:</span>
+<span id="server-status" style="color:#f1c40f; font-weight:700;">● Ansluter...</span>
+</div>
+<div class="info-item"><span class="info-label">Tillverkare:</span> <span>P.Åkerhage</span></div>
+</div>
+</div>
+
+</div>
+</main>
+</div>
+
+<script src="./assets/js/quill.js"></script>
+<script src="./renderer.js"></script>
+
+<div id="atlas-modal" class="modal-overlay" style="display: none;">
+<div class="modal-content">
+<div class="modal-header">
+<h3 id="modal-title">Bekräfta</h3>
+</div>
+<div class="modal-body">
+<p id="modal-message">Är du säker?</p>
+</div>
+<div class="modal-footer">
+<button id="modal-cancel" class="header-button" style="background: #444;">Avbryt</button>
+<button id="modal-confirm" class="header-button" style="background: var(--accent-color, #28a745);">Bekräfta</button>
+</div>
+</div>
+</div>
+
+</body>
+</html>

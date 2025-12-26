@@ -1,0 +1,370 @@
+{
+  "id": "martenssons_trafikskola_vaxjo",
+  "name": "Mårtenssons Trafikskola – Växjö",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Växjö",
+  "description": "Välkommen till Mårtenssons Trafikskola i Växjö! Mitt i Växjö, där lokala traditioner som ostkaka och massipan-tååta står i fokus, valde Mårtenssons att slå upp sina portar och välkomna besökare. Tänk dig att kunna resa utan att anpassa dig efter tidtabeller eller vänta i regn och kyla.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "växjö",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "047 – 051 52 10",
+    "email": "vaxjo@trafikskolan.com",
+    "address": "Nygatan 8, 352 33 Växjö"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "Stängt"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "persiska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Växjö"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1249,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Taxi körbedömning BIL",
+      "price": 1200,
+      "currency": "SEK",
+      "keywords": [
+        "taxi",
+        "körbedömning",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10699,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11699,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 17299,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Risk 2 BIL",
+      "price": 2399,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 6249,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4399,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 14199,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 20299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Intensivvecka MC",
+      "price": 21999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivvecka",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1399,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 6699,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 13199,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "motorcykel",
+        "kurs",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    },
+    {
+      "service_name": "Risk 2 MC",
+      "price": 3399,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "mc",
+        "motorcykel",
+        "kurs",
+        "pris",
+        "kostnad",
+        "växjö"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200027&locationId=200022",
+    "MC": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200027&locationId=200022",
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200027&locationId=200022&serviceId=454"
+  }
+}

@@ -1,0 +1,78 @@
+=== TESTRESULTAT 2025-12-26 09:28:48 ===
+
+FAIL [50]: fact_basfakta_korkortstillstand_s1
+Q: Hur ansöker jag (Bil/MC/Moped)?
+A: För att ansöka om körkortstillstånd för bil, MC eller moped gör du följande:
+
+1. Gå till Transportstyrelsens hemsida och välj tjänsten **'Ansök om körkortstillstånd'**.
+2. Fyll i hälsodeklarationen digitalt, där du svarar på frågor om din hälsa.
+3. Gör ett synprov hos en optiker eller hos oss. Optikern skickar oftast in intyget digitalt direkt till Transportstyrelsen.
+
+Om du har fler frågor eller behöver hjälp med något annat, tveka inte att fråga!
+
+✅ [Boka din AM-kurs här](https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200036&locationId=200029&serviceId=465)
+Missing: ansökan,e-tjänst,hur ansöker
+
+FAIL [54]: fact_basfakta_korkortstillstand_s5
+Q: Vad gäller för giltighetstid och förlängning?
+A: Dina köpta paket och lektioner är giltiga i **24 månader** (2 år) från inköpsdatumet. Efter detta datum förfaller outnyttjade lektioner och kan inte återbetalas.
+Missing: ansöka om nytt,förlänga,gammalt
+
+FAIL [75]: fact_basfakta_lektioner_paket_bil_s7
+Q: Hur fungerar Intensivkurs (2 veckor)?
+A: Intensivkursen pågår i **två veckor** och inkluderar:
+
+- **16 körlektioner**
+- **Risk 1** (cirka 3,5 timmar)
+- **Risk 2** (4–5 timmar)
+- Teori
+
+Det är viktigt att du kan köra dagtid varje vardag under dessa veckor. Målet är att boka prov i anslutning till kursens slut, men detta beror på Trafikverkets väntetider.
+
+Om du har fler frågor eller behöver hjälp med bokning, tveka inte att höra av dig!
+
+✅ [Boka din körlektion här](https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200034&locationId=200033)
+Missing: 2 veckor,hur fungerar
+
+FAIL [80]: fact_basfakta_lektioner_paket_mc_s2
+Q: Vad ingår i Lektionspaket för MC?
+A: I Lektionspaket för MC ingår enbart körlektioner till ett rabatterat pris. Det passar dig som redan har gjort riskutbildningarna eller teorin, eller som behöver komplettera med fler lektioner. Här är priserna för Lektionspaket i olika städer:
+
+- **Lektionspaket 5 MC i Trelleborg:** **6199 SEK**
+- **Lektionspaket 10 MC i Trelleborg:** **12199 SEK**
+- **Lektionspaket 5 MC i Växjö:** **6699 SEK**
+- **Lektionspaket 10 MC i Växjö:** **13199 SEK**
+- **Lektionspaket 5 MC i Ystad:** **6499 SEK**
+
+✅ [Boka din MC-kurs här](https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200036&locationId=200029)
+Missing: 10 lektioner,5 lektioner,antal
+
+FAIL [94]: fact_basfakta_mc_lektioner_utbildning_s1
+Q: När är MC-säsongen? (Vinteruppehåll)
+A: MC-säsongen på Stora Holm är öppen från **april till oktober**. Under denna period kan du träna motorcykel under dagtid. Vinteruppehållet inträffar alltså från **november till mars**. Om du har fler frågor eller behöver mer information, kan du kontakta Göteborg-supporten på **031 336 26 65**.
+
+✅ [Boka din MC-kurs här](https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200036&locationId=200029)
+Missing: halka,när börjar ni,när slutar ni
+
+FAIL [107]: fact_basfakta_nollutrymme_s4
+Q: Vad gäller för hej?
+A: Hej! Jag är din virtuella assistent. Jag kan svara på frågor om körkort, priser och bokning. Vad funderar du på?
+Missing: tjena,hallå,god morgon
+
+FAIL [108]: fact_basfakta_nollutrymme_s5
+Q: Vad gäller för tack?
+A: Varsågod! Bara att fråga om du undrar något mer.
+Missing: tack så mycket,tusen tack,schysst
+
+FAIL [143]: fact_basfakta_riskutbildning_bil_mc_s4
+Q: Gäller Riskutbildning för Bil även för MC?
+A: Nej, Riskutbildningarna är behörighetsspecifika. Om du har gått Risk 1 och 2 för bil måste du ändå gå Risk 1 och 2 för MC om du ska ta MC-kort, och tvärtom. De är helt separata kurser.
+
+✅ [Boka din MC-kurs här](https://mydrivingacademy.com/two-wheels/home/)
+Missing: bil till mc,gäller både,gäller den
+
+FAIL [148]: fact_basfakta_saknade_svar_s0
+Q: Vad gäller för jag förstår inte frågan (fallback)?
+A: Jag hittar ingen information i vår kunskapsbas om det här.
+Missing: fallback,inget svar,förstår inte
+

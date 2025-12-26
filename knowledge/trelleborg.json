@@ -1,0 +1,326 @@
+{
+  "id": "martenssons_trafikskola_trelleborg",
+  "name": "Mårtenssons Trafikskola – Trelleborg",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Trelleborg",
+  "description": "Välkommen till Mårtenssons Trafikskola i Trelleborg! Redo att ta körkort? Oavsett om du är nybörjare eller har övat privat, är du välkommen hos Mårtenssons Trafikskola i Trelleborg! Vi utbildar alla, oavsett bakgrund eller behov, på moped, bil, släp och motorcykel.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "trelleborg",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "041 – 01 00 08",
+    "email": "trelleborg@trafikskolan.com",
+    "address": "Nygatan 12, 231 43 Trelleborg"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 - 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "Svenska",
+    "danska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Trelleborg"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1199,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Körbedömning för sökande till Trafiklärarutbildningen BIL",
+      "price": 1200,
+      "currency": "SEK",
+      "keywords": [
+        "körbedömning",
+        "trafiklärarutbildningen",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15399,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5699,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11099,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4199,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 13499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 19199,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1299,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 6199,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 12199,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "motorcykel",
+        "kurs",
+        "pris",
+        "kostnad",
+        "trelleborg"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200036&locationId=200029",
+    "MC": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200036&locationId=200029",
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200036&locationId=200029&serviceId=465"
+  }
+}

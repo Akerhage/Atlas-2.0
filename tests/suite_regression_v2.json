@@ -1,0 +1,1885 @@
+{
+  "name": "Generated Regression Suite V2",
+  "created": "2025-12-23T12:45:08.196Z",
+  "tests": [
+    {
+      "id": "critical_FAKTURA_ADRESS_MTS",
+      "question": "Fakturaadress mårtenssons?",
+      "required_keywords": [
+        "fakturaadress",
+        "PDF-fakturor",
+        "Mårtenssons"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "critical_FAKTURA_ADRESS_MDA",
+      "question": "Fakturaadress mda?",
+      "required_keywords": [
+        "fakturaadress",
+        "PDF-fakturor",
+        "Driving"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "critical_ÅNGERRÄTT_POLICY",
+      "question": "Ångerrätt?",
+      "required_keywords": [
+        "Enligt",
+        "policy",
+        "dagars"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "critical_AM_INGÅR_UTFÖRLIGT",
+      "question": "Vad ingår i am?",
+      "required_keywords": [
+        "AM-kursen",
+        "ingår:",
+        "timmar"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "critical_CHIT_CHAT_HEJ",
+      "question": "Hej?",
+      "required_keywords": [
+        "virtuella",
+        "assistent",
+        "frågor"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "critical_CHIT_CHAT_TACK",
+      "question": "Tack?",
+      "required_keywords": [
+        "Varsågod!",
+        "undrar"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "critical_CHIT_CHAT_IDENTITET",
+      "question": "Vem är du?",
+      "required_keywords": [
+        "AI-assistent",
+        "Mårtenssons",
+        "Trafikskola"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "critical_HUMAN_HANDOVER",
+      "question": "Prata med en människa?",
+      "required_keywords": [
+        "Självklart",
+        "support",
+        "telefon"
+      ],
+      "source_file": "basfakta_nollutrymme.json"
+    },
+    {
+      "id": "helsingborg_halsobacken_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Helsingborg?",
+      "required_keywords": [
+        "1249",
+        "Helsingborg"
+      ],
+      "source_file": "helsingborg_halsobacken.json"
+    },
+    {
+      "id": "malmo_limhamn_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Malmö?",
+      "required_keywords": [
+        "10999",
+        "Malmö"
+      ],
+      "source_file": "malmo_limhamn.json"
+    },
+    {
+      "id": "kungsbacka_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Kungsbacka?",
+      "required_keywords": [
+        "10999",
+        "Kungsbacka"
+      ],
+      "source_file": "kungsbacka.json"
+    },
+    {
+      "id": "angelholm_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Ängelholm?",
+      "required_keywords": [
+        "10999",
+        "Ängelholm"
+      ],
+      "source_file": "angelholm.json"
+    },
+    {
+      "id": "gavle_price_Testlektion",
+      "question": "Vad kostar Testlektion BIL i Gävle?",
+      "required_keywords": [
+        "899",
+        "Gävle"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "malmo_bulltofta_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Malmö?",
+      "required_keywords": [
+        "10999",
+        "Malmö"
+      ],
+      "source_file": "malmo_bulltofta.json"
+    },
+    {
+      "id": "landskrona_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Landskrona?",
+      "required_keywords": [
+        "10999",
+        "Landskrona"
+      ],
+      "source_file": "landskrona.json"
+    },
+    {
+      "id": "goteborg_vastra_frolunda_price_Testlektion",
+      "question": "Vad kostar Testlektion Bil i Göteborg?",
+      "required_keywords": [
+        "999",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_vastra_frolunda.json"
+    },
+    {
+      "id": "kalmar_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Kalmar?",
+      "required_keywords": [
+        "10999",
+        "Kalmar"
+      ],
+      "source_file": "kalmar.json"
+    },
+    {
+      "id": "angelholm_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Ängelholm?",
+      "required_keywords": [
+        "799",
+        "Ängelholm"
+      ],
+      "source_file": "angelholm.json"
+    },
+    {
+      "id": "angelholm_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Ängelholm?",
+      "required_keywords": [
+        "1249",
+        "Ängelholm"
+      ],
+      "source_file": "angelholm.json"
+    },
+    {
+      "id": "eslov_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Eslöv?",
+      "required_keywords": [
+        "799",
+        "Eslöv"
+      ],
+      "source_file": "eslov.json"
+    },
+    {
+      "id": "lund_sodertull_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Lund?",
+      "required_keywords": [
+        "1199",
+        "Lund"
+      ],
+      "source_file": "lund_sodertull.json"
+    },
+    {
+      "id": "hassleholm_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Hässleholm?",
+      "required_keywords": [
+        "10999",
+        "Hässleholm"
+      ],
+      "source_file": "hassleholm.json"
+    },
+    {
+      "id": "goteborg_molndal_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Göteborg?",
+      "required_keywords": [
+        "899",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molndal.json"
+    },
+    {
+      "id": "lund_katedral_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Lund?",
+      "required_keywords": [
+        "1199",
+        "Lund"
+      ],
+      "source_file": "lund_katedral.json"
+    },
+    {
+      "id": "goteborg_hogsbo_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Göteborg?",
+      "required_keywords": [
+        "1349",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_hogsbo.json"
+    },
+    {
+      "id": "goteborg_molnlycke_price_Testlektion",
+      "question": "Vad kostar Testlektion BIL i Göteborg?",
+      "required_keywords": [
+        "999",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molnlycke.json"
+    },
+    {
+      "id": "linkoping_price_Testlektion",
+      "question": "Vad kostar Testlektion BIL i Linköping?",
+      "required_keywords": [
+        "699",
+        "Linköping"
+      ],
+      "source_file": "linkoping.json"
+    },
+    {
+      "id": "gavle_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Gävle?",
+      "required_keywords": [
+        "799",
+        "Gävle"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "goteborg_molndal_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Göteborg?",
+      "required_keywords": [
+        "2399",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molndal.json"
+    },
+    {
+      "id": "eslov_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Eslöv?",
+      "required_keywords": [
+        "10999",
+        "Eslöv"
+      ],
+      "source_file": "eslov.json"
+    },
+    {
+      "id": "malmo_bulltofta_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Malmö?",
+      "required_keywords": [
+        "1149",
+        "Malmö"
+      ],
+      "source_file": "malmo_bulltofta.json"
+    },
+    {
+      "id": "goteborg_molndal_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Göteborg?",
+      "required_keywords": [
+        "1349",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molndal.json"
+    },
+    {
+      "id": "hollviken_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Höllviken?",
+      "required_keywords": [
+        "10999",
+        "Höllviken"
+      ],
+      "source_file": "hollviken.json"
+    },
+    {
+      "id": "hassleholm_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Hässleholm?",
+      "required_keywords": [
+        "2399",
+        "Hässleholm"
+      ],
+      "source_file": "hassleholm.json"
+    },
+    {
+      "id": "goteborg_molndal_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Göteborg?",
+      "required_keywords": [
+        "10999",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molndal.json"
+    },
+    {
+      "id": "helsingborg_city_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Helsingborg?",
+      "required_keywords": [
+        "799",
+        "Helsingborg"
+      ],
+      "source_file": "helsingborg_city.json"
+    },
+    {
+      "id": "kungsbacka_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Kungsbacka?",
+      "required_keywords": [
+        "1349",
+        "Kungsbacka"
+      ],
+      "source_file": "kungsbacka.json"
+    },
+    {
+      "id": "lund_katedral_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Lund?",
+      "required_keywords": [
+        "10999",
+        "Lund"
+      ],
+      "source_file": "lund_katedral.json"
+    },
+    {
+      "id": "goteborg_storaholm_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Göteborg?",
+      "required_keywords": [
+        "2399",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_storaholm.json"
+    },
+    {
+      "id": "kristianstad_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Kristianstad?",
+      "required_keywords": [
+        "799",
+        "Kristianstad"
+      ],
+      "source_file": "kristianstad.json"
+    },
+    {
+      "id": "malmo_limhamn_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Malmö?",
+      "required_keywords": [
+        "799",
+        "Malmö"
+      ],
+      "source_file": "malmo_limhamn.json"
+    },
+    {
+      "id": "stockholm_sodermalm_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Stockholm?",
+      "required_keywords": [
+        "1349",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_sodermalm.json"
+    },
+    {
+      "id": "malmo_sodervarn_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Malmö?",
+      "required_keywords": [
+        "1149",
+        "Malmö"
+      ],
+      "source_file": "malmo_sodervarn.json"
+    },
+    {
+      "id": "landskrona_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Landskrona?",
+      "required_keywords": [
+        "799",
+        "Landskrona"
+      ],
+      "source_file": "landskrona.json"
+    },
+    {
+      "id": "eslov_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Eslöv?",
+      "required_keywords": [
+        "1149",
+        "Eslöv"
+      ],
+      "source_file": "eslov.json"
+    },
+    {
+      "id": "goteborg_ullevi_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Göteborg?",
+      "required_keywords": [
+        "2399",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_ullevi.json"
+    },
+    {
+      "id": "stockholm_ostermalm_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_ostermalm.json"
+    },
+    {
+      "id": "malmo_vastra_hamnen_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Malmö?",
+      "required_keywords": [
+        "799",
+        "Malmö"
+      ],
+      "source_file": "malmo_vastra_hamnen.json"
+    },
+    {
+      "id": "goteborg_hogsbo_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Göteborg?",
+      "required_keywords": [
+        "899",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_hogsbo.json"
+    },
+    {
+      "id": "linkoping_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Linköping?",
+      "required_keywords": [
+        "10999",
+        "Linköping"
+      ],
+      "source_file": "linkoping.json"
+    },
+    {
+      "id": "stockholm_enskededalen_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Stockholm?",
+      "required_keywords": [
+        "2249",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_enskededalen.json"
+    },
+    {
+      "id": "stockholm_kungsholmen_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Stockholm?",
+      "required_keywords": [
+        "1349",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_kungsholmen.json"
+    },
+    {
+      "id": "gavle_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Gävle?",
+      "required_keywords": [
+        "2249",
+        "Gävle"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "goteborg_ullevi_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Göteborg?",
+      "required_keywords": [
+        "10999",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_ullevi.json"
+    },
+    {
+      "id": "goteborg_molnlycke_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Göteborg?",
+      "required_keywords": [
+        "2399",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molnlycke.json"
+    },
+    {
+      "id": "goteborg_hogsbo_price_Testlektion",
+      "question": "Vad kostar Testlektion BIL i Göteborg?",
+      "required_keywords": [
+        "999",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_hogsbo.json"
+    },
+    {
+      "id": "goteborg_molnlycke_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Göteborg?",
+      "required_keywords": [
+        "1349",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molnlycke.json"
+    },
+    {
+      "id": "hollviken_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Höllviken?",
+      "required_keywords": [
+        "1199",
+        "Höllviken"
+      ],
+      "source_file": "hollviken.json"
+    },
+    {
+      "id": "stockholm_djursholm_price_Risk2",
+      "question": "Vad kostar Risk 2 BIL i Stockholm?",
+      "required_keywords": [
+        "2249",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_djursholm.json"
+    },
+    {
+      "id": "goteborg_storaholm_price_Risk1",
+      "question": "Vad kostar Risk 1 MC i Göteborg?",
+      "required_keywords": [
+        "899",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_storaholm.json"
+    },
+    {
+      "id": "malmo_city_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Malmö?",
+      "required_keywords": [
+        "799",
+        "Malmö"
+      ],
+      "source_file": "malmo_city.json"
+    },
+    {
+      "id": "malmo_vastra_hamnen_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Malmö?",
+      "required_keywords": [
+        "1149",
+        "Malmö"
+      ],
+      "source_file": "malmo_vastra_hamnen.json"
+    },
+    {
+      "id": "malmo_triangeln_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Malmö?",
+      "required_keywords": [
+        "1149",
+        "Malmö"
+      ],
+      "source_file": "malmo_triangeln.json"
+    },
+    {
+      "id": "goteborg_ullevi_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Göteborg?",
+      "required_keywords": [
+        "1349",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_ullevi.json"
+    },
+    {
+      "id": "kristianstad_price_AM",
+      "question": "Vad kostar AM Mopedutbildning i Kristianstad?",
+      "required_keywords": [
+        "10999",
+        "Kristianstad"
+      ],
+      "source_file": "kristianstad.json"
+    },
+    {
+      "id": "stockholm_enskededalen_price_Risk1",
+      "question": "Vad kostar Risk 1 BIL i Stockholm?",
+      "required_keywords": [
+        "899",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_enskededalen.json"
+    },
+    {
+      "id": "gavle_price_Körlektion",
+      "question": "Vad kostar Körlektion Bil i Gävle?",
+      "required_keywords": [
+        "1349",
+        "Gävle"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "stockholm_ostermalm_price_Testlektion",
+      "question": "Vad kostar Testlektion BIL i Stockholm?",
+      "required_keywords": [
+        "699",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_ostermalm.json"
+    },
+    {
+      "id": "hollviken_contact_addr",
+      "question": "Var ligger trafikskolan i Höllviken?",
+      "required_keywords": [
+        "Höllviken"
+      ],
+      "source_file": "hollviken.json"
+    },
+    {
+      "id": "stockholm_sodermalm_contact_addr",
+      "question": "Var ligger trafikskolan i Stockholm?",
+      "required_keywords": [
+        "Stockholm"
+      ],
+      "source_file": "stockholm_sodermalm.json"
+    },
+    {
+      "id": "goteborg_vastra_frolunda_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Göteborg?",
+      "required_keywords": [
+        "Göteborg"
+      ],
+      "source_file": "goteborg_vastra_frolunda.json"
+    },
+    {
+      "id": "gavle_contact_addr",
+      "question": "Var ligger trafikskolan i Gävle?",
+      "required_keywords": [
+        "Gävle"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "hassleholm_contact_addr",
+      "question": "Var ligger trafikskolan i Hässleholm?",
+      "required_keywords": [
+        "Hässleholm"
+      ],
+      "source_file": "hassleholm.json"
+    },
+    {
+      "id": "ystad_contact_addr",
+      "question": "Var ligger trafikskolan i Ystad?",
+      "required_keywords": [
+        "Ystad"
+      ],
+      "source_file": "ystad.json"
+    },
+    {
+      "id": "malmo_triangeln_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Malmö?",
+      "required_keywords": [
+        "Malmö"
+      ],
+      "source_file": "malmo_triangeln.json"
+    },
+    {
+      "id": "ystad_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Ystad?",
+      "required_keywords": [
+        "Ystad"
+      ],
+      "source_file": "ystad.json"
+    },
+    {
+      "id": "stockholm_enskededalen_contact_addr",
+      "question": "Var ligger trafikskolan i Stockholm?",
+      "required_keywords": [
+        "Stockholm"
+      ],
+      "source_file": "stockholm_enskededalen.json"
+    },
+    {
+      "id": "stockholm_osteraker_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Stockholm?",
+      "required_keywords": [
+        "Stockholm"
+      ],
+      "source_file": "stockholm_osteraker.json"
+    },
+    {
+      "id": "stockholm_kungsholmen_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Stockholm?",
+      "required_keywords": [
+        "Stockholm"
+      ],
+      "source_file": "stockholm_kungsholmen.json"
+    },
+    {
+      "id": "uppsala_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Uppsala?",
+      "required_keywords": [
+        "Uppsala"
+      ],
+      "source_file": "uppsala.json"
+    },
+    {
+      "id": "linkoping_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Linköping?",
+      "required_keywords": [
+        "Linköping"
+      ],
+      "source_file": "linkoping.json"
+    },
+    {
+      "id": "kalmar_contact_addr",
+      "question": "Var ligger trafikskolan i Kalmar?",
+      "required_keywords": [
+        "Kalmar"
+      ],
+      "source_file": "kalmar.json"
+    },
+    {
+      "id": "malmo_limhamn_contact_addr",
+      "question": "Var ligger trafikskolan i Malmö?",
+      "required_keywords": [
+        "Malmö"
+      ],
+      "source_file": "malmo_limhamn.json"
+    },
+    {
+      "id": "trelleborg_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Trelleborg?",
+      "required_keywords": [
+        "Trelleborg"
+      ],
+      "source_file": "trelleborg.json"
+    },
+    {
+      "id": "eslov_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Eslöv?",
+      "required_keywords": [
+        "Eslöv"
+      ],
+      "source_file": "eslov.json"
+    },
+    {
+      "id": "malmo_city_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Malmö?",
+      "required_keywords": [
+        "Malmö"
+      ],
+      "source_file": "malmo_city.json"
+    },
+    {
+      "id": "malmo_bulltofta_contact_addr",
+      "question": "Var ligger trafikskolan i Malmö?",
+      "required_keywords": [
+        "Malmö"
+      ],
+      "source_file": "malmo_bulltofta.json"
+    },
+    {
+      "id": "vellinge_contact_addr",
+      "question": "Var ligger trafikskolan i Vellinge?",
+      "required_keywords": [
+        "Vellinge"
+      ],
+      "source_file": "vellinge.json"
+    },
+    {
+      "id": "kristianstad_contact_addr",
+      "question": "Var ligger trafikskolan i Kristianstad?",
+      "required_keywords": [
+        "Kristianstad"
+      ],
+      "source_file": "kristianstad.json"
+    },
+    {
+      "id": "vaxjo_contact_addr",
+      "question": "Var ligger trafikskolan i Växjö?",
+      "required_keywords": [
+        "Växjö"
+      ],
+      "source_file": "vaxjo.json"
+    },
+    {
+      "id": "gavle_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Gävle?",
+      "required_keywords": [
+        "Gävle"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "malmo_sodervarn_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Malmö?",
+      "required_keywords": [
+        "Malmö"
+      ],
+      "source_file": "malmo_sodervarn.json"
+    },
+    {
+      "id": "lund_sodertull_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Lund?",
+      "required_keywords": [
+        "Lund"
+      ],
+      "source_file": "lund_sodertull.json"
+    },
+    {
+      "id": "kungsbacka_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Kungsbacka?",
+      "required_keywords": [
+        "Kungsbacka"
+      ],
+      "source_file": "kungsbacka.json"
+    },
+    {
+      "id": "goteborg_molnlycke_contact_addr",
+      "question": "Var ligger trafikskolan i Göteborg?",
+      "required_keywords": [
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molnlycke.json"
+    },
+    {
+      "id": "stockholm_osteraker_contact_addr",
+      "question": "Var ligger trafikskolan i Stockholm?",
+      "required_keywords": [
+        "Stockholm"
+      ],
+      "source_file": "stockholm_osteraker.json"
+    },
+    {
+      "id": "hassleholm_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Hässleholm?",
+      "required_keywords": [
+        "Hässleholm"
+      ],
+      "source_file": "hassleholm.json"
+    },
+    {
+      "id": "lund_katedral_contact_tel",
+      "question": "Vad är telefonnumret till kontoret i Lund?",
+      "required_keywords": [
+        "Lund"
+      ],
+      "source_file": "lund_katedral.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s0",
+      "question": "Hur tar man körkort? (Översikt av processen)",
+      "required_keywords": [
+        "12 steg",
+        "börja ta körkort",
+        "hur gör man"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_saknade_svar_s1",
+      "question": "Vad vet du om kontakta support (fallback)?",
+      "required_keywords": [
+        "support",
+        "kontakt",
+        "ring"
+      ],
+      "source_file": "basfakta_saknade_svar.json"
+    },
+    {
+      "id": "basfakta_riskutbildning_bil_mc_s3",
+      "question": "Vad är Risktvåan för MC?",
+      "required_keywords": [
+        "bana",
+        "bromsning",
+        "hastighet"
+      ],
+      "source_file": "basfakta_riskutbildning_bil_mc.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s1",
+      "question": "Vilka är kraven för att få ett AM-körkort?",
+      "required_keywords": [
+        "am",
+        "mopedkörkort",
+        "krävs"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s0",
+      "question": "Vad är ett AM-körkort (moped klass 1, EU-moppe)?",
+      "required_keywords": [
+        "am",
+        "eu-moppe",
+        "ingen skillnad"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s3",
+      "question": "Hur lång är en MC-lektion (Solo vs Duo)?",
+      "required_keywords": [
+        "100 min",
+        "80 min",
+        "80 minuter"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s3",
+      "question": "Vad är Risk 1 och Risk 2 för MC?",
+      "required_keywords": [
+        "bana",
+        "halkbana",
+        "innehåll"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s6",
+      "question": "Vad vet du om steg 6: riskettan (risk 1)?",
+      "required_keywords": [
+        "alkohol",
+        "droger",
+        "obligatorisk"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_mc_a_a1_a2_s0",
+      "question": "Vad vet du om a1-körkort (lätt motorcykel)?",
+      "required_keywords": [
+        "0,1 kw/kg",
+        "11kw",
+        "125cc"
+      ],
+      "source_file": "basfakta_mc_a_a1_a2.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s11",
+      "question": "Vad vet du om steg 11: uppkörningen (körprov)?",
+      "required_keywords": [
+        "30-40 minuter",
+        "förarprovet",
+        "förarprövare"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s5",
+      "question": "Ingår Trafikverkets avgifter i paketen?",
+      "required_keywords": [
+        "avgifter",
+        "betala",
+        "fotografering"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s3",
+      "question": "Hur lång är AM-kursen?",
+      "required_keywords": [
+        "17 timmar",
+        "320 minuter",
+        "10 timmar teori"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_personbil_b_s0",
+      "question": "Vad vet du om åldersgräns för b-körkort?",
+      "required_keywords": [
+        "16 år",
+        "18 år",
+        "B"
+      ],
+      "source_file": "basfakta_personbil_b.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s9",
+      "question": "Vad vet du om bokning av am-kurs?",
+      "required_keywords": [
+        "am",
+        "anmäla",
+        "bokning"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s10",
+      "question": "Vad vet du om steg 10: teoriprovet (kunskapsprov)?",
+      "required_keywords": [
+        "52 rätt",
+        "70 frågor",
+        "godkänd"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s7",
+      "question": "Får man låna MC-kläder och utrustning?",
+      "required_keywords": [
+        "handskar",
+        "hjälm",
+        "kläder"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s1",
+      "question": "Vad vet du om steg 1: körkortstillstånd och synprov?",
+      "required_keywords": [
+        "150 kr",
+        "16 år",
+        "5 år"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_mc_a_a1_a2_s6",
+      "question": "Var erbjuder ni MC-utbildning?",
+      "required_keywords": [
+        "göteborg",
+        "helsingborg",
+        "hässleholm"
+      ],
+      "source_file": "basfakta_mc_a_a1_a2.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s3",
+      "question": "Vad vet du om avbokningsregler för am-kurs (moped)?",
+      "required_keywords": [
+        "1 vecka",
+        "7 dagar",
+        "am-kurs"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_introduktionskurs_handledarkurs_bil_s3",
+      "question": "Vad vet du om krav på eleven (ålder och tillstånd)?",
+      "required_keywords": [
+        "15 år och 9 månader",
+        "16 år",
+        "elevens ålder"
+      ],
+      "source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s7",
+      "question": "Vad vet du om prov och uppkörning för am-körkort?",
+      "required_keywords": [
+        "am",
+        "körprov",
+        "prov"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s6",
+      "question": "Vad är en Prova-på-uppkörning (Utbildningskontroll)?",
+      "required_keywords": [
+        "bedömning",
+        "fejkad uppkörning",
+        "genrep"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s13",
+      "question": "Vad vet du om privat övningskörning för moped (am)?",
+      "required_keywords": [
+        "am",
+        "inte tillåtet",
+        "moped"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_om_foretaget_s5",
+      "question": "Vad vet du om företagsuppgifter & support - my driving academy?",
+      "required_keywords": [
+        "010-20 70 775",
+        "email",
+        "företagsuppgifter"
+      ],
+      "source_file": "basfakta_om_foretaget.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s8",
+      "question": "Vad vet du om skillnad moped klass 1 och eu-moppe?",
+      "required_keywords": [
+        "am",
+        "eu-moppe",
+        "ingen skillnad"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_mc_a_a1_a2_s4",
+      "question": "Vad vet du om trehjulig och fyrhjulig mc (regler)?",
+      "required_keywords": [
+        "21 år",
+        "atv",
+        "b-kort"
+      ],
+      "source_file": "basfakta_mc_a_a1_a2.json"
+    },
+    {
+      "id": "basfakta_korkortsteori_mitt_korkort_s6",
+      "question": "Kan jag använda appen på datorn?",
+      "required_keywords": [
+        "bluestacks",
+        "dator",
+        "mac"
+      ],
+      "source_file": "basfakta_korkortsteori_mitt_korkort.json"
+    },
+    {
+      "id": "basfakta_mc_a_a1_a2_s1",
+      "question": "Vad vet du om a2-körkort (mellanstor motorcykel)?",
+      "required_keywords": [
+        "0,2 kw/kg",
+        "18 år",
+        "35kw"
+      ],
+      "source_file": "basfakta_mc_a_a1_a2.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s6",
+      "question": "Vad vet du om kör extra försiktigt under prövotiden?",
+      "required_keywords": [
+        "2 år",
+        "am",
+        "körkort"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s9",
+      "question": "Integritetspolicy och GDPR (Hur hanterar ni mina uppgifter?)",
+      "required_keywords": [
+        "data",
+        "gdpr",
+        "integritet"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s0",
+      "question": "Vad vet du om testlektion för mc (endast inför intensivkurs)?",
+      "required_keywords": [
+        "bedömning",
+        "boka testlektion",
+        "inför intensivkurs"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_korkortsteori_mitt_korkort_s5",
+      "question": "Vad vet du om statistik: bemästra frågorna för att klara provet?",
+      "required_keywords": [
+        "90%",
+        "900 frågor",
+        "bemästra"
+      ],
+      "source_file": "basfakta_korkortsteori_mitt_korkort.json"
+    },
+    {
+      "id": "basfakta_om_foretaget_s6",
+      "question": "Vad vet du om företagsuppgifter & support - mårtenssons trafikskola?",
+      "required_keywords": [
+        "010-333 32 31",
+        "företagsuppgifter",
+        "kontakt"
+      ],
+      "source_file": "basfakta_om_foretaget.json"
+    },
+    {
+      "id": "basfakta_introduktionskurs_handledarkurs_bil_s1",
+      "question": "Vad vet du om krav för att bli handledare?",
+      "required_keywords": [
+        "15 elever",
+        "24 år",
+        "5 år"
+      ],
+      "source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+    },
+    {
+      "id": "basfakta_riskutbildning_bil_mc_s8",
+      "question": "Vad är Nollvisionen?",
+      "required_keywords": [
+        "dödas",
+        "ingen",
+        "nollvisionen"
+      ],
+      "source_file": "basfakta_riskutbildning_bil_mc.json"
+    },
+    {
+      "id": "basfakta_personbil_b_s5",
+      "question": "Får jag dra släp på vanligt B-körkort?",
+      "required_keywords": [
+        "3500 kg",
+        "750 kg",
+        "b-kort"
+      ],
+      "source_file": "basfakta_personbil_b.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s7",
+      "question": "Var startar körlektionerna (Bana eller Trafik)?",
+      "required_keywords": [
+        "bana",
+        "börja",
+        "gillinge"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_korkortsteori_mitt_korkort_s1",
+      "question": "Kostar appen något? (Gratis vs Premium)",
+      "required_keywords": [
+        "betala",
+        "engångskostnad",
+        "gratis"
+      ],
+      "source_file": "basfakta_korkortsteori_mitt_korkort.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s6",
+      "question": "Gäller VAB som giltig frånvaro?",
+      "required_keywords": [
+        "giltig frånvaro",
+        "räknas inte",
+        "vab"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_riskutbildning_bil_mc_s2",
+      "question": "Vad är Riskettan för MC?",
+      "required_keywords": [
+        "attityder",
+        "gäller ej bil",
+        "mc"
+      ],
+      "source_file": "basfakta_riskutbildning_bil_mc.json"
+    },
+    {
+      "id": "basfakta_lastbil_c_ce_c1_c1e_s5",
+      "question": "Vad vet du om ykb grundutbildning (140 timmar)?",
+      "required_keywords": [
+        "140 timmar",
+        "18 år",
+        "grundutbildning"
+      ],
+      "source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+    },
+    {
+      "id": "basfakta_om_foretaget_s0",
+      "question": "Är Mårtenssons Trafikskola och My Driving Academy samma företag?",
+      "required_keywords": [
+        "41 kontor",
+        "antal kontor",
+        "mda"
+      ],
+      "source_file": "basfakta_om_foretaget.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s7",
+      "question": "Hur fungerar Intensivkurs (2 veckor)?",
+      "required_keywords": [
+        "2 veckor",
+        "flexibel",
+        "hur fungerar"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_riskutbildning_bil_mc_s6",
+      "question": "I vilken ordning ska jag göra Risk 1 och Risk 2?",
+      "required_keywords": [
+        "början",
+        "i vilken ordning",
+        "när göra"
+      ],
+      "source_file": "basfakta_riskutbildning_bil_mc.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s8",
+      "question": "Vilka motorcyklar kör ni med?",
+      "required_keywords": [
+        "hoj",
+        "hög",
+        "kawasaki"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_introduktionskurs_handledarkurs_bil_s8",
+      "question": "Vad vet du om viktigt: ta med id-handling!?",
+      "required_keywords": [
+        "glömt id",
+        "id-handling",
+        "legitimation"
+      ],
+      "source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+    },
+    {
+      "id": "basfakta_personbil_b_s3",
+      "question": "Vad vet du om manuell vs automat (kod 78)?",
+      "required_keywords": [
+        "automat",
+        "automatkörkort",
+        "begränsning"
+      ],
+      "source_file": "basfakta_personbil_b.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s2",
+      "question": "Vad ingår i Lektionspaket för MC?",
+      "required_keywords": [
+        "10 lektioner",
+        "5 lektioner",
+        "antal"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_korkortsteori_mitt_korkort_s4",
+      "question": "Vad vet du om andra funktioner: boka och chatta?",
+      "required_keywords": [
+        "avboka",
+        "boka",
+        "chatta"
+      ],
+      "source_file": "basfakta_korkortsteori_mitt_korkort.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s9",
+      "question": "Vad vet du om extra stöd för återfallselever?",
+      "required_keywords": [
+        "anpassning",
+        "gammalt körkort",
+        "indraget"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_korkortstillstand_s2",
+      "question": "Behövs läkarintyg för bil (Grupp 1)?",
+      "required_keywords": [
+        "adhd",
+        "diabetes",
+        "diagnos"
+      ],
+      "source_file": "basfakta_korkortstillstand.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s6",
+      "question": "Hur lång är en MC-lektion (Solo vs Duo)?",
+      "required_keywords": [
+        "100 min",
+        "80 min",
+        "80 minuter"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_lastbil_c_ce_c1_c1e_s6",
+      "question": "Vad vet du om ykb fortbildning (35 timmar)?",
+      "required_keywords": [
+        "35 timmar",
+        "delkurser",
+        "fortbildning"
+      ],
+      "source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+    },
+    {
+      "id": "basfakta_korkortstillstand_s0",
+      "question": "Vad är ett körkortstillstånd?",
+      "required_keywords": [
+        "körkortsprov",
+        "körkortstillstånd",
+        "obligatoriskt"
+      ],
+      "source_file": "basfakta_korkortstillstand.json"
+    },
+    {
+      "id": "basfakta_introduktionskurs_handledarkurs_bil_s5",
+      "question": "Hur lång är kursen och vad ingår?",
+      "required_keywords": [
+        "3,5 timmar",
+        "hur lång tid",
+        "kaffe"
+      ],
+      "source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+    },
+    {
+      "id": "basfakta_personbil_b_s6",
+      "question": "Kan en 17-åring övningsköra?",
+      "required_keywords": [
+        "16 år",
+        "17 år",
+        "17-åring"
+      ],
+      "source_file": "basfakta_personbil_b.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s6",
+      "question": "Hur länge gäller MC-paketen?",
+      "required_keywords": [
+        "2 år",
+        "24 månader",
+        "giltighet"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s2",
+      "question": "Vad vet du om avbokningsregler för halkbana (risk 2)?",
+      "required_keywords": [
+        "4 vardagar",
+        "avboka",
+        "halkbana"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s8",
+      "question": "Hur länge gäller mina köpta paket? (Giltighetstid)",
+      "required_keywords": [
+        "2 år",
+        "24 månader",
+        "förfaller"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_lastbil_c_ce_c1_c1e_s8",
+      "question": "Vad vet du om kontakt och bokning för tung trafik?",
+      "required_keywords": [
+        "010-188 83 26",
+        "boka lastbil",
+        "kontakt"
+      ],
+      "source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+    },
+    {
+      "id": "basfakta_korkortstillstand_s7",
+      "question": "Vad vet du om körkortstillstånd för lastbil/buss (grupp 2/3)?",
+      "required_keywords": [
+        "buss",
+        "grupp 2",
+        "grupp 3"
+      ],
+      "source_file": "basfakta_korkortstillstand.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s2",
+      "question": "Hur många körlektioner behövs för MC?",
+      "required_keywords": [
+        "15",
+        "20",
+        "antal"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s9",
+      "question": "Hur länge gäller MC-paketen?",
+      "required_keywords": [
+        "2 år",
+        "24 månader",
+        "giltighet"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s4",
+      "question": "Vad ingår i Totalpaket för MC?",
+      "required_keywords": [
+        "alla moment",
+        "ingår",
+        "innehåll"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_riskutbildning_bil_mc_s7",
+      "question": "Vad vet du om viktiga regler: id, tid och nykterhet?",
+      "required_keywords": [
+        "alkotest",
+        "försent",
+        "id-handling"
+      ],
+      "source_file": "basfakta_riskutbildning_bil_mc.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s7",
+      "question": "Vad vet du om ångerrätt och återbetalning (14 dagar)?",
+      "required_keywords": [
+        "10%",
+        "14 dagar",
+        "administrativ avgift"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s5",
+      "question": "Vad vet du om platser, tider och prisstandard för am-kurs?",
+      "required_keywords": [
+        "am",
+        "kontor",
+        "kostnad"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_introduktionskurs_handledarkurs_bil_s7",
+      "question": "Vad vet du om giltighetstid?",
+      "required_keywords": [
+        "5 år",
+        "giltighet",
+        "giltighetstid"
+      ],
+      "source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+    },
+    {
+      "id": "basfakta_om_foretaget_s2",
+      "question": "Vad vet du om hemsida för mårtenssons trafikskola?",
+      "required_keywords": [
+        "hemsida",
+        "länk",
+        "mts"
+      ],
+      "source_file": "basfakta_om_foretaget.json"
+    },
+    {
+      "id": "basfakta_lastbil_c_ce_c1_c1e_s4",
+      "question": "Vad är YKB (Yrkeskompetensbevis)?",
+      "required_keywords": [
+        "arbeta",
+        "jobba",
+        "lagkrav"
+      ],
+      "source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s4",
+      "question": "Får man låna MC-kläder och utrustning?",
+      "required_keywords": [
+        "handskar",
+        "hjälm",
+        "kläder"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s5",
+      "question": "Vad gäller vid sjukdom? (Läkarintyg)",
+      "required_keywords": [
+        "debitering",
+        "inom 1 vecka",
+        "läkarintyg"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_om_foretaget_s3",
+      "question": "Hur många klarar proven på första försöket?",
+      "required_keywords": [
+        "70%",
+        "första försöket",
+        "godkända"
+      ],
+      "source_file": "basfakta_om_foretaget.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s0",
+      "question": "Hur många körlektioner behövs för MC?",
+      "required_keywords": [
+        "15",
+        "20",
+        "antal"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_lastbil_c_ce_c1_c1e_s0",
+      "question": "Vad är C-körkort (Tung lastbil)?",
+      "required_keywords": [
+        "c",
+        "c-körkort",
+        "lastbil"
+      ],
+      "source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s2",
+      "question": "Vad är åldersgränsen för AM-kurs?",
+      "required_keywords": [
+        "14 år",
+        "14 år och 9 månader",
+        "14,5 år"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_riskutbildning_bil_mc_s4",
+      "question": "Gäller Riskutbildning för Bil även för MC?",
+      "required_keywords": [
+        "bil till mc",
+        "byta",
+        "gäller både"
+      ],
+      "source_file": "basfakta_riskutbildning_bil_mc.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s5",
+      "question": "Vad ingår i Lektionspaket för MC?",
+      "required_keywords": [
+        "10 lektioner",
+        "5 lektioner",
+        "antal"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s1",
+      "question": "Vad vet du om avbokningsregler för kurser (risk 1, intro)?",
+      "required_keywords": [
+        "12:00",
+        "avboka",
+        "handledarkurs"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_korkortstillstand_s8",
+      "question": "Vad vet du om åldersgräns för ansökan?",
+      "required_keywords": [
+        "ansöka",
+        "hur gammal",
+        "ingen åldersgräns"
+      ],
+      "source_file": "basfakta_korkortstillstand.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s5",
+      "question": "Vad vet du om steg 5: plugga teori med appen?",
+      "required_keywords": [
+        "1000 frågor",
+        "1000 teorifrågor",
+        "appen"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s0",
+      "question": "Vad är en Testlektion (Provlektion)?",
+      "required_keywords": [
+        "bedömning",
+        "boka testlektion",
+        "en gång"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s4",
+      "question": "Vad vet du om avbokningsregler för mc-intensivkurs?",
+      "required_keywords": [
+        "14 dagar",
+        "2 veckor",
+        "avboka"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_mc_a_a1_a2_s2",
+      "question": "Vad vet du om a-körkort (tung motorcykel)?",
+      "required_keywords": [
+        "20 år",
+        "21 år",
+        "24 år"
+      ],
+      "source_file": "basfakta_mc_a_a1_a2.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s2",
+      "question": "Vad vet du om steg 2: gå handledarutbildningen?",
+      "required_keywords": [
+        "handledare",
+        "handledarkurs",
+        "handledarutbildning"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s4",
+      "question": "Vad vet du om steg 4: ta körlektioner med våra licensierade lärare?",
+      "required_keywords": [
+        "80 min",
+        "dubbellektioner",
+        "helger"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s3",
+      "question": "Vad vet du om våra lektionspaket (minipaket, mellanpaket, baspaket)?",
+      "required_keywords": [
+        "10 lektioner",
+        "15 lektioner",
+        "5 lektioner"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_riskutbildning_bil_mc_s0",
+      "question": "Vad är Riskettan för Bil (Risk 1)?",
+      "required_keywords": [
+        "3,5 timmar",
+        "alkohol",
+        "bil"
+      ],
+      "source_file": "basfakta_riskutbildning_bil_mc.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s4",
+      "question": "Vad vet du om våra totalpaket (startpaket med kurser)?",
+      "required_keywords": [
+        "allt i ett",
+        "halkbana",
+        "ingår"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s1",
+      "question": "Vad ingår i Totalpaket för MC?",
+      "required_keywords": [
+        "alla moment",
+        "ingår",
+        "innehåll"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_bil_s8",
+      "question": "Hur länge är paketen giltiga?",
+      "required_keywords": [
+        "2 år",
+        "24 månader",
+        "giltighet"
+      ],
+      "source_file": "basfakta_lektioner_paket_bil.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s12",
+      "question": "Behöver jag körkortstillstånd för AM?",
+      "required_keywords": [
+        "am",
+        "behöver",
+        "krävs"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_am_kort_och_kurser_s10",
+      "question": "Vad vet du om am-kurs i göteborg?",
+      "required_keywords": [
+        "am",
+        "bokningslänk",
+        "erbjuder"
+      ],
+      "source_file": "basfakta_am_kort_och_kurser.json"
+    },
+    {
+      "id": "basfakta_introduktionskurs_handledarkurs_bil_s4",
+      "question": "Måste elev och handledare gå kursen samtidigt?",
+      "required_keywords": [
+        "gå tillsammans",
+        "olika tillfällen",
+        "samma tid"
+      ],
+      "source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+    },
+    {
+      "id": "basfakta_lastbil_c_ce_c1_c1e_s2",
+      "question": "Vad är skillnaden på C1 och C? (Medeltung vs Tung)",
+      "required_keywords": [
+        "7500 kg",
+        "c",
+        "c1"
+      ],
+      "source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+    },
+    {
+      "id": "basfakta_lektioner_paket_mc_s5",
+      "question": "Vad är skillnaden på Totalpaket och Lektionspaket (MC)?",
+      "required_keywords": [
+        "bara körlektioner",
+        "jämförelse",
+        "lektionspaket"
+      ],
+      "source_file": "basfakta_lektioner_paket_mc.json"
+    },
+    {
+      "id": "basfakta_mc_lektioner_utbildning_s10",
+      "question": "Var startar körlektionerna (Bana eller Trafik)?",
+      "required_keywords": [
+        "bana",
+        "börja",
+        "gillinge"
+      ],
+      "source_file": "basfakta_mc_lektioner_utbildning.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s9",
+      "question": "Vad vet du om steg 9: boka körkortsprov?",
+      "required_keywords": [
+        "boka prov",
+        "förarprov",
+        "godkänd"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    },
+    {
+      "id": "basfakta_policy_kundavtal_s11",
+      "question": "Vad vet du om kontakt och support?",
+      "required_keywords": [
+        "010-333 32 31",
+        "chatta",
+        "kontakt"
+      ],
+      "source_file": "basfakta_policy_kundavtal.json"
+    },
+    {
+      "id": "basfakta_be_b96_s1",
+      "question": "Hur tar man BE-körkort (Tungt släp)?",
+      "required_keywords": [
+        "4 timmar",
+        "be",
+        "be-boken"
+      ],
+      "source_file": "basfakta_be_b96.json"
+    },
+    {
+      "id": "basfakta_be_b96_s2",
+      "question": "Vad är skillnaden mellan B96 och BE?",
+      "required_keywords": [
+        "3500 kg",
+        "4250 kg",
+        "b96"
+      ],
+      "source_file": "basfakta_be_b96.json"
+    },
+    {
+      "id": "basfakta_12_stegsguide_bil_s12",
+      "question": "Vad vet du om steg 12: prövotiden?",
+      "required_keywords": [
+        "2 år",
+        "förarprov",
+        "göra om prov"
+      ],
+      "source_file": "basfakta_12_stegsguide_bil.json"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "martenssons_trafikskola_helsingborg_halsobacken",
+  "name": "Mårtenssons Trafikskola - Helsingborg – Hälsobacken",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Helsingborg",
+  "area": "Hälsobacken",
+  "description": "Välkommen till Mårtenssons Trafikskola på Helsingborg Hälsobacken! Vi finns i hjärtat av staden och sätter alltid dig i fokus. Hos oss får du en trygg och engagerad utbildning där vi når ditt körkortsmål tillsammans – med erfarenhet, gemenskap och glädje!",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "helsingborg",
+    "hälsobacken",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "042 – 301 78 82",
+    "email": "helsingborg.halsobacken@trafikskolan.com",
+    "address": "S:t Jörgen Plats 8, 252 21 Helsingborg"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 - 14:00"
+    }
+  ],
+  "services_offered": [
+    "Bil"
+  ],
+  "languages": [
+    "svenska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1249,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10699,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11699,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 17299,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "helsingborg",
+        "hälsobacken"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200035&locationId=200035",
+    "MC": null,
+    "AM": null
+  }
+}

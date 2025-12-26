@@ -1,0 +1,139 @@
+{
+"section_title": "BASFAKTA - Lastbil (C, C1, CE, YKB)",
+"source_info": "Information om körkortsbehörigheter för lastbil samt YKB (Yrkeskompetensbevis).",
+"sections": [
+{
+"title": "Vad är C-körkort (Tung lastbil)?",
+"answer": "Med C-körkort får du köra tunga lastbilar utan någon övre viktgräns. Du får också dra en lätt släpvagn (totalvikt högst 750 kg). För att få arbeta som lastbilschaufför krävs oftast även YKB.",
+"keywords": [
+"c",
+"c-körkort",
+"lastbil",
+"tung lastbil",
+"utan viktgräns",
+"vad är",
+"yrkesförare"
+]
+},
+{
+"title": "Vad är CE-körkort (Tung lastbil med släp)?",
+"answer": "Med CE-körkort får du köra tung lastbil (samma som C) och dessutom dra en eller flera släpvagnar utan viktgräns. Detta är den högsta behörigheten för lastbil.",
+"keywords": [
+"ce",
+"ce-körkort",
+"släpvagn",
+"tung lastbil",
+"tungt släp",
+"vad är"
+]
+},
+{
+"title": "Vad är skillnaden på C1 och C? (Medeltung vs Tung)",
+"answer": "C1 är för medeltunga lastbilar med en totalvikt på högst 7 500 kg (ofta husbilar eller lätta distributionsbilar). C-körkort har ingen övre viktgräns och gäller för alla tunga lastbilar.",
+"keywords": [
+"7500 kg",
+"c",
+"c1",
+"husbil",
+"medeltung",
+"skillnad",
+"tung",
+"viktgräns"
+]
+},
+{
+"title": "Krav för att ta lastbilskörkort",
+"answer": "För att ta C eller CE krävs: 1. Att du har svenskt B-körkort. 2. Att du har ett giltigt körkortstillstånd för Grupp 2 (vilket kräver läkarintyg). 3. Du måste vara 21 år (eller 18 år om du går en YKB-utbildning samtidigt).",
+"keywords": [
+"b-körkort",
+"giltigt",
+"grundkrav",
+"grupp 2",
+"krav",
+"körkortstillstånd",
+"lastbil",
+"läkarintyg",
+"ålder"
+]
+},
+{
+"title": "Vad är YKB (Yrkeskompetensbevis)?",
+"answer": "YKB står för Yrkeskompetensbevis och är ett lagkrav för att få arbeta som lastbils- eller bussförare. Utöver körkortet måste du alltså gå en YKB-utbildning för att få köra godstransporter mot betalning.",
+"keywords": [
+"arbeta",
+"jobba",
+"lagkrav",
+"vad är ykb",
+"ykb",
+"yrkesförare",
+"yrkeskompetensbevis"
+]
+},
+{
+"title": "YKB Grundutbildning (140 timmar)",
+"answer": "Om du tar lastbilskörkort för första gången och ska jobba som chaufför behöver du gå YKB Grundutbildning. Den är normalt 140 timmar och avslutas med ett prov hos Trafikverket. Går du denna utbildning får du ta C-körkort redan vid 18 års ålder.",
+"keywords": [
+"140 timmar",
+"18 år",
+"grundutbildning",
+"ny förare",
+"prov",
+"ykb",
+"ykb grund"
+]
+},
+{
+"title": "YKB Fortbildning (35 timmar)",
+"answer": "Du som redan har YKB måste förnya det vart 5:e år genom en fortbildning. Den är totalt 35 timmar uppdelad på 5 delkurser. Vi erbjuder dessa kurser löpande.",
+"keywords": [
+"35 timmar",
+"delkurser",
+"fortbildning",
+"förnya",
+"giltighetstid",
+"vart 5 år",
+"ykb",
+"ykb fortbildning"
+]
+},
+{
+"title": "Var erbjuder ni lastbilsutbildning (C/CE/YKB)?",
+"answer": "Vi erbjuder utbildning för tung trafik (Lastbil och YKB) i Stockholm, Göteborg, Malmö, Hässleholm och Kristianstad.",
+"keywords": [
+"göteborg",
+"hässleholm",
+"kristianstad",
+"lastbil",
+"malmö",
+"stockholm",
+"var finns ni",
+"var utbildar ni"
+]
+},
+{
+"title": "Kontakt och Bokning för Tung Trafik",
+"answer": "Eftersom utbildning för tung trafik ofta kräver individuell planering bokas detta inte direkt på hemsidan. Kontakta vår specialiserade support för hjälp och offert på telefon 010-188 83 26 eller via mejl på tungtrafik@trafikskolan.com.",
+"keywords": [
+"010-188 83 26",
+"boka lastbil",
+"kontakt",
+"offert",
+"pris",
+"ring",
+"support",
+"tungtrafik@trafikskolan.com"
+]
+},
+{
+"title": "Vad är C1E-körkort?",
+"answer": "C1E är för medeltunga lastbilar (max 7 500 kg) med tungt släp. Den sammanlagda totalvikten för bil och släp får inte överstiga 12 000 kg.",
+"keywords": [
+"12000 kg",
+"c1e",
+"medeltung med släp",
+"släp",
+"totalvikt"
+]
+}
+]
+}

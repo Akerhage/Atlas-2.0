@@ -1,0 +1,163 @@
+{
+"section_title": "BASFAKTA - Körkortstillstånd",
+"source_info": "Information från Transportstyrelsens regler om Körkortstillstånd (Hälsa, Vandel, Ansökan).",
+"sections": [
+{
+"title": "Vad är ett körkortstillstånd?",
+"answer": "Ett körkortstillstånd är ett beslut från Transportstyrelsen som visar att du uppfyller kraven (hälsa och laglydnad) för att få övningsköra och ta körkort. Det är obligatoriskt att ha ett giltigt tillstånd innan du får börja övningsköra, oavsett om det är privat eller på trafikskola.",
+"keywords": [
+"körkortsprov",
+"körkortstillstånd",
+"obligatoriskt",
+"tillstånd",
+"transportstyrelsen",
+"vad är",
+"övningsköra"
+]
+},
+{
+"title": "Hur ansöker jag (Bil/MC/Moped)?",
+"answer": "Du ansöker via tjänsten 'Ansök om körkortstillstånd' på Transportstyrelsens hemsida. Processen har två steg: 1. Fyll i hälsodeklarationen digitalt (svara på frågor om din hälsa). 2. Gör ett synprov hos en optiker eller hos oss. Optikern skickar oftast in intyget digitalt direkt till Transportstyrelsen.",
+"keywords": [
+"ansökan",
+"bil",
+"e-tjänst",
+"hur ansöker",
+"hälsodeklaration",
+"mc",
+"moped",
+"optiker",
+"process",
+"synintyg",
+"syntest",
+"transportstyrelsen"
+]
+},
+{
+"title": "Behövs läkarintyg för bil (Grupp 1)?",
+"answer": "Nej, normalt krävs inget läkarintyg för personbil, moped eller MC (Grupp 1). Du behöver bara göra ett syntest. Läkarintyg krävs endast om du har en specifik diagnos (t.ex. diabetes, ADHD) där Transportstyrelsen begär in en utredning, eller om du ska ta körkort för lastbil/buss (Grupp 2/3).",
+"keywords": [
+"adhd",
+"diabetes",
+"diagnos",
+"grupp 1",
+"inget läkarintyg",
+"inte",
+"läkarintyg",
+"nej",
+"syntest"
+]
+},
+{
+"title": "Vad kostar det?",
+"answer": "Att ansöka om körkortstillstånd hos Transportstyrelsen är gratis. Det som kostar pengar är synundersökningen hos optikern (ofta ca 150 kr).",
+"keywords": [
+"150 kr",
+"ansökan",
+"avgift",
+"gratis",
+"kostnad",
+"pris",
+"synundersökning",
+"vad kostar"
+]
+},
+{
+"title": "Hur lång tid tar det (Handläggningstid)?",
+"answer": "Om din ansökan är komplett (hälsodeklaration + synprov) och du inte har några anmärkningar i register, får du ofta tillståndet inom 2-4 veckor. Om Transportstyrelsen behöver utreda din hälsa eller vandel (brott/nykterhet) kan det ta flera månader.",
+"keywords": [
+"4 veckor",
+"fyra veckor",
+"handläggningstid",
+"hur lång tid",
+"när får jag",
+"utredning",
+"väntetid"
+]
+},
+{
+"title": "Giltighetstid och Förlängning av körkortstillstånd",
+"answer": "Ett körkortstillstånd är giltigt i 5 år. Det går inte att förlänga; om det går ut måste du ansöka om ett nytt.",
+"keywords": [
+"5 år",
+"ansöka om nytt",
+"förlänga",
+"gammalt",
+"giltighetstid tillstånd",
+"giltigt tillstånd",
+"gått ut",
+"hur länge gäller tillståndet",
+"inte förlänga",
+"tillstånd giltighetstid",
+"körkortstillstånd giltigt",
+"förlänga tillstånd",
+"nytt tillstånd"
+]
+},
+{
+"title": "Krav på hälsa och vandel (Varför nekas man?)",
+"answer": "Transportstyrelsen prövar din lämplighet. De tittar på om du är medicinskt lämplig (inga farliga sjukdomar) och din vandel (om du förekommer i polisens belastningsregister, t.ex. för rattfylleri, narkotikabrott eller våldsbrott). Anmärkningar kan leda till avslag eller krav på alkolås/provtagning.",
+"keywords": [
+"alkolås",
+"avslag",
+"belastningsregister",
+"brott",
+"hälsa",
+"lämplighet",
+"nekad",
+"polisen",
+"rattfylleri",
+"vandel"
+]
+},
+{
+"title": "Körkortstillstånd för Lastbil/Buss (Grupp 2/3)",
+"answer": "För tung behörighet (C, CE, D) krävs högre medicinska krav. Då räcker inte ett syntest, utan du måste skicka in ett läkarintyg utfärdat av en läkare. Ansökan görs för Grupp 2 eller 3.",
+"keywords": [
+"buss",
+"grupp 2",
+"grupp 3",
+"lastbil",
+"läkarintyg",
+"läkarundersökning",
+"tung behörighet"
+]
+},
+{
+"title": "Körkortstillstånd för MC",
+"answer": "Precis som för bil krävs ett giltigt körkortstillstånd (Grupp 1) för att få övningsköra MC. Det ansöker du om hos Transportstyrelsen. Kom ihåg att göra ett syntest hos optikern.",
+"keywords": [
+"ansöka",
+"grupp 1",
+"giltigt",
+"krav",
+"körkortstillstånd",
+"mc",
+"syntest",
+"transportstyrelsen",
+"övningsköra"
+]
+},
+{
+"title": "Behöver jag körkortstillstånd för AM?",
+"answer": "Ja, körkortstillstånd krävs för att få ett AM-körkort. Du måste ansöka hos Transportstyrelsen.",
+"keywords": [
+"am",
+"behöver",
+"krävs",
+"körkortstillstånd"]
+},
+{
+"title": "Åldersgräns för ansökan",
+"answer": "Det finns ingen åldersgräns för att ansöka om körkortstillstånd, men du får inte börja övningsköra förrän du nått rätt ålder för fordonet (t.ex. 16 år för bil, 14 år och 9 månader för AM-kurs).",
+"keywords": [
+"ansöka",
+"hur gammal",
+"ingen åldersgräns",
+"startålder",
+"söka",
+"ålder"
+]
+}
+]
+}

@@ -1,0 +1,289 @@
+/* ═══════════════════════════════════════════════════════════════
+ATLAS NEBULA — Kosmiskt Rymd Premium Theme
+Bakgrund: Image 3 (nebula med cyan/lila/magenta)
+Fil: atlas-nebula/atlas-nebula.css
+═══════════════════════════════════════════════════════════════ */
+
+:root {
+--bg-image: url("./atlas-nebula-bg1.jpg");
+--bg-color: #0f0c29;
+
+--bg-dark-primary: #12102a;
+--bg-dark-secondary: #1a1640;
+--bg-dark-tertiary: #252050;
+--text-primary: #e0f2fe;
+--text-secondary: #a5b4fc;
+--accent-primary: #00f2ff;
+--accent-hover: #c084fc;
+--border-color: rgba(0,242,255,0.15);
+
+--group-bg: rgba(0,242,255,0.08);
+--group-hover: rgba(192,132,252,0.2);
+--group-text: #00f2ff;
+--group-border: rgba(0,242,255,0.35);
+--group-shadow: rgba(0,242,255,0.15);
+--group-shadow-hover: rgba(192,132,252,0.4);
+--item-bg: rgba(37,32,80,0.9);
+--item-hover: rgba(0,242,255,0.18);
+--item-border: rgba(0,242,255,0.25);
+--accent: #00f2ff;
+
+--bg-frosty-sidebar: rgba(15,12,41,0.85);
+--bg-frosty-header: rgba(26,22,64,0.82);
+--bg-frosty-content: rgba(30,26,70,0.8);
+--bg-frosty-bubble-atlas: rgba(37,32,80,0.92);
+--bg-frosty-bubble-user: linear-gradient(135deg, #00f2ff 0%, #c084fc 100%);
+--bg-frosty-input-area: rgba(26,22,64,0.85);
+--bg-frosty-input-field: rgba(37,32,80,0.9);
+--blur-amount: 32px;
+
+--glow-cyan: 0 0 35px rgba(0,242,255,0.5);
+--glow-purple: 0 0 30px rgba(192,132,252,0.5);
+--transition-fast: 0.25s cubic-bezier(0.4,0,0.2,1);
+--transition-slow: 0.5s cubic-bezier(0.25,0.46,0.45,0.94);
+}
+
+body {
+background: var(--bg-image) center/cover no-repeat fixed;
+background-color: var(--bg-color);
+color: var(--text-primary);
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+position: relative;
+}
+
+/* Stjärneffekt */
+body::before {
+content: "";
+position: fixed;
+top: 0; left: 0; right: 0; bottom: 0;
+background: 
+radial-gradient(2px 2px at 20% 30%, rgba(255,255,255,0.8), transparent),
+radial-gradient(1px 1px at 80% 70%, rgba(255,255,255,0.6), transparent),
+radial-gradient(2px 2px at 40% 80%, rgba(0,242,255,0.5), transparent);
+background-size: 200px 200px, 300px 300px, 250px 250px;
+animation: twinkle 8s linear infinite;
+pointer-events: none;
+opacity: 0.6;
+}
+@keyframes twinkle {
+0%, 100% { opacity: 0.6; }
+50% { opacity: 0.4; }
+}
+
+.sidebar, .chat-header, .chat-input-area, .about-container,
+.template-editor-container, .template-list-container {
+backdrop-filter: blur(var(--blur-amount)) saturate(180%);
+-webkit-backdrop-filter: blur(var(--blur-amount)) saturate(180%);
+background: var(--bg-frosty-sidebar);
+border: 1px solid var(--border-color);
+box-shadow: 0 12px 50px rgba(0,0,0,0.6),
+inset 0 1px 0 rgba(255,255,255,0.1),
+0 0 50px rgba(0,242,255,0.12),
+0 0 80px rgba(192,132,252,0.08);
+transition: var(--transition-slow);
+border-radius: 20px;
+overflow: hidden;
+}
+
+.sidebar:hover, .about-container:hover {
+box-shadow: 0 16px 64px rgba(0,0,0,0.7),
+0 0 60px rgba(0,242,255,0.2),
+0 0 100px rgba(192,132,252,0.15);
+transform: translateY(-2px);
+}
+
+.sidebar-logo {
+filter: drop-shadow(0 4px 18px rgba(0,242,255,0.5));
+transition: var(--transition-slow);
+}
+.sidebar:hover .sidebar-logo {
+transform: translateY(-12px) scale(1.15) rotate(5deg);
+filter: drop-shadow(0 16px 40px rgba(0,242,255,0.6))
+drop-shadow(0 8px 30px rgba(192,132,252,0.4));
+}
+
+.menu-item {
+color: var(--text-secondary);
+border-radius: 14px;
+margin: 4px 8px;
+padding: 12px 16px;
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+.menu-item::before {
+content: '';
+position: absolute;
+left: -100%; top: 0;
+width: 100%; height: 100%;
+background: linear-gradient(90deg, transparent, rgba(0,242,255,0.2), rgba(192,132,252,0.1), transparent);
+transition: left 0.7s;
+}
+.menu-item:hover {
+background: rgba(0,242,255,0.1);
+color: var(--accent-primary);
+transform: translateX(6px);
+box-shadow: 0 4px 18px rgba(0,242,255,0.2);
+}
+.menu-item:hover::before { left: 100%; }
+.menu-item.active {
+background: linear-gradient(90deg, rgba(0,242,255,0.2), rgba(192,132,252,0.1));
+color: #fff;
+border-left: 4px solid var(--accent-primary);
+font-weight: 700;
+box-shadow: var(--glow-cyan);
+}
+
+.message .bubble {
+border-radius: 18px;
+padding: 14px 18px;
+transition: all var(--transition-fast);
+box-shadow: 0 4px 20px rgba(0,0,0,0.45);
+backdrop-filter: blur(12px);
+}
+.message.atlas .bubble {
+background: var(--bg-frosty-bubble-atlas);
+border: 1px solid rgba(0,242,255,0.15);
+}
+.message.atlas .bubble:hover {
+transform: translateY(-3px);
+box-shadow: 0 8px 35px rgba(0,0,0,0.55);
+}
+.message.user .bubble {
+background: var(--bg-frosty-bubble-user);
+color: #0f0c29;
+box-shadow: 0 6px 30px rgba(0,242,255,0.4), 0 4px 20px rgba(192,132,252,0.3);
+}
+.message.user .bubble:hover {
+box-shadow: 0 10px 45px rgba(0,242,255,0.55), 0 6px 30px rgba(192,132,252,0.4);
+}
+
+#send-button, .header-button {
+background: linear-gradient(135deg, #00f2ff 0%, #c084fc 100%);
+color: #0f0c29;
+border-radius: 14px;
+font-weight: 600;
+box-shadow: 0 4px 20px rgba(0,242,255,0.4), 0 2px 15px rgba(192,132,252,0.3);
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+#send-button:hover, .header-button:hover {
+transform: translateY(-3px);
+box-shadow: 0 8px 35px rgba(0,242,255,0.55), 0 4px 25px rgba(192,132,252,0.45);
+}
+#send-button::after, .header-button::after {
+content: '';
+position: absolute;
+top: 50%; left: 50%;
+width: 0; height: 0;
+background: rgba(255,255,255,0.3);
+border-radius: 50%;
+transform: translate(-50%,-50%);
+transition: width 0.6s, height 0.6s;
+}
+#send-button:active::after, .header-button:active::after {
+width: 300px; height: 300px;
+}
+
+#chat-form:focus-within {
+box-shadow: 0 0 40px rgba(0,242,255,0.4), 0 0 60px rgba(192,132,252,0.25);
+border-color: var(--accent-primary);
+}
+
+::-webkit-scrollbar { width: 12px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+background: linear-gradient(180deg, #00f2ff, #c084fc, #e91e63);
+border-radius: 10px;
+box-shadow: 0 0 25px rgba(0,242,255,0.6);
+}
+
+#server-status {
+color: #00ff9d;
+font-weight: 700;
+text-shadow: 0 0 20px #00ff9d;
+animation: breathe 4s ease-in-out infinite;
+}
+@keyframes breathe {
+0%, 100% { text-shadow: 0 0 20px #00ff9d; }
+50% { text-shadow: 0 0 40px #00ff9d, 0 0 60px #00ff9d; }
+}
+
+.guide-step {
+background: linear-gradient(135deg, rgba(0,242,255,0.12), rgba(192,132,252,0.08));
+border-left: 5px solid var(--accent-primary);
+border-radius: 12px;
+transition: all var(--transition-fast);
+backdrop-filter: blur(10px);
+}
+.guide-step:hover {
+transform: translateX(8px);
+box-shadow: 0 6px 30px rgba(0,242,255,0.25), 0 4px 20px rgba(192,132,252,0.15);
+}
+.step-number {
+background: linear-gradient(135deg, #00f2ff, #c084fc);
+color: #0f0c29;
+border-radius: 50%;
+width: 40px; height: 40px;
+display: flex; align-items: center; justify-content: center;
+font-weight: 700;
+box-shadow: var(--glow-cyan), var(--glow-purple);
+}
+
+.shortcut-item {
+background: rgba(0,242,255,0.06);
+border-radius: 12px;
+transition: all var(--transition-fast);
+backdrop-filter: blur(10px);
+}
+.shortcut-item:hover {
+background: linear-gradient(90deg, rgba(0,242,255,0.15), rgba(192,132,252,0.1));
+border-left: 3px solid var(--accent-primary);
+transform: translateX(8px);
+box-shadow: 0 4px 22px rgba(0,242,255,0.22);
+}
+.shortcut-item kbd {
+background: linear-gradient(135deg, #00f2ff, #c084fc);
+color: #0f0c29;
+border-radius: 8px;
+padding: 6px 12px;
+font-weight: 600;
+box-shadow: 0 3px 12px rgba(0,242,255,0.5);
+}
+
+#message-input:focus {
+outline: none;
+box-shadow: 0 0 35px rgba(0,242,255,0.4);
+}
+
+.status-lamp-dot.green {
+background-color: #00ff9d;
+box-shadow: 0 0 22px #00ff9d, 0 0 45px rgba(0,255,157,0.5);
+}
+
+.nav-badge {
+    /* "Supernova Red" - En explosiv röd/rosa/lila blandning som lyser i rymden */
+    background: linear-gradient(135deg, #ff0055, #ff00cc) !important;
+    box-shadow: 0 0 25px rgba(255, 0, 85, 0.8) !important;
+    color: white !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8); /* Stjärnglans på texten */
+    border: 1px solid rgba(255, 0, 204, 0.4);
+}
+
+/* Anpassade taggar för rymdtemat */
+.tag-chatt {
+    /* Neongrön Alien-färg */
+    background: rgba(57, 255, 20, 0.1) !important;
+    color: #39ff14 !important;
+    text-shadow: 0 0 8px rgba(57, 255, 20, 0.6);
+    border: 1px solid rgba(57, 255, 20, 0.3);
+}
+
+.tag-form {
+    /* Cyan Laser-färg */
+    background: rgba(0, 243, 255, 0.1) !important;
+    color: #00f3ff !important;
+    text-shadow: 0 0 8px rgba(0, 243, 255, 0.6);
+    border: 1px solid rgba(0, 243, 255, 0.3);
+}

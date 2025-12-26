@@ -1,0 +1,235 @@
+{
+  "id": "martenssons_trafikskola_malmo_vastra_hamnen",
+  "name": "Mårtenssons Trafikskola - Malmö - Västra Hamnen",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Malmö",
+  "area": "Västra Hamnen",
+  "description": "Välkommen till Mårtenssons Trafikskola Västra Hamnen! Dags för körkort eller en ny behörighet? Välkommen till Mårtenssons Trafikskola i Malmö! Våra erfarna lärare och personal ser till att din resa blir smidig och lärorik.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "malmö",
+    "västra hamnen",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "040 – 643 42 84",
+    "email": "malmo.vastra.hamnen@trafikskolan.com",
+    "address": "Lilla Varvsgatan 20, 211 75 Malmö"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "Stängt"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Malmö",
+        "Västra Hamnen"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1149,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 9999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 14999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5549,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 10599,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 3999,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5799,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "malmö",
+        "västra hamnen"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200038&locationId=200040",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200038&locationId=200040"
+  }
+}

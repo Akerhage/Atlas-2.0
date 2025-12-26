@@ -1,0 +1,30 @@
+# ========= Logs =========
+*.log
+server_log.txt
+test_log.txt
+
+# ========= Node =========
+node_modules/
+
+# ========= Env =========
+.env
+
+# ========= DB (lokal state) =========
+atlas.db
+atlas.db-shm
+atlas.db-wal
+
+# ========= Binaries / Tools =========
+ngrok.exe
+sqlite3.exe
+
+# ========= Build output =========
+dist/
+win-unpacked/
+
+# ========= OS =========
+.DS_Store
+Thumbs.db
+
+# ========= Auto =========
+package-lock.json

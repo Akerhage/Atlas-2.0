@@ -1,0 +1,329 @@
+{
+  "id": "martenssons_trafikskola_malmo_sodervarn",
+  "name": "Mårtenssons Trafikskola - Malmö – Södervärn",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Malmö",
+  "area": "Södervärn",
+  "description": "Välkommen till Mårtenssons Trafikskola Södervärn! Mårtenssons hjärta och största skola! Med 15 lärare och 300 års samlad erfarenhet erbjuder vi utbildning för alla körkortsbehörigheter i nyrenoverade lokaler.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "malmö",
+    "södervärn",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "040 – 643 42 85",
+    "email": "malmo.sodervarn@trafikskolan.com",
+    "address": "Södervärnsgatan 1B, 214 27, Malmö"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 – 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "engelska",
+    "svenska",
+    "arabiska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Malmö",
+        "Södervärn"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1149,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 9999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 14999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5549,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 10599,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 13499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 19199,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1299,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 6199,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 12199,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Intensivvecka MC",
+      "price": 20999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivvecka",
+        "mc",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5799,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 3999,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "malmö",
+        "södervärn"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200038&locationId=200036",
+    "MC": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200038&locationId=200036",
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200038&locationId=200036&serviceId=463"
+  }
+}

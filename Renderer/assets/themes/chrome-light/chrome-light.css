@@ -1,0 +1,345 @@
+/* ═══════════════════════════════════════════════════════════════
+CHROME LIGHT — Premium Pastell Theme
+Ljust, elegant med violetta/rosa accenter
+Fil: chrome-light/chrome-light.css
+═══════════════════════════════════════════════════════════════ */
+
+:root {
+--bg-image: url("./chrome-light-bg.jpg");
+--bg-color: #f8f9fc;
+
+--bg-dark-primary: #ffffff;
+--bg-dark-secondary: #f5f7fa;
+--bg-dark-tertiary: #e8ecf2;
+--text-primary: #1a1d26;
+--text-secondary: #5c6370;
+--accent-primary: #8b5cf6;
+--accent-hover: #a78bfa;
+--border-color: rgba(139, 92, 246, 0.12);
+
+/* Grupp-styling för mallar */
+--group-bg: rgba(139, 92, 246, 0.08);
+--group-hover: rgba(167, 139, 250, 0.18);
+--group-text: #7c3aed;
+--group-border: rgba(139, 92, 246, 0.25);
+--group-shadow: rgba(139, 92, 246, 0.1);
+--group-shadow-hover: rgba(139, 92, 246, 0.28);
+--item-bg: rgba(255, 255, 255, 0.9);
+--item-hover: rgba(139, 92, 246, 0.15);
+--item-border: rgba(139, 92, 246, 0.18);
+--accent: #8b5cf6;
+
+/* Glassmorphism */
+--bg-frosty-sidebar: rgba(255, 255, 255, 0.85);
+--bg-frosty-header: rgba(255, 255, 255, 0.8);
+--bg-frosty-content: rgba(255, 255, 255, 0.78);
+--bg-frosty-bubble-atlas: rgba(248, 250, 252, 0.98);
+--bg-frosty-bubble-user: linear-gradient(135deg, #8b5cf6 0%, #a78bfa 100%);
+--bg-frosty-input-area: rgba(255, 255, 255, 0.85);
+--bg-frosty-input-field: rgba(248, 250, 252, 0.98);
+--blur-amount: 25px;
+
+--glow-primary: 0 0 30px rgba(139, 92, 246, 0.35);
+--glow-violet: 0 0 25px rgba(167, 139, 250, 0.3);
+--transition-fast: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+--transition-slow: 0.45s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+body {
+background: var(--bg-image) center/cover no-repeat fixed;
+background-color: var(--bg-color);
+color: var(--text-primary);
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* === GLASSMORPHISM PANELS === */
+.sidebar, .chat-header, .chat-input-area, .about-container,
+.template-editor-container, .template-list-container {
+backdrop-filter: blur(var(--blur-amount)) saturate(180%);
+-webkit-backdrop-filter: blur(var(--blur-amount)) saturate(180%);
+background: var(--bg-frosty-sidebar);
+border: 1px solid var(--border-color);
+box-shadow: 
+0 8px 40px rgba(139, 92, 246, 0.08),
+inset 0 1px 0 rgba(255, 255, 255, 0.9);
+transition: var(--transition-slow);
+border-radius: 20px;
+overflow: visible;
+}
+
+.sidebar:hover, .about-container:hover {
+box-shadow: 
+0 12px 50px rgba(139, 92, 246, 0.15),
+inset 0 1px 0 rgba(255, 255, 255, 0.95);
+transform: translateY(-2px);
+}
+
+/* === SIDEBAR === */
+.sidebar-logo {
+filter: drop-shadow(0 4px 14px rgba(139, 92, 246, 0.28));
+transition: var(--transition-slow);
+}
+
+.sidebar:hover .sidebar-logo {
+transform: translateY(-8px) scale(1.1);
+filter: drop-shadow(0 12px 32px rgba(139, 92, 246, 0.42));
+}
+
+/* === MENU ITEMS === */
+.menu-item {
+color: var(--text-secondary);
+border-radius: 14px;
+margin: 4px 8px;
+padding: 12px 16px;
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+
+.menu-item::before {
+content: '';
+position: absolute;
+left: -100%;
+top: 0;
+width: 100%;
+height: 100%;
+background: linear-gradient(90deg, transparent, rgba(139, 92, 246, 0.12), transparent);
+transition: left 0.55s;
+}
+
+.menu-item:hover {
+background: rgba(139, 92, 246, 0.1);
+color: var(--accent-primary);
+transform: translateX(6px);
+box-shadow: 0 4px 16px rgba(139, 92, 246, 0.15);
+}
+
+.menu-item:hover::before { left: 100%; }
+
+.menu-item.active {
+background: linear-gradient(135deg, rgba(139, 92, 246, 0.18), rgba(167, 139, 250, 0.1));
+color: var(--accent-primary);
+border-left: 4px solid var(--accent-primary);
+font-weight: 700;
+box-shadow: var(--glow-primary);
+}
+
+/* === CHAT BUBBLES === */
+.message .bubble {
+border-radius: 18px;
+padding: 14px 18px;
+transition: all var(--transition-fast);
+box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+
+.message.atlas .bubble {
+background: var(--bg-frosty-bubble-atlas);
+border: 1px solid rgba(139, 92, 246, 0.1);
+}
+
+.message.atlas .bubble:hover {
+transform: translateY(-3px);
+box-shadow: 0 8px 28px rgba(139, 92, 246, 0.12);
+}
+
+.message.user .bubble {
+background: var(--bg-frosty-bubble-user);
+color: white;
+box-shadow: 0 6px 24px rgba(139, 92, 246, 0.38);
+}
+
+.message.user .bubble:hover {
+box-shadow: 0 10px 36px rgba(139, 92, 246, 0.48);
+}
+
+/* === BUTTONS === */
+#send-button, .header-button {
+background: linear-gradient(135deg, #8b5cf6 0%, #a78bfa 100%);
+color: white;
+border-radius: 14px;
+font-weight: 600;
+box-shadow: 0 4px 16px rgba(139, 92, 246, 0.35);
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+
+#send-button:hover, .header-button:hover {
+transform: translateY(-2px);
+box-shadow: 0 8px 28px rgba(139, 92, 246, 0.48);
+}
+
+#send-button::after, .header-button::after {
+content: '';
+position: absolute;
+top: 50%;
+left: 50%;
+width: 0;
+height: 0;
+background: rgba(255, 255, 255, 0.3);
+border-radius: 50%;
+transform: translate(-50%, -50%);
+transition: width 0.6s, height 0.6s;
+}
+
+#send-button:active::after, .header-button:active::after {
+width: 300px;
+height: 300px;
+}
+
+#chat-form:focus-within {
+box-shadow: 0 0 30px rgba(139, 92, 246, 0.3);
+border-color: var(--accent-primary);
+}
+
+/* === SCROLLBAR === */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+background: linear-gradient(var(--accent-primary), var(--accent-hover));
+border-radius: 8px;
+box-shadow: 0 0 15px rgba(139, 92, 246, 0.4);
+}
+
+/* === STATUS === */
+#server-status {
+color: #10b981;
+font-weight: 700;
+text-shadow: 0 0 15px #10b981;
+animation: breathe 4s ease-in-out infinite;
+}
+
+@keyframes breathe {
+0%, 100% { text-shadow: 0 0 15px #10b981; }
+50% { text-shadow: 0 0 30px #10b981, 0 0 50px #10b981; }
+}
+
+/* === GUIDE STEPS === */
+.guide-step {
+background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(167, 139, 250, 0.05));
+border-left: 4px solid var(--accent-primary);
+border-radius: 12px;
+transition: all var(--transition-fast);
+}
+
+.guide-step:hover {
+transform: translateX(8px);
+box-shadow: 0 6px 24px rgba(139, 92, 246, 0.18);
+}
+
+.step-number {
+background: linear-gradient(135deg, #8b5cf6, #a78bfa);
+color: white;
+border-radius: 50%;
+width: 40px;
+height: 40px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-weight: 700;
+box-shadow: var(--glow-primary);
+}
+
+/* === SHORTCUTS === */
+.shortcut-item {
+background: rgba(139, 92, 246, 0.05);
+border-radius: 12px;
+transition: all var(--transition-fast);
+}
+
+.shortcut-item:hover {
+background: rgba(139, 92, 246, 0.12);
+border-left: 3px solid var(--accent-primary);
+transform: translateX(6px);
+}
+
+.shortcut-item kbd {
+background: var(--accent-primary);
+color: white;
+border-radius: 8px;
+padding: 6px 12px;
+font-weight: 600;
+box-shadow: 0 3px 10px rgba(139, 92, 246, 0.42);
+}
+
+/* === INPUT FOCUS === */
+#message-input:focus {
+outline: none;
+box-shadow: 0 0 28px rgba(139, 92, 246, 0.3);
+}
+
+/* === STATUS LAMP === */
+.status-lamp-dot.green {
+background-color: #10b981;
+box-shadow: 0 0 18px #10b981, 0 0 38px rgba(16, 185, 129, 0.5);
+}
+
+/* === TEMPLATE GRUPPER - LJUST TEMA === */
+.template-group-header {
+background: linear-gradient(135deg, rgba(139, 92, 246, 0.1), rgba(255, 255, 255, 0.8));
+border: 1px solid rgba(139, 92, 246, 0.2);
+box-shadow: 0 2px 12px rgba(139, 92, 246, 0.1);
+}
+
+.template-group-header:hover {
+background: linear-gradient(135deg, rgba(139, 92, 246, 0.18), rgba(255, 255, 255, 0.9));
+box-shadow: 0 4px 20px rgba(139, 92, 246, 0.22);
+}
+
+.group-count {
+background: linear-gradient(135deg, #8b5cf6, #a78bfa);
+box-shadow: 0 2px 8px rgba(139, 92, 246, 0.35);
+}
+
+.template-item {
+background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(248, 250, 252, 0.95));
+border: 1px solid rgba(139, 92, 246, 0.12);
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.template-item:hover {
+background: linear-gradient(135deg, rgba(139, 92, 246, 0.12), rgba(255, 255, 255, 0.95));
+border-color: var(--accent-primary);
+box-shadow: 0 4px 18px rgba(139, 92, 246, 0.2);
+}
+
+.template-item.active {
+background: linear-gradient(135deg, rgba(139, 92, 246, 0.15), rgba(255, 255, 255, 0.9));
+border-left: 4px solid var(--accent-primary);
+box-shadow: 0 4px 20px rgba(139, 92, 246, 0.25);
+}
+
+/* === LINKS === */
+.message.atlas .bubble a.atlas-link {
+color: #7c3aed;
+}
+
+.message.atlas .bubble a.atlas-link:hover {
+color: #6d28d9;
+background: rgba(139, 92, 246, 0.1);
+text-shadow: 0 0 10px rgba(139, 92, 246, 0.4);
+}
+
+.nav-badge {
+/* "Berry Fusion" - En intensiv Magenta/Rosa gradient.
+Passar lila temat men sticker ut som en tydlig notis. */
+background: linear-gradient(135deg, #d946ef, #ec4899) !important;
+box-shadow: 0 4px 15px rgba(217, 70, 239, 0.4) !important;
+color: white !important;
+font-weight: 700;
+}
+
+/* Tydliga, fräscha taggar för ljust tema */
+.tag-chatt {
+/* Mjuk Mintgrön med mörkare text */
+background: #d1fae5 !important;
+color: #059669 !important;
+border: 1px solid #a7f3d0;
+}
+
+.tag-form {
+/* Mjuk Himmelblå med mörkare text */
+background: #dbeafe !important;
+color: #2563eb !important;
+border: 1px solid #bfdbfe;
+}

@@ -1,0 +1,164 @@
+{
+"section_title": "BASFAKTA - Policy, Avtal och Integritet",
+"source_info": "Information om köpvillkor, avbokningsregler, återbetalning och integritetspolicy (GDPR).",
+"sections": [
+{
+"title": "När måste jag senast avboka en körlektion?",
+"answer": "Körlektioner måste avbokas senast klockan 12:00 vardagen innan lektionen. Avbokar du senare debiteras du fullt pris. Exempel: En lektion på måndag måste avbokas senast fredag kl 12:00.",
+"keywords": [
+"12:00",
+"avgift",
+"avboka",
+"avbokningsregler",
+"full debitering",
+"körlektion",
+"senast",
+"vardagen före"]
+},
+{
+"title": "Avbokningsregler för Kurser (Risk 1, Intro)",
+"answer": "För kurser som Riskettan och Introduktionskurs gäller avbokning senast klockan 12:00 vardagen innan kursstart.",
+"keywords": [
+"12:00",
+"avboka",
+"handledarkurs",
+"introduktionskurs",
+"risk 1",
+"riskettan",
+"vardagen innan"
+]
+},
+{
+"title": "Avbokningsregler för Halkbana (Risk 2)",
+"answer": "För Risk 2 (Halkbana) gäller striktare regler. Du måste avboka senast 4 vardagar innan kurstillfället för att slippa debitering.",
+"keywords": [
+"4 vardagar",
+"avboka",
+"halkbana",
+"risk 2",
+"risktvåan"
+]
+},
+{
+"title": "Avbokningsregler för AM-kurs (Moped)",
+"answer": "AM-kurs måste avbokas senast kl 12:00 en vecka (7 dagar) innan kursstart.",
+"keywords": [
+"1 vecka",
+"7 dagar",
+"am-kurs",
+"avboka",
+"kl 12:00",
+"mopedkurs"
+]
+},
+{
+"title": "Avbokningsregler för MC-Intensivkurs",
+"answer": "MC Intensivkurs måste avbokas senast kl 12:00 två veckor (14 dagar) innan kursstart.",
+"keywords": [
+"14 dagar",
+"2 veckor",
+"avboka",
+"intensivkurs",
+"kl 12:00",
+"mc intensiv"
+]
+},
+{
+"title": "Vad gäller vid sjukdom? (Läkarintyg)",
+"answer": "Om du blir sjuk och måste avboka sent debiteras du inte OM du kan uppvisa ett giltigt läkarintyg inom 1 vecka från avbokningstillfället.",
+"keywords": [
+"debitering",
+"inom 1 vecka",
+"läkarintyg",
+"sjuk",
+"sjukdom",
+"sjukintyg",
+"slippa betala"
+]
+},
+{
+"title": "Gäller VAB som giltig frånvaro?",
+"answer": "Nej, tyvärr räknas inte VAB (vård av barn) som giltig orsak för sen avbokning utan debitering. Ordinarie avbokningsregler gäller.",
+"keywords": [
+"giltig frånvaro",
+"räknas inte",
+"vab",
+"vård av barn"
+]
+},
+{
+"title": "Ångerrätt och Återbetalning (14 dagar)",
+"answer": "Enligt distanshandelslagen har du 14 dagars ångerrätt vid köp online. Vill du ha pengarna tillbaka efter dessa 14 dagar tar vi ut en administrativ avgift på 10% av det återstående beloppet. Digitalt teorimaterial återbetalas aldrig efter aktivering.",
+"keywords": [
+"10%",
+"14 dagar",
+"administrativ avgift",
+"pengarna tillbaka",
+"ångerrätt",
+"återbetalning"
+]
+},
+{
+"title": "Hur länge gäller mina köpta paket? (Giltighetstid)",
+"answer": "Dina köpta paket och lektioner är giltiga i 24 månader (2 år) från inköpsdatumet. Efter detta datum förfaller outnyttjade lektioner och kan inte återbetalas.",
+"keywords": [
+"2 år",
+"24 månader",
+"förfaller",
+"giltighet",
+"giltighetstid",
+"hur länge",
+"outnyttjade",
+"giltighetstid paket",
+"paket giltighet",
+"köpta lektioner giltighetstid",
+"paket"
+]
+},
+{
+"title": "Integritetspolicy och GDPR (Hur hanterar ni mina uppgifter?)",
+"answer": "Vi värnar om din integritet. Vi sparar endast de personuppgifter som krävs för att genomföra din utbildning och rapportera till Transportstyrelsen. Vi delar aldrig dina uppgifter med tredje part i marknadsföringssyfte. Du har rätt att begära utdrag eller radering av dina uppgifter enligt GDPR.",
+"keywords": [
+"data",
+"gdpr",
+"integritet",
+"integritetspolicy",
+"personuppgifter",
+"radering",
+"sparar",
+"transportstyrelsen"
+]
+},
+{
+"title": "Betalningsalternativ",
+"answer": "Vi samarbetar med Klarna för smidig betalning. Du kan betala med Swish, kort, faktura eller välja delbetalning. All betalning sker i förskott via e-handeln eller appen.",
+"keywords": [
+"betala efter",
+"betala senare",
+"betalning",
+"betalningsalternativ",
+"betala",
+"hur betalar jag",
+"delbetalning",
+"efterskott",
+"faktura",
+"förskott",
+"klarna",
+"kort",
+"swish"]
+},
+{
+"title": "Kontakt och Support",
+"answer": "Har du frågor om din bokning eller betalning? Kontakta vår support på 010-333 32 31 eller chatta direkt i appen Mitt Körkort.",
+"keywords": [
+"010-333 32 31",
+"chatta",
+"kontakt",
+"nummer",
+"ring",
+"support",
+"telefon"
+]
+}
+]
+}

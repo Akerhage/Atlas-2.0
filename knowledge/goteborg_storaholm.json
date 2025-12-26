@@ -1,0 +1,242 @@
+{
+"id": "goteborg_storaholm",
+"city": "Göteborg",
+"area": "Stora Holm",
+"prices": [
+{
+"service_name": "Risk 2 BIL",
+"price": 2399,
+"currency": "SEK",
+"keywords": [
+"risk 2",
+"risktvåan",
+"halkbana",
+"bil",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Totalpaket 5 MC",
+"price": 14499,
+"currency": "SEK",
+"keywords": [
+"totalpaket 5",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Totalpaket 10 MC",
+"price": 20499,
+"currency": "SEK",
+"keywords": [
+"totalpaket 10",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Intensivvecka MC",
+"price": 21999,
+"currency": "SEK",
+"keywords": [
+"intensivvecka",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Risk 1 MC",
+"price": 899,
+"currency": "SEK",
+"keywords": [
+"risk 1",
+"riskettan",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Risk 2 MC",
+"price": 3399,
+"currency": "SEK",
+"keywords": [
+"risk 2",
+"risktvåan",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Körlektion MC",
+"price": 1649,
+"currency": "SEK",
+"keywords": [
+"körlektion",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Lektionspaket 5 MC",
+"price": 7999,
+"currency": "SEK",
+"keywords": [
+"lektionspaket 5",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+},
+{
+"service_name": "Lektionspaket 10 MC",
+"price": 15799,
+"currency": "SEK",
+"keywords": [
+"lektionspaket 10",
+"mc",
+"pris",
+"kostnad",
+"göteborg",
+"stora holm"
+]
+}
+],
+"sections": [
+{
+"title": "Vad är Stora Holm och dess MC-utbildning?",
+"answer": "Stora Holm är vår dedikerade plats i Göteborg för manöverkörning för MC (lågfart, högfart, bromsning) och halkbana / Risk 2 utbildning för bil och MC-elever. Vi hyr in oss på deras område och på vår manöverbana där kör vi också manöverkörning (gruppkörning) för AM. Vi har inget eget kontor själva på plats, men Stora Holm har en reception där för bil-eleverna. Fördelen här är att våra MC-elever kan starta direkt på banan i ett inhägnat område.",
+"keywords": [
+"bromsning",
+"göteborg",
+"halkbana",
+"högfart",
+"lågfart",
+"manöverbana",
+"mc-specifik",
+"risk 2",
+"stora holm",
+"utbildning"
+]
+},
+{
+"title": "Hur kontaktar man Stora Holm?",
+"answer": "Kontakta Stora Holm via Ullevis reception telefon 031 336 26 65 eller email hej@mydrivingacademy.com. Adressen är Holmvägen 55, Göteborg.",
+"keywords": [
+"adress",
+"email",
+"göteborg",
+"kontakt",
+"stora holm",
+"telefon"
+]
+},
+{
+"title": "När är Stora Holm öppet för MC?",
+"answer": "Stora Holm manöverbana är öppen för motorcykelträning under dagtid på MC-säsongen från april till oktober. Kontakta Göteborg-supporten på 031 336 26 65 för exakta öppettider.",
+"keywords": [
+"stora holm",
+"öppet",
+"april",
+"oktober",
+"säsong",
+"manöverbana",
+"motorcykel",
+"mc",
+"göteborg"
+],
+"score_boost": 9999
+},
+{
+"title": "Vilka tjänster erbjuds på Stora Holm?",
+"answer": "Stora Holm erbjuder manöverkörning för MC och AM, risk 2 för MC och risk 2 för bil-elever.",
+"keywords": [
+"bil",
+"halkbana",
+"manöverkörning",
+"mc-specifik",
+"risk 2",
+"stora holm",
+"tjänster"
+]
+},
+{
+"title": "Vilka språk används på Stora Holm?",
+"answer": "Utbildning på Stora Holm erbjuds på svenska och engelska.",
+"keywords": [
+"engelska",
+"språk",
+"stora holm",
+"svenska"
+]
+},
+{
+"title": "Hur bokar man utbildning på Stora Holm?",
+"answer": "Bokning av de tjänster vi erbjuder på Stora Holm görs via vår bokningswidget på vår hemsida.",
+"keywords": [
+"bil",
+"boka",
+"booking",
+"mc-specifik",
+"stora holm"
+]
+},
+{
+"title": "Vad ingår i manöverkörning för MC på Stora Holm?",
+"answer": "På Stora Holm erbjuds träning i lågfart, högfart och bromsning för MC-elever i ett inhägnat område med 2 dedikerade lärare under säsongen.",
+"keywords": [
+"bromsning",
+"högfart",
+"lågfart",
+"manöverkörning",
+"mc-specifik"
+]
+},
+{
+"title": "Erbjuds halkbana för bil på Stora Holm?",
+"answer": "Ja, halkbana för bil-elever (risk 2) erbjuds på Stora Holm.",
+"keywords": [
+"bil",
+"halkbana",
+"risk 2"
+]
+},
+{
+"title": "Vad är en DUO-lektion för MC på Stora Holm?",
+"answer": "En DUO-lektion i Göteborg är ett 100-minuters pass där två elever delar på en lärare. Detta upplägg är perfekt för att få mycket träning på manöverbanan (lågfart, högfart, bromsning) på Stora Holm, där båda eleverna kör varsin motorcykel samtidigt.",
+"keywords": [
+"100 minuter",
+"duo",
+"duo-lektion",
+"göteborg",
+"mc-behörighet",
+"mc-kategori",
+"stora holm",
+"två elever"
+]
+}
+]
+}

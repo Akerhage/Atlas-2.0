@@ -1,0 +1,180 @@
+{
+  "id": "martenssons_trafikskola_malmo_varnhem",
+  "name": "Mårtenssons Trafikskola - Malmö – Värnhem",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Malmö",
+  "area": "Värnhem",
+  "description": "Välkommen till Mårtenssons Trafikskola Värnhem! Dags för körkort eller en ny behörighet? Välkommen till Mårtenssons Trafikskola i Malmö! Våra erfarna lärare och personal ser till att din resa blir smidig och lärorik.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "malmö",
+    "värnhem",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "040-18 35 18",
+    "email": "malmo.varnhem@trafikskolan.com",
+    "address": "Föreningsgatan 48, 212 14 Malmö"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 – 14:00"
+    }
+  ],
+  "services_offered": [
+    "Bil"
+  ],
+  "languages": [
+    "svenska",
+    "bosniska",
+    "kroatiska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1149,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 9999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 14999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5549,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 10599,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "värnhem"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200038&locationId=200037",
+    "MC": null,
+    "AM": null
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "id": "martenssons_trafikskola_angelholm",
+  "name": "Mårtenssons Trafikskola - Ängelholm",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Ängelholm",
+  "description": "Välkommen till Mårtenssons Trafikskola i Ängelholm! Tänk dig att kunna resa utan att anpassa dig efter tidtabeller eller vänta i regn och kyla. Med körkortet i handen sätter du dig bara i bilen och kör – snabbt, smidigt och på dina egna villkor!",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "ängelholm",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "0431 – 31 36 40",
+    "email": "angelholm@trafikskolan.com",
+    "address": "Skolgatan 9, 262 31 Ängelholm"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00-14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Ängelholm"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1249,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10699,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11699,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 17299,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4199,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 13999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 6499,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 12799,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Intensivvecka MC",
+      "price": 21999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivvecka",
+        "mc",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "pris",
+        "kostnad",
+        "ängelholm"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200034&locationId=200033",
+    "MC": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200034&locationId=200033",
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200034&locationId=200033&serviceId=453"
+  }
+}

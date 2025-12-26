@@ -1,0 +1,294 @@
+{
+  "id": "my_driving_academy_linkoping",
+  "name": "My Driving Academy – Linköping",
+  "brand": "My Driving Academy",
+  "city": "Linköping",
+  "description": "Välkommen till vårt kontor i Linköping!Historien börjar redan 1929, då Martin Fransson grundade stadens första trafikskola. 1966 tog Ingemar Samuelsson över Israelsons Trafikskola och några år senare, 1971, slogs den samman med Franssons Trafikskola. Tillsammans bildade de Fransson & Israelsons Trafikskola AB – ett starkt namn inom körkortsutbildning i Linköping. År 2025 togs nästa steg i utvecklingen, när Fransson & Israelsons blev en del av My Driving Academy.",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "linköping",
+    "fransson & israelsons",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "010-20 70 775 (centralsupport)",
+    "email": "hej@mydrivingacademy.com",
+    "address": "Apotekaregatan 3, 582 27 Linköping"
+  },
+  "opening_hours": [
+    {
+      "days": "Info",
+      "hours": "Finns ingen bemannad reception."
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska",
+    "bosniska",
+    "serbiska",
+    "kroatiska",
+    "persiska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Linköping"
+      ]
+    },
+    {
+      "service_name": "Testlektion BIL",
+      "price": 699,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1249,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Prova-på-uppkörning BIL",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10799,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 21999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 6599,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 13199,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 19299,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 17999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 21999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1799,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 8499,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 16999,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4000,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 4849,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "linköping"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200053&locationId=200091",
+    "MC": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200053&locationId=200091",
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200053&locationId=200091&serviceId=630"
+  }
+}

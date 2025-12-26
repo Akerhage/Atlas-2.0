@@ -1,0 +1,331 @@
+{
+  "id": "my_driving_academy_kungsbacka",
+  "name": "My Driving Academy – Kungsbacka",
+  "brand": "My Driving Academy",
+  "city": "Kungsbacka",
+  "description": "Välkommen till vår trafikskola i Kungsbacka! Våra körlektioner utgår från Gymnasiegatan 16 där du kan köra med våra fantastiska lärare!",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "kungsbacka",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "030015006",
+    "email": "kungsbacka@trafikskolan.com",
+    "address": "Gymnasiegatan 24, 434 50 Kungsbacka"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30-17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 – 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Testlektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Prova-på-uppkörning BIL",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion BIL",
+      "price": 1399,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Körbedömning för sökande till Trafiklärarutbildningen BIL",
+      "price": 1000,
+      "currency": "SEK",
+      "keywords": [
+        "körbedömning",
+        "trafiklärarutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10799,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 16299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 22199,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 6199,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 12199,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 1799,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 329,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 899,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 13999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 6499,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "mc",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 12799,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "mc",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 899,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 5449,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 7299,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "kungsbacka"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200050&locationId=200081",
+    "MC": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200050&locationId=200081",
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200050&locationId=200081&serviceId=529"
+  }
+}

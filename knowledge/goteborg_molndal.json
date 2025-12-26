@@ -1,0 +1,294 @@
+{
+  "id": "my_driving_academy_goteborg_molndal",
+  "name": "My Driving Academy - Göteborg – Mölndal",
+  "brand": "My Driving Academy",
+  "city": "Göteborg",
+  "area": "Mölndal",
+  "description": "Våra körlektioner utgår från Södra Ågatan 18B där du kan köra med våra 5-stjärniga lärare! Skaffa ditt körkort i Göteborg hos oss!",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "göteborg",
+    "mölndal",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "0317305460",
+    "email": "molndal@trafikskolan.com",
+    "address": "Södra Ågatan 18B, 431 35 Mölndal"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30-17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 – 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska",
+    "arabiska",
+    "persiska",
+    "kurdiska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Göteborg",
+        "Mölndal"
+      ]
+    },
+    {
+      "service_name": "Testlektion Bil",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Prova-på-uppkörning Bil",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion Bil",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Körbedömning för sökande till Trafiklärarutbildningen BIL",
+      "price": 1000,
+      "currency": "SEK",
+      "keywords": [
+        "körbedömning",
+        "trafiklärarutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 16999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 22499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 6499,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 12799,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 18899,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 899,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Risk 2 BIL",
+      "price": 2399,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 5449,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 7299,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "göteborg",
+        "mölndal"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200005&locationId=11",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200005&locationId=10&serviceId=470"
+  }
+}

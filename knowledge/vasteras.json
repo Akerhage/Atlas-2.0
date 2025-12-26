@@ -1,0 +1,250 @@
+{
+  "id": "my_driving_academy_vasteras",
+  "name": "My Driving Academy – Västerås",
+  "brand": "My Driving Academy",
+  "city": "Västerås",
+  "description": "När du tar ditt körkort i Västerås kan du känna dig trygg med att du lär dig från de mest passionerade, vänliga och bästa lärarna i stan.",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "västerås",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "010-20 70 775 (centralsupporten)",
+    "email": "hej@mydrivingacademy.com",
+    "address": "Norra Ringvägen 47, 722 18 Västerås"
+  },
+  "opening_hours": [
+    {
+      "days": "Info",
+      "hours": "Ingen bemannad reception, ring, chatta eller mejla centralsupporten."
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil"
+  ],
+  "languages": [
+    "svenska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Västerås"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1299,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 1299,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Testlektion BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Prova-På-Uppkörning BIL",
+      "price": 1249,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Körbedömning för sökande till Trafiklärarutbildningen BIL",
+      "price": 1000,
+      "currency": "SEK",
+      "keywords": [
+        "körbedömning",
+        "trafiklärarutbildningen",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 6199,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11999,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 17999,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 899,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    },
+    {
+      "service_name": "Risk 2 BIL",
+      "price": 2399,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "västerås"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200004&locationId=15",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200004&locationId=15&serviceId=571"
+  }
+}

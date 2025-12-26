@@ -1,0 +1,173 @@
+{
+"section_title": "BASFAKTA - MC Lektioner & Utbildning",
+"source_info": "Information om våra MC-utbildningar, inklusive intensivkurser och lokala upplägg.",
+"sections": [
+{
+"title": "Jag är nybörjare på MC, hur börjar jag?",
+"answer": "Om du är helt nybörjare på motorcykel rekommenderar vi att du bokar en 80-minuters singel-lektion som din första lektion. Då får du odelad uppmärksamhet från läraren för att gå igenom grunderna i en trygg miljö.",
+"keywords": [
+"börja",
+"första lektionen",
+"mc",
+"mc körlektion",
+"mc-behörighet",
+"mc-kategori",
+"motorcykel",
+"nybörjare",
+"pris"
+]
+},
+{
+"title": "Vilka förkunskaper krävs för intensivkursen för MC?",
+"answer": "Vår intensivutbildning för MC riktar sig främst till dig som redan har kört en del motorcykel och känner dig trygg med att starta, stanna och växla. Innan kursen bokas du in på en startlektion för att säkerställa att du har rätt nivå för att tillgodogöra dig utbildningen.",
+"keywords": [
+"förkunskaper",
+"intensivkurs",
+"intensivvecka",
+"krav",
+"mc",
+"mc-behörighet",
+"mc-kategori",
+"motorcykel",
+"nivåtest",
+"pris",
+"stanna",
+"starta",
+"startlektion",
+"växla"
+]
+},
+{
+"title": "Vad ingår vid MC-körprov?",
+"answer": "Vid MC-körprov ingår: uppvärmning (ca 10 min), lån av MC, säkerhetskontroll (5 punkter), och ca 25-30 min körning i trafik. Totalt ca 45 minuter.",
+"keywords": [
+"uppvärmning",
+"lån av mc",
+"säkerhetskontroll",
+"25-30 min",
+"körprov",
+"mc-körprov",
+"vad ingår"
+]
+},
+{
+"title": "Vad ingår i en intensivvecka för MC?",
+"answer": "I priset för intensivveckan, som varar 5 heldagar, ingår en 80-minuters startlektion, manöverkörning på bana och i trafik, Riskettan (Risk 1), Risktvåan (Risk 2), digitalt teorimaterial, lån av MC och uppvärmning inför körprovet.",
+"keywords": [
+"5 heldagar",
+"digital teori",
+"en vecka",
+"heldagar",
+"ingår",
+"innehåller",
+"intensivvecka",
+"lån av mc",
+"manöverkörning",
+"mc",
+"mc risk 1",
+"mc risk 2",
+"mc-behörighet",
+"mc-kategori",
+"motorcykel",
+"pris",
+"risk 1",
+"risk 2",
+"startlektion",
+"uppvärmning inför körprovet"
+]
+},
+{
+"title": "Räcker det med en intensivvecka för att klara MC-kortet?",
+"answer": "Förmodligen inte. Räkna med att du kan behöva extra lektioner utöver de som ingår i intensivveckan, både före och efter kursen. Din lärare gör en individuell bedömning.",
+"keywords": [
+"intensivvecka",
+"räcker",
+"extra lektioner",
+"individuell bedömning"
+],
+"priority": "secondary",
+"context": "intensivvecka"
+},
+{
+"title": "Behöver jag egen utrustning för MC-lektioner?",
+"answer": "Vi tillhandahåller fullständig skyddsutrustning (hjälm, kläder, stövlar, handskar, ryggskydd) kostnadsfritt vid varje övningstillfälle. Du får självklart använda din egen utrustning om du föredrar det.",
+"keywords": [
+"hjälm",
+"kläder",
+"lektion",
+"lån av mc",
+"låna",
+"mc",
+"mc körlektion",
+"mc-behörighet",
+"mc-kategori",
+"motorcykel",
+"skyddskläder",
+"skyddsutrustning",
+"utrustning"
+]
+},
+{
+"title": "Vad är en DUO-lektion för MC i Göteborg?",
+"answer": "En DUO-lektion i Göteborg är ett 100-minuters pass där två elever delar på en lärare. Detta upplägg är perfekt för att få mycket träning på manöverkörning på bana (lågfart, högfart, bromsning), t.ex. på Stora Holm, där båda eleverna kör varsin motorcykel samtidigt.",
+"keywords": [
+"100 min",
+"100 minuter",
+"duo-lektion",
+"göteborg",
+"manöverbana",
+"manöverkörning",
+"mc",
+"mc-behörighet",
+"mc-kategori",
+"motorcykel",
+"pris",
+"stora holm",
+"två elever"
+]
+},
+{
+"title": "Vilka motorcyklar använder ni för utbildning?",
+"answer": "Vi använder Yamaha MT-07 för A- och A2-behörighet. Vi har endast bensin-motorcyklar för utbildning (inte el-mc). Alla motorcyklar är väl underhållna och anpassade för olika nivåer och behörigheter.",
+"keywords": [
+"bensin",
+"el-mc",
+"endast bensin",
+"fordon",
+"Yamaha",
+"MT-07",
+"lån av mc",
+"mc",
+"mc-behörighet",
+"motorcykel",
+"motorcykel typ",
+"vilka"
+]
+},
+{
+"title": "Finns intensivvecka på andra orter än Göteborg?",
+"answer": "Nej, intensivveckan för MC erbjuds för närvarande endast i Göteborg (Mölnlycke, Ullevi, Stora Holm).",
+"keywords": [
+"andra orter",
+"utanför göteborg",
+"stockholm",
+"malmö",
+"intensivvecka",
+"var"
+]
+},
+{
+"title": "Finns anpassning för återfallselever på MC?",
+"answer": "Ja, vi erbjuder individuell anpassning av MC-utbildningen för alla elever, inklusive återfallselever som kan behöva extra fokus på specifika moment eller manöverkörning.",
+"keywords": [
+"anpassning",
+"extra lektioner",
+"individuellt",
+"mc",
+"motorcykel",
+"återfallselev",
+"återfallselever"
+]
+}
+]
+}

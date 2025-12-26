@@ -1,0 +1,324 @@
+{
+  "id": "martenssons_trafikskola_ystad",
+  "name": "Mårtenssons Trafikskola – Ystad",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Ystad",
+  "description": "Välkommen till Mårtenssons Trafikskola i Ystad! Tänk dig att kunna resa utan att anpassa dig efter tidtabeller eller vänta i regn och kyla. Med körkortet i handen sätter du dig bara i bilen och kör – snabbt, smidigt och på dina egna villkor!",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "ystad",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "041 – 121 17 20",
+    "email": "ystad@trafikskolan.com",
+    "address": "Munkgatan 8, 271 41 Ystad"
+  },
+  "opening_hours": [
+    {
+      "days": "Måndag",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Tisdag",
+      "hours": "13:00-17:00"
+    },
+    {
+      "days": "Onsdag",
+      "hours": "13:00-17:00"
+    },
+    {
+      "days": "Torsdag",
+      "hours": "08:30-17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "Stängt"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "MC",
+    "Släp"
+  ],
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Ystad"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1199,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15399,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5699,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11099,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4199,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 MC",
+      "price": 13999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 MC",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Körlektion MC",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 5 MC",
+      "price": 6499,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 5",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Lektionspaket 10 MC",
+      "price": 12799,
+      "currency": "SEK",
+      "keywords": [
+        "lektionspaket 10",
+        "paket",
+        "mc",
+        "motorcykel",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    },
+    {
+      "service_name": "Risk 1 MC",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "mc",
+        "motorcykel",
+        "kurs",
+        "pris",
+        "kostnad",
+        "ystad"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200025&locationId=200020",
+    "MC": "https://booking.mydrivingacademy.com/widget?vehicleType=mc&productType=Bundle&regionId=200025&locationId=200020",
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200025&locationId=200020&serviceId=467"
+  }
+}

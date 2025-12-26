@@ -1,0 +1,41 @@
+{
+"section_title": "Fallback & Övriga Frågor",
+"source_info": "Svar på blandade frågor samt fallback när botten inte förstår.",
+"sections": [
+{
+"title": "Jag förstår inte frågan (Fallback)",
+"answer": "Jag är inte helt säker på att jag förstod den frågan. Kan du försöka omformulera dig? Du kan fråga mig om priser, körkort, riskutbildning eller hur man bokar.",
+"keywords": [
+"fallback",
+"inget svar",
+"förstår inte",
+"missförstånd",
+"hjälp",
+"vad ska jag göra"
+]
+},
+{
+"title": "Kontakta Support (Fallback)",
+"answer": "Om jag inte kan svara på din fråga, kontakta gärna vår support på 010-333 32 31 (Mårtenssons) eller 010-20 70 775 (MDA). Vi hjälper dig gärna!",
+"keywords": [
+"support",
+"kontakt",
+"ring",
+"nummer",
+"kundtjänst",
+"prata med någon"
+]
+},
+{
+"title": "Rabatt på paket om man redan har körkort",
+"answer": "Vi har inga specifika rabatter för att du redan har ett B-körkort eller annat körkort. Våra paketpriser är redan kraftigt rabatterade jämfört med styckpris på lektioner.",
+"keywords": [
+"b-körkort",
+"billigare",
+"har redan körkort",
+"rabatt",
+"reducerat pris"
+]
+}
+]
+}

@@ -1,0 +1,278 @@
+{
+  "id": "my_driving_academy_stockholm_enskededalen",
+  "name": "My Driving Academy - Stockholm – Enskededalen",
+  "brand": "My Driving Academy",
+  "city": "Stockholm",
+  "area": "Enskededalen",
+  "description": "Vill ta ditt körkort i Kärrtorp, Dalen eller Enskede? Då kan vår trafikskola i Enskededalen hjälpa dig! Våra fantastiska lärare erbjuder inspirerande och roliga utbildningar. Du är välkommen att besöka oss på Sofielundsvägen 12 – vi erbjuder även hämtning/lämning i hela området! När det är dags för kurser eller teori så håller vi också till i våra härliga miljöer här på Sofielundsvägen 12!",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "stockholm",
+    "enskededalen",
+    "kärrtorp",
+    "dalen",
+    "enskede",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "010-20 70 775 (centralsupporten)",
+    "email": "hej@mydrivingacademy.com",
+    "address": "Sofielundsvägen 14"
+  },
+  "opening_hours": [
+    {
+      "days": "Info",
+      "hours": "Ingen bemannad reception, ring, chatta eller mejla centralsupporten."
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska",
+    "arabiska",
+    "kurdiska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Stockholm",
+        "Enskededalen"
+      ]
+    },
+    {
+      "service_name": "Testlektion BIL",
+      "price": 699,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Prova-på-uppkörning BIL",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion BIL",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10799,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 21999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 6599,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 13199,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 19299,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 899,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "Risk 2 BIL",
+      "price": 2249,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "bil",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 6999,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 7999,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "stockholm",
+        "enskededalen"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200007&locationId=23",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200007&locationId=200017&serviceId=542"
+  }
+}

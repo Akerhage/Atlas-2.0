@@ -1,0 +1,264 @@
+/* ═══════════════════════════════════════════════════════════════
+APPLE ROAD — Mörkt Ökenväg Premium Theme
+Bakgrund: Image 1 (ökenväg med orange/guld toner)
+Fil: apple-road/apple-road.css
+═══════════════════════════════════════════════════════════════ */
+
+:root {
+--bg-image: url("./apple-road-bg.jpg");
+--bg-color: #1a1410;
+
+--bg-dark-primary: #1f1915;
+--bg-dark-secondary: #2a231d;
+--bg-dark-tertiary: #3d332a;
+--text-primary: #f5ebe0;
+--text-secondary: #c9b99a;
+--accent-primary: #ff9f43;
+--accent-hover: #ffb86c;
+--border-color: rgba(255,159,67,0.15);
+
+--group-bg: rgba(255,159,67,0.1);
+--group-hover: rgba(255,184,108,0.2);
+--group-text: #ff9f43;
+--group-border: rgba(255,159,67,0.35);
+--group-shadow: rgba(255,159,67,0.15);
+--group-shadow-hover: rgba(255,159,67,0.35);
+--item-bg: rgba(45,38,32,0.9);
+--item-hover: rgba(255,159,67,0.2);
+--item-border: rgba(255,159,67,0.25);
+--accent: #ff9f43;
+
+--bg-frosty-sidebar: rgba(30,25,20,0.88);
+--bg-frosty-header: rgba(35,28,22,0.85);
+--bg-frosty-content: rgba(40,32,26,0.82);
+--bg-frosty-bubble-atlas: rgba(50,42,35,0.92);
+--bg-frosty-bubble-user: linear-gradient(135deg, #ff9f43 0%, #ffb86c 100%);
+--bg-frosty-input-area: rgba(35,28,22,0.88);
+--bg-frosty-input-field: rgba(50,42,35,0.9);
+--blur-amount: 28px;
+
+--glow-primary: 0 0 35px rgba(255,159,67,0.5);
+--glow-warm: 0 0 30px rgba(255,184,108,0.4);
+--transition-fast: 0.25s cubic-bezier(0.4,0,0.2,1);
+--transition-slow: 0.5s cubic-bezier(0.25,0.46,0.45,0.94);
+}
+
+body {
+background: var(--bg-image) center/cover no-repeat fixed;
+background-color: var(--bg-color);
+color: var(--text-primary);
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.sidebar, .chat-header, .chat-input-area, .about-container,
+.template-editor-container, .template-list-container {
+backdrop-filter: blur(var(--blur-amount)) saturate(160%);
+-webkit-backdrop-filter: blur(var(--blur-amount)) saturate(160%);
+background: var(--bg-frosty-sidebar);
+border: 1px solid var(--border-color);
+box-shadow: 0 12px 48px rgba(0,0,0,0.5),
+inset 0 1px 0 rgba(255,255,255,0.08),
+0 0 40px rgba(255,159,67,0.1);
+transition: var(--transition-slow);
+border-radius: 18px;
+overflow: hidden;
+}
+
+.sidebar:hover, .about-container:hover {
+box-shadow: 0 16px 56px rgba(0,0,0,0.6),
+0 0 50px rgba(255,159,67,0.18);
+transform: translateY(-2px);
+}
+
+.sidebar-logo {
+filter: drop-shadow(0 4px 16px rgba(255,159,67,0.35));
+transition: var(--transition-slow);
+}
+.sidebar:hover .sidebar-logo {
+transform: translateY(-10px) scale(1.12);
+filter: drop-shadow(0 14px 36px rgba(255,159,67,0.5));
+}
+
+.menu-item {
+color: var(--text-secondary);
+border-radius: 14px;
+margin: 4px 8px;
+padding: 12px 16px;
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+.menu-item::before {
+content: '';
+position: absolute;
+left: -100%; top: 0;
+width: 100%; height: 100%;
+background: linear-gradient(90deg, transparent, rgba(255,159,67,0.2), transparent);
+transition: left 0.6s;
+}
+.menu-item:hover {
+background: rgba(255,159,67,0.12);
+color: var(--accent-primary);
+transform: translateX(6px);
+box-shadow: 0 4px 16px rgba(255,159,67,0.15);
+}
+.menu-item:hover::before { left: 100%; }
+.menu-item.active {
+background: linear-gradient(90deg, rgba(255,159,67,0.25), transparent);
+color: var(--accent-primary);
+border-left: 4px solid var(--accent-primary);
+font-weight: 700;
+box-shadow: var(--glow-primary);
+}
+
+.message .bubble {
+border-radius: 18px;
+padding: 14px 18px;
+transition: all var(--transition-fast);
+box-shadow: 0 4px 18px rgba(0,0,0,0.35);
+backdrop-filter: blur(10px);
+}
+.message.atlas .bubble {
+background: var(--bg-frosty-bubble-atlas);
+border: 1px solid rgba(255,159,67,0.12);
+}
+.message.atlas .bubble:hover {
+transform: translateY(-3px);
+box-shadow: 0 8px 32px rgba(0,0,0,0.45);
+}
+.message.user .bubble {
+background: var(--bg-frosty-bubble-user);
+color: #1a1410;
+box-shadow: 0 6px 28px rgba(255,159,67,0.45);
+}
+.message.user .bubble:hover {
+box-shadow: 0 10px 40px rgba(255,159,67,0.55);
+}
+
+#send-button, .header-button {
+background: linear-gradient(135deg, #ff9f43 0%, #ffb86c 100%);
+color: #1a1410;
+border-radius: 14px;
+font-weight: 600;
+box-shadow: 0 4px 18px rgba(255,159,67,0.4);
+transition: all var(--transition-fast);
+position: relative;
+overflow: hidden;
+}
+#send-button:hover, .header-button:hover {
+transform: translateY(-3px);
+box-shadow: 0 8px 32px rgba(255,159,67,0.55);
+}
+#send-button::after, .header-button::after {
+content: '';
+position: absolute;
+top: 50%; left: 50%;
+width: 0; height: 0;
+background: rgba(0,0,0,0.2);
+border-radius: 50%;
+transform: translate(-50%,-50%);
+transition: width 0.6s, height 0.6s;
+}
+#send-button:active::after, .header-button:active::after {
+width: 300px; height: 300px;
+}
+
+#chat-form:focus-within {
+box-shadow: 0 0 35px rgba(255,159,67,0.4);
+border-color: var(--accent-primary);
+}
+
+::-webkit-scrollbar { width: 12px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+background: linear-gradient(var(--accent-primary), var(--accent-hover));
+border-radius: 10px;
+box-shadow: 0 0 20px rgba(255,159,67,0.5);
+}
+
+#server-status {
+color: #ff9f43;
+font-weight: 700;
+text-shadow: 0 0 18px #ff9f43;
+animation: breathe 4s ease-in-out infinite;
+}
+@keyframes breathe {
+0%, 100% { text-shadow: 0 0 18px #ff9f43; }
+50% { text-shadow: 0 0 35px #ff9f43, 0 0 55px #ff9f43; }
+}
+
+.guide-step {
+background: linear-gradient(135deg, rgba(255,159,67,0.12), rgba(255,184,108,0.06));
+border-left: 5px solid var(--accent-primary);
+border-radius: 12px;
+transition: all var(--transition-fast);
+backdrop-filter: blur(10px);
+}
+.guide-step:hover {
+transform: translateX(8px);
+box-shadow: 0 6px 28px rgba(255,159,67,0.25);
+}
+.step-number {
+background: var(--accent-primary);
+color: #1a1410;
+border-radius: 50%;
+width: 40px; height: 40px;
+display: flex; align-items: center; justify-content: center;
+font-weight: 700;
+box-shadow: var(--glow-primary);
+}
+
+.shortcut-item {
+background: rgba(255,159,67,0.08);
+border-radius: 12px;
+transition: all var(--transition-fast);
+backdrop-filter: blur(10px);
+}
+.shortcut-item:hover {
+background: rgba(255,159,67,0.18);
+border-left: 3px solid var(--accent-primary);
+transform: translateX(8px);
+box-shadow: 0 4px 20px rgba(255,159,67,0.2);
+}
+.shortcut-item kbd {
+background: var(--accent-primary);
+color: #1a1410;
+border-radius: 8px;
+padding: 6px 12px;
+font-weight: 600;
+box-shadow: 0 3px 10px rgba(255,159,67,0.5);
+}
+
+#message-input:focus {
+outline: none;
+box-shadow: 0 0 30px rgba(255,159,67,0.4);
+}
+
+.status-lamp-dot.green {
+background-color: #ff9f43;
+box-shadow: 0 0 20px #ff9f43, 0 0 40px rgba(255,159,67,0.5);
+}
+.nav-badge {
+/* "Lava Red" - Tänk baklyktor i öknen. Ger bra kontrast mot det orangea. */
+background: linear-gradient(135deg, #ff3f34, #ff6b6b) !important;
+box-shadow: 0 0 20px rgba(255, 63, 52, 0.6) !important;
+color: white !important;
+text-shadow: 0 1px 2px rgba(0,0,0,0.5); /* Lite extra djup */
+}
+
+/* Anpassade taggar för att matcha öken-temat bättre (Varmare toner) */
+.tag-chatt {
+/* Varm turkos för att matcha guld/orange */
+background: rgba(20, 255, 200, 0.1) !important;
+color: #14ffc8 !important;
+text-shadow: 0 0 8px rgba(20, 255, 200, 0.4);
+border: 1px solid rgba(20, 255, 200, 0.3);
+}
+
+.tag-form {
+/* Djupare blå för kontrast mot sanden */
+background: rgba(0, 190, 255, 0.1) !important;
+color: #00beff !important;
+text-shadow: 0 0 8px rgba(0, 190, 255, 0.4);
+border: 1px solid rgba(0, 190, 255, 0.3);
+}

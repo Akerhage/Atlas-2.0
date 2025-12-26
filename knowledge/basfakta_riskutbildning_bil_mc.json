@@ -1,0 +1,138 @@
+{
+"section_title": "BASFAKTA - Riskutbildning (Risk 1 & Risk 2)",
+"source_info": "Information om de obligatoriska riskutbildningarna för både Bil (B) och Motorcykel (MC).",
+"sections": [
+{
+"title": "Vad är Riskettan för Bil (Risk 1)?",
+"answer": "Riskettan Bil är en obligatorisk teoretisk utbildning på cirka 3,5 timmar. Den handlar om riskbeteenden i trafiken som alkohol, droger, trötthet och distraktioner. Du behöver inget körkortstillstånd för att gå denna kurs.",
+"keywords": [
+"3,5 timmar",
+"alkohol",
+"bil",
+"droger",
+"obligatorisk",
+"risk 1",
+"risk 1 bil",
+"riskettan",
+"riskettan bil",
+"teoretisk",
+"trötthet"
+]
+},
+{
+"title": "Vad är Risktvåan för Bil (Halkbana)?",
+"answer": "Risktvåan (ofta kallad Halkbanan) är den praktiska delen av riskutbildningen för bil. Kursen tar ca 4-5 timmar. Här får du köra på halt underlag för att uppleva hur bilen beter sig vid sladd och hårda inbromsningar. Krav: Du måste ha ett giltigt körkortstillstånd och kunna manövrera bilen väl.",
+"keywords": [
+"4-5 timmar",
+"bil",
+"halkbana",
+"halkkörning",
+"körkortstillstånd",
+"praktisk",
+"risk 2",
+"risk 2 bil",
+"risktvåan",
+"risktvåan bil",
+"sladd"
+]
+},
+{
+"title": "Vad är Riskettan för MC?",
+"answer": "Riskettan MC är en teoretisk utbildning specifikt anpassad för motorcyklister. Den fokuserar på risker, attityder och typiska olyckstyper för MC. Observera: Har du gjort Riskettan för bil gäller den INTE för MC.",
+"keywords": [
+"attityder",
+"gäller ej bil",
+"mc",
+"motorcykel",
+"obligatorisk",
+"risk 1",
+"risk 1 mc",
+"riskettan mc",
+"specifik",
+"teoretisk"
+]
+},
+{
+"title": "Vad är Risktvåan för MC?",
+"answer": "Risktvåan MC är en praktisk utbildning på bana där du tränar hastighet, bromsning, kurvtagning och balans. Det är inte en halkbana på samma sätt som för bil. Krav: Giltigt körkortstillstånd och god körvana.",
+"keywords": [
+"bana",
+"bromsning",
+"hastighet",
+"kurvtagning",
+"körkortstillstånd",
+"mc",
+"motorcykel",
+"praktisk",
+"risk 2",
+"risk 2 mc",
+"risktvåan mc"
+]
+},
+{
+"title": "Gäller Riskutbildning för Bil även för MC?",
+"answer": "Nej. Riskutbildningarna är behörighetsspecifika. Har du gått Risk 1 och 2 för Bil måste du ändå gå Risk 1 och 2 för MC om du ska ta MC-kort (och tvärtom). De är helt separata kurser.",
+"keywords": [
+"bil till mc",
+"byta",
+"gäller både",
+"gäller den",
+"kombinera",
+"mc till bil",
+"nej",
+"separata"
+]
+},
+{
+"title": "Hur länge är riskutbildningarna giltiga?",
+"answer": "En genomförd riskutbildning är giltig i 5 år från kursdatumet. Detta gäller både Risk 1 och Risk 2. Om giltighetstiden går ut måste du göra om kursen.",
+"keywords": [
+"5 år",
+"fem år",
+"giltighet",
+"giltighetstid",
+"hur länge",
+"utgår"
+]
+},
+{
+"title": "I vilken ordning ska jag göra Risk 1 och Risk 2?",
+"answer": "Du kan göra dem i vilken ordning du vill, men vi rekommenderar att du gör Risk 1 (teori) tidigt i utbildningen och Risk 2 (praktik) i slutet när du har god körvana.",
+"keywords": [
+"början",
+"i vilken ordning",
+"när göra",
+"ordning",
+"planering",
+"slutet",
+"tidigt"
+]
+},
+{
+"title": "Viktiga regler: ID, Tid och Nykterhet",
+"answer": "För att få delta på riskutbildningarna måste du: 1. Visa giltig ID-handling. 2. Komma i tid (kommer du sent nekas du tillträde). 3. Vara helt nykter (alkotest genomförs ofta). Missar du något av detta är din plats förbrukad.",
+"keywords": [
+"alkotest",
+"försent",
+"id-handling",
+"komma i tid",
+"krav",
+"legitimation",
+"nykter",
+"regler"
+]
+},
+{
+"title": "Vad är Nollvisionen?",
+"answer": "Nollvisionen är det svenska trafiksäkerhetsmålet som innebär att ingen ska dödas eller skadas allvarligt i trafiken. Riskutbildningarna är en viktig del i arbetet mot detta mål.",
+"keywords": [
+"dödas",
+"ingen",
+"nollvisionen",
+"skadas",
+"trafiksäkerhet",
+"vad är"
+]
+}
+]
+}

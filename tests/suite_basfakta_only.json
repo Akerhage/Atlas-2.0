@@ -1,0 +1,1513 @@
+{
+"tests": [
+{
+"id": "fact_basfakta_12_stegsguide_bil_s0",
+"question": "Hur tar man körkort? (Översikt av processen)",
+"required_keywords": [
+"12 steg",
+"börja ta körkort",
+"hur gör man"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s1",
+"question": "Vad gäller för steg 1: körkortstillstånd och synprov?",
+"required_keywords": [
+"150 kr",
+"16 år",
+"ansökan"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s2",
+"question": "Vad gäller för steg 2: gå handledarutbildningen?",
+"required_keywords": [
+"handledare",
+"handledarkurs",
+"handledarutbildning"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s3",
+"question": "Vad gäller för steg 3: övningskör privat och skaffa körkort billigare?",
+"required_keywords": [
+"billigare",
+"färre körlektioner",
+"kombinera"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s4",
+"question": "Vad gäller för steg 4: ta körlektioner med våra licensierade lärare?",
+"required_keywords": [
+"80 min",
+"dubbellektioner",
+"helger"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s5",
+"question": "Vad gäller för steg 5: plugga teori med appen?",
+"required_keywords": [
+"1000 frågor",
+"1000 teorifrågor",
+"appen"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s6",
+"question": "Vad gäller för steg 6: riskettan (risk 1)?",
+"required_keywords": [
+"alkohol",
+"droger",
+"obligatorisk"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s7",
+"question": "Vad gäller för steg 7: halkbanan (risk 2)?",
+"required_keywords": [
+"halkbanan",
+"obligatorisk",
+"praktisk"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s8",
+"question": "Vad gäller för steg 8: utbildningskontroll?",
+"required_keywords": [
+"bedömning",
+"fejkad uppkörning",
+"genrep"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s9",
+"question": "Vad gäller för steg 9: boka körkortsprov?",
+"required_keywords": [
+"boka prov",
+"förarprov",
+"godkänd"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s10",
+"question": "Vad gäller för steg 10: teoriprovet (kunskapsprov)?",
+"required_keywords": [
+"52 rätt",
+"70 frågor",
+"godkänd"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s11",
+"question": "Vad gäller för steg 11: uppkörningen (körprov)?",
+"required_keywords": [
+"30-40 minuter",
+"förarprovet",
+"förarprövare"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_12_stegsguide_bil_s12",
+"question": "Vad gäller för steg 12: prövotiden?",
+"required_keywords": [
+"förarprov",
+"göra om prov",
+"körkort indraget"
+],
+"source_file": "basfakta_12_stegsguide_bil.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s0",
+"question": "Vad är ett AM-körkort (moped klass 1, EU-moppe)?",
+"required_keywords": [
+"eu-moppe",
+"ingen skillnad",
+"klass 1"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s1",
+"question": "Vilka är kraven för att få ett AM-körkort?",
+"required_keywords": [
+"mopedkörkort",
+"krävs",
+"körkortstillstånd"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s2",
+"question": "Vad är åldersgränsen för AM-kurs?",
+"required_keywords": [
+"14 år",
+"14 år och 9 månader",
+"145 år"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s3",
+"question": "Hur lång är AM-kursen?",
+"required_keywords": [
+"17 timmar",
+"320 minuter",
+"10 timmar teori"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s4",
+"question": "Vad ingår i en AM-kurs?",
+"required_keywords": [
+"17 timmar",
+"hjälm",
+"ingår"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s5",
+"question": "Vad gäller för platser, tider och prisstandard för am-kurs?",
+"required_keywords": [
+"kontor",
+"kostnad",
+"standardpris"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s6",
+"question": "Vad gäller för kör extra försiktigt under prövotiden?",
+"required_keywords": [
+"körkort",
+"prövotid"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s7",
+"question": "Vad gäller för prov och uppkörning för am-körkort?",
+"required_keywords": [
+"körprov",
+"teoriprov",
+"trafikkörning"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s8",
+"question": "Vad gäller för skillnad moped klass 1 och eu-moppe?",
+"required_keywords": [
+"eu-moppe",
+"ingen skillnad",
+"moped klass 1"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s9",
+"question": "Vad gäller för bokning av am-kurs?",
+"required_keywords": [
+"anmäla",
+"bokning",
+"bokningslänk"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s10",
+"question": "Vad gäller för am-kurs i göteborg?",
+"required_keywords": [
+"bokningslänk",
+"erbjuder",
+"göteborg"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s11",
+"question": "Vad gäller för skillnad am-kurs och bilkörlektion?",
+"required_keywords": [
+"bilkörlektion",
+"ingen skillnad",
+"moped klass 1"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s12",
+"question": "Behöver jag körkortstillstånd för AM?",
+"required_keywords": [
+"behöver",
+"krävs",
+"körkortstillstånd"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_am_kort_och_kurser_s13",
+"question": "Vad gäller för privat övningskörning för moped (am)?",
+"required_keywords": [
+"inte tillåtet",
+"moped",
+"moppe"
+],
+"source_file": "basfakta_am_kort_och_kurser.json"
+},
+{
+"id": "fact_basfakta_be_b96_s0",
+"question": "Hur tar man B96-körkort (Utökad B)?",
+"required_keywords": [
+"160 min",
+"80 min",
+"b96-paket"
+],
+"source_file": "basfakta_be_b96.json"
+},
+{
+"id": "fact_basfakta_be_b96_s1",
+"question": "Hur tar man BE-körkort (Tungt släp)?",
+"required_keywords": [
+"4 timmar",
+"be-boken",
+"fotografering"
+],
+"source_file": "basfakta_be_b96.json"
+},
+{
+"id": "fact_basfakta_be_b96_s2",
+"question": "Vad är skillnaden mellan B96 och BE?",
+"required_keywords": [
+"3500 kg",
+"4250 kg",
+"be-boken"
+],
+"source_file": "basfakta_be_b96.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s0",
+"question": "Vad är en introduktionskurs (handledarkurs)?",
+"required_keywords": [
+"handledare",
+"handledarkurs",
+"handledarutbildning"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s1",
+"question": "Vad gäller för krav för att bli handledare?",
+"required_keywords": [
+"15 elever",
+"24 år",
+"ees-land"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s2",
+"question": "Gäller utländska körkort för handledare?",
+"required_keywords": [
+"ees-land",
+"norge",
+"polen"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s3",
+"question": "Vad gäller för krav på eleven (ålder och tillstånd)?",
+"required_keywords": [
+"15 år och 9 månader",
+"16 år",
+"elevens ålder"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s4",
+"question": "Måste elev och handledare gå kursen samtidigt?",
+"required_keywords": [
+"gå tillsammans",
+"olika tillfällen",
+"samma tid"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s5",
+"question": "Hur lång är kursen och vad ingår?",
+"required_keywords": [
+"35 timmar",
+"hur lång tid",
+"kaffe"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s6",
+"question": "Hur ansöker man om handledarskap (Handledarbevis)?",
+"required_keywords": [
+"ansöka",
+"digitalt",
+"e-tjänst"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s7",
+"question": "Vad gäller för giltighetstid?",
+"required_keywords": [
+"giltighet",
+"giltighetstid",
+"hur länge gäller"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s8",
+"question": "Vad gäller för viktigt: ta med id-handling!?",
+"required_keywords": [
+"glömt id",
+"id-handling",
+"legitimation"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_introduktionskurs_handledarkurs_bil_s9",
+"question": "Behöver jag gå kursen för MC eller körning på trafikskola?",
+"required_keywords": [
+"bara skola",
+"enbart trafikskola",
+"trafikskola"
+],
+"source_file": "basfakta_introduktionskurs_handledarkurs_bil.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s0",
+"question": "Vad är 'Mitt Körkort' för något?",
+"required_keywords": [
+"android",
+"app store",
+"google play"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s1",
+"question": "Kostar appen något? (Gratis vs Premium)",
+"required_keywords": [
+"betala",
+"engångskostnad",
+"gratis"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s2",
+"question": "Vad innehåller teoripaketet?",
+"required_keywords": [
+"1000 frågor",
+"300 frågor",
+"delar"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s3",
+"question": "Finns teorin som ljudbok? (Uppläsning)",
+"required_keywords": [
+"dyslexi",
+"hjälpmedel",
+"ljudbok"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s4",
+"question": "Vad gäller för andra funktioner: boka och chatta?",
+"required_keywords": [
+"avboka",
+"chatta",
+"feedback"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s5",
+"question": "Vad gäller för statistik: bemästra frågorna för att klara provet?",
+"required_keywords": [
+"900 frågor",
+"bemästra",
+"chans"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s6",
+"question": "Kan jag använda appen på datorn?",
+"required_keywords": [
+"bluestacks",
+"dator",
+"webben"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortsteori_mitt_korkort_s7",
+"question": "Vad gäller för privata teorilektioner?",
+"required_keywords": [
+"en till en",
+"extra hjälp",
+"hjälp med teorin"
+],
+"source_file": "basfakta_korkortsteori_mitt_korkort.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s0",
+"question": "Vad är ett körkortstillstånd?",
+"required_keywords": [
+"körkortsprov",
+"körkortstillstånd",
+"obligatoriskt"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s1",
+"question": "Hur ansöker jag (Bil/MC/Moped)?",
+"required_keywords": [
+"ansökan",
+"e-tjänst",
+"hur ansöker"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s2",
+"question": "Behövs läkarintyg för bil (Grupp 1)?",
+"required_keywords": [
+"diabetes",
+"diagnos",
+"grupp 1"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s3",
+"question": "Vad kostar det?",
+"required_keywords": [
+"150 kr",
+"ansökan",
+"avgift"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s4",
+"question": "Hur lång tid tar det (Handläggningstid)?",
+"required_keywords": [
+"4 veckor",
+"fyra veckor",
+"handläggningstid"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s5",
+"question": "Vad gäller för giltighetstid och förlängning?",
+"required_keywords": [
+"ansöka om nytt",
+"förlänga",
+"gammalt"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s6",
+"question": "Krav på hälsa och vandel (Varför nekas man?)",
+"required_keywords": [
+"alkolås",
+"avslag",
+"belastningsregister"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s7",
+"question": "Vad gäller för körkortstillstånd för lastbil/buss (grupp 2/3)?",
+"required_keywords": [
+"grupp 2",
+"grupp 3",
+"lastbil"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_korkortstillstand_s8",
+"question": "Vad gäller för åldersgräns för ansökan?",
+"required_keywords": [
+"ansöka",
+"hur gammal",
+"ingen åldersgräns"
+],
+"source_file": "basfakta_korkortstillstand.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s0",
+"question": "Vad är C-körkort (Tung lastbil)?",
+"required_keywords": [
+"c-körkort",
+"lastbil",
+"tung lastbil"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s1",
+"question": "Vad är CE-körkort (Tung lastbil med släp)?",
+"required_keywords": [
+"ce-körkort",
+"släpvagn",
+"tung lastbil"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s2",
+"question": "Vad är skillnaden på C1 och C? (Medeltung vs Tung)",
+"required_keywords": [
+"7500 kg",
+"husbil",
+"medeltung"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s3",
+"question": "Vad gäller för krav för att ta lastbilskörkort?",
+"required_keywords": [
+"b-körkort",
+"giltigt",
+"grundkrav"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s4",
+"question": "Vad är YKB (Yrkeskompetensbevis)?",
+"required_keywords": [
+"arbeta",
+"jobba",
+"lagkrav"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s5",
+"question": "Vad gäller för ykb grundutbildning (140 timmar)?",
+"required_keywords": [
+"140 timmar",
+"18 år",
+"grundutbildning"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s6",
+"question": "Vad gäller för ykb fortbildning (35 timmar)?",
+"required_keywords": [
+"35 timmar",
+"delkurser",
+"fortbildning"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s7",
+"question": "Var erbjuder ni lastbilsutbildning (C/CE/YKB)?",
+"required_keywords": [
+"göteborg",
+"hässleholm",
+"kristianstad"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s8",
+"question": "Vad gäller för kontakt och bokning för tung trafik?",
+"required_keywords": [
+"010-188 83 26",
+"boka lastbil",
+"kontakt"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lastbil_c_ce_c1_c1e_s9",
+"question": "Vad är C1E-körkort?",
+"required_keywords": [
+"12000 kg",
+"medeltung med släp",
+"totalvikt"
+],
+"source_file": "basfakta_lastbil_c_ce_c1_c1e.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s0",
+"question": "Vad är en Testlektion (Provlektion)?",
+"required_keywords": [
+"bedömning",
+"boka testlektion",
+"en gång"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s1",
+"question": "Vad är en Körlektion (80 min)?",
+"required_keywords": [
+"80 min",
+"80 minuter",
+"effektivt"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s2",
+"question": "Vad är skillnaden på Manuell och Automat?",
+"required_keywords": [
+"automat",
+"automatkörkort",
+"manuell"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s3",
+"question": "Vad gäller för våra lektionspaket (minipaket, mellanpaket, baspaket)?",
+"required_keywords": [
+"10 lektioner",
+"15 lektioner",
+"5 lektioner"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s4",
+"question": "Vad gäller för våra totalpaket (startpaket med kurser)?",
+"required_keywords": [
+"allt i ett",
+"halkbana",
+"ingår"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s5",
+"question": "Ingår Trafikverkets avgifter i paketen?",
+"required_keywords": [
+"avgifter",
+"betala",
+"fotografering"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s6",
+"question": "Vad är en Prova-på-uppkörning (Utbildningskontroll)?",
+"required_keywords": [
+"bedömning",
+"fejkad uppkörning",
+"genrep"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s7",
+"question": "Hur fungerar Intensivkurs (2 veckor)?",
+"required_keywords": [
+"2 veckor",
+"hur fungerar"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s8",
+"question": "Hur länge är paketen giltiga?",
+"required_keywords": [
+"24 månader",
+"giltighet",
+"giltighetstid"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_bil_s9",
+"question": "Vad gäller för extra stöd för återfallselever?",
+"required_keywords": [
+"anpassning",
+"gammalt körkort",
+"indraget"
+],
+"source_file": "basfakta_lektioner_paket_bil.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s0",
+"question": "Hur många körlektioner behövs för MC?",
+"required_keywords": [
+"antal",
+"antal lektioner",
+"behövs"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s1",
+"question": "Vad ingår i Totalpaket för MC?",
+"required_keywords": [
+"alla moment",
+"ingår",
+"innehåll"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s2",
+"question": "Vad ingår i Lektionspaket för MC?",
+"required_keywords": [
+"10 lektioner",
+"5 lektioner",
+"lektionspaket",
+"antal"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s3",
+"question": "Hur lång är en MC-lektion (Solo vs Duo)?",
+"required_keywords": [
+"100 min",
+"80 min",
+"80 minuter"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s4",
+"question": "Får man låna MC-kläder och utrustning?",
+"required_keywords": [
+"handskar",
+"hjälm",
+"kläder"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s5",
+"question": "Vad är skillnaden på Totalpaket och Lektionspaket (MC)?",
+"required_keywords": [
+"bara körlektioner",
+"jämförelse",
+"lektionspaket"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s6",
+"question": "Hur länge gäller MC-paketen?",
+"required_keywords": [
+"24 månader",
+"giltighet",
+"giltighetstid"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_lektioner_paket_mc_s7",
+"question": "Var startar körlektionerna (Bana eller Trafik)?",
+"required_keywords": [
+"börja",
+"gillinge",
+"manöverbana"
+],
+"source_file": "basfakta_lektioner_paket_mc.json"
+},
+{
+"id": "fact_basfakta_mc_a_a1_a2_s0",
+"question": "Vad gäller för a1-körkort (lätt motorcykel)?",
+"required_keywords": [
+"01 kw/kg",
+"125cc",
+"16 år"
+],
+"source_file": "basfakta_mc_a_a1_a2.json"
+},
+{
+"id": "fact_basfakta_mc_a_a1_a2_s1",
+"question": "Vad gäller för a2-körkort (mellanstor motorcykel)?",
+"required_keywords": [
+"02 kw/kg",
+"18 år",
+"effekt"
+],
+"source_file": "basfakta_mc_a_a1_a2.json"
+},
+{
+"id": "fact_basfakta_mc_a_a1_a2_s2",
+"question": "Vad gäller för a-körkort (tung motorcykel)?",
+"required_keywords": [
+"20 år",
+"21 år",
+"24 år"
+],
+"source_file": "basfakta_mc_a_a1_a2.json"
+},
+{
+"id": "fact_basfakta_mc_a_a1_a2_s3",
+"question": "Vad gäller för uppgradera a1 till a2, eller a2 till a?",
+"required_keywords": [
+"a1 till a2",
+"a2 till a",
+"behöver jag göra om teorin"
+],
+"source_file": "basfakta_mc_a_a1_a2.json"
+},
+{
+"id": "fact_basfakta_mc_a_a1_a2_s4",
+"question": "Vad gäller för trehjulig och fyrhjulig mc (regler)?",
+"required_keywords": [
+"21 år",
+"b-kort",
+"fyrhjulig"
+],
+"source_file": "basfakta_mc_a_a1_a2.json"
+},
+{
+"id": "fact_basfakta_mc_a_a1_a2_s5",
+"question": "Vad gäller för körkortstillstånd för mc?",
+"required_keywords": [
+"ansöka",
+"grupp 1",
+"giltigt"
+],
+"source_file": "basfakta_mc_a_a1_a2.json"
+},
+{
+"id": "fact_basfakta_mc_a_a1_a2_s6",
+"question": "Var erbjuder ni MC-utbildning?",
+"required_keywords": [
+"göteborg",
+"helsingborg",
+"hässleholm"
+],
+"source_file": "basfakta_mc_a_a1_a2.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s0",
+"question": "Vad gäller för testlektion för mc (endast inför intensivkurs)?",
+"required_keywords": [
+"bedömning",
+"boka testlektion",
+"inför intensivkurs"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s1",
+"question": "När är MC-säsongen? (Vinteruppehåll)",
+"required_keywords": [
+"halka",
+"när börjar ni",
+"när slutar ni"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s2",
+"question": "Hur många körlektioner behövs för MC?",
+"required_keywords": [
+"antal",
+"antal lektioner",
+"behövs"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s3",
+"question": "Vad är Risk 1 och Risk 2 för MC?",
+"required_keywords": [
+"halkbana",
+"innehåll",
+"obligatorisk"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s4",
+"question": "Vad ingår i Totalpaket för MC?",
+"required_keywords": [
+"alla moment",
+"ingår",
+"innehåll"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s6",
+"question": "Hur lång är en MC-lektion (Solo vs Duo)?",
+"required_keywords": [
+"100 min",
+"80 min",
+"80 minuter"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s7",
+"question": "Får man låna MC-kläder och utrustning?",
+"required_keywords": [
+"handskar",
+"hjälm",
+"kläder"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s8",
+"question": "Vilka motorcyklar kör ni med?",
+"required_keywords": [
+"yamaha",
+"mt-07",
+"bensin",
+"motorcykel"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s9",
+"question": "Hur länge gäller MC-paketen?",
+"required_keywords": [
+"24 månader",
+"giltighet",
+"giltighetstid"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_mc_lektioner_utbildning_s10",
+"question": "Var startar körlektionerna (Bana eller Trafik)?",
+"required_keywords": [
+"börja",
+"gillinge",
+"manöverbana"
+],
+"source_file": "basfakta_mc_lektioner_utbildning.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s0",
+"question": "Vad gäller för fakturaadress mårtenssons?",
+"required_keywords": [
+"fakturaadress mårtenssons",
+"faktura mårtenssons",
+"skicka faktura mårtenssons"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s1",
+"question": "Vad gäller för fakturaadress mda?",
+"required_keywords": [
+"fakturaadress mda",
+"faktura mda",
+"faktura my driving academy"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s2",
+"question": "Vad gäller för ångerrätt?",
+"required_keywords": [
+"ångerrätt",
+"ångra köp",
+"ångra mitt köp"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s3",
+"question": "Vad gäller för vad ingår i am?",
+"required_keywords": [
+"vad ingår i am",
+"vad ingår i moped",
+"ingår i am-kurs"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s4",
+"question": "Vad gäller för hej?",
+"required_keywords": [
+"tjena",
+"hallå",
+"god morgon"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s5",
+"question": "Vad gäller för tack?",
+"required_keywords": [
+"tack så mycket",
+"tusen tack",
+"schysst"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s6",
+"question": "Vad gäller för vem är du?",
+"required_keywords": [
+"vem är du",
+"vad är du",
+"är du en människa"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_nollutrymme_s7",
+"question": "Vad gäller för prata med en människa?",
+"required_keywords": [
+"prata med en människa",
+"prata med personal",
+"kundtjänst"
+],
+"source_file": "basfakta_nollutrymme.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s0",
+"question": "Är Mårtenssons Trafikskola och My Driving Academy samma företag?",
+"required_keywords": [
+"41 kontor",
+"antal kontor",
+"my driving academy"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s1",
+"question": "Vad gäller för hemsida för my driving academy?",
+"required_keywords": [
+"hemsida",
+"my driving academy",
+"webbadress"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s2",
+"question": "Vad gäller för hemsida för mårtenssons trafikskola?",
+"required_keywords": [
+"hemsida",
+"mårtenssons",
+"webbadress"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s3",
+"question": "Hur många klarar proven på första försöket?",
+"required_keywords": [
+"första försöket",
+"godkända",
+"hur många"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s4",
+"question": "Varför skiljer sig priserna åt i landet?",
+"required_keywords": [
+"dyrare",
+"kontor",
+"olika priser"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s5",
+"question": "Vad gäller för företagsuppgifter & support - my driving academy?",
+"required_keywords": [
+"010-20 70 775",
+"email",
+"företagsuppgifter"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s6",
+"question": "Vad gäller för företagsuppgifter & support - mårtenssons trafikskola?",
+"required_keywords": [
+"010-333 32 31",
+"företagsuppgifter",
+"kontakt"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s7",
+"question": "Vad gäller för fakturaadress - mårtenssons trafikskola?",
+"required_keywords": [
+"faktura",
+"fakturaadress",
+"mårtenssons faktura"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_om_foretaget_s8",
+"question": "Vad gäller för fakturaadress - my driving academy (mda)?",
+"required_keywords": [
+"faktura",
+"fakturaadress",
+"mda faktura"
+],
+"source_file": "basfakta_om_foretaget.json"
+},
+{
+"id": "fact_basfakta_personbil_b_s0",
+"question": "Vad gäller för åldersgräns för b-körkort?",
+"required_keywords": [
+"16 år",
+"18 år",
+"b-körkort"
+],
+"source_file": "basfakta_personbil_b.json"
+},
+{
+"id": "fact_basfakta_personbil_b_s1",
+"question": "Vad gäller för krav för att övningsköra privat?",
+"required_keywords": [
+"16 år",
+"grön skylt",
+"handledare"
+],
+"source_file": "basfakta_personbil_b.json"
+},
+{
+"id": "fact_basfakta_personbil_b_s2",
+"question": "Får man ha passagerare när man övningskör?",
+"required_keywords": [
+"barn i bilen",
+"kompis",
+"passagerare"
+],
+"source_file": "basfakta_personbil_b.json"
+},
+{
+"id": "fact_basfakta_personbil_b_s3",
+"question": "Vad gäller för manuell vs automat (kod 78)?",
+"required_keywords": [
+"automat",
+"automatkörkort",
+"begränsning"
+],
+"source_file": "basfakta_personbil_b.json"
+},
+{
+"id": "fact_basfakta_personbil_b_s4",
+"question": "Vad ingår i uppkörningen (Körprov)?",
+"required_keywords": [
+"25 minuter",
+"45 minuter",
+"examinator"
+],
+"source_file": "basfakta_personbil_b.json"
+},
+{
+"id": "fact_basfakta_personbil_b_s5",
+"question": "Får jag dra släp på vanligt B-körkort?",
+"required_keywords": [
+"3500 kg",
+"750 kg",
+"b-kort"
+],
+"source_file": "basfakta_personbil_b.json"
+},
+{
+"id": "fact_basfakta_personbil_b_s6",
+"question": "Kan en 17-åring övningsköra?",
+"required_keywords": [
+"16 år",
+"17 år",
+"17-åring"
+],
+"source_file": "basfakta_personbil_b.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s0",
+"question": "När måste jag senast avboka en körlektion?",
+"required_keywords": [
+"avgift",
+"avboka",
+"avbokningsregler"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s1",
+"question": "Vad gäller för avbokningsregler för kurser (risk 1, intro)?",
+"required_keywords": [
+"avboka",
+"handledarkurs",
+"introduktionskurs"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s2",
+"question": "Vad gäller för avbokningsregler för halkbana (risk 2)?",
+"required_keywords": [
+"4 vardagar",
+"avboka",
+"halkbana"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s3",
+"question": "Vad gäller för avbokningsregler för am-kurs (moped)?",
+"required_keywords": [
+"1 vecka",
+"7 dagar",
+"am-kurs"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s4",
+"question": "Vad gäller för avbokningsregler för mc-intensivkurs?",
+"required_keywords": [
+"14 dagar",
+"2 veckor",
+"avboka"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s5",
+"question": "Vad gäller vid sjukdom? (Läkarintyg)",
+"required_keywords": [
+"debitering",
+"inom 1 vecka",
+"läkarintyg"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s6",
+"question": "Gäller VAB som giltig frånvaro?",
+"required_keywords": [
+"giltig frånvaro",
+"räknas inte",
+"vård av barn"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s7",
+"question": "Vad gäller för ångerrätt och återbetalning (14 dagar)?",
+"required_keywords": [
+"14 dagar",
+"administrativ avgift",
+"pengarna tillbaka"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s8",
+"question": "Hur länge gäller mina köpta paket? (Giltighetstid)",
+"required_keywords": [
+"24 månader",
+"förfaller",
+"giltighet"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s9",
+"question": "Integritetspolicy och GDPR (Hur hanterar ni mina uppgifter?)",
+"required_keywords": [
+"integritet",
+"integritetspolicy",
+"personuppgifter"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s10",
+"question": "Vad gäller för betalningsalternativ?",
+"required_keywords": [
+"betalning",
+"delbetalning",
+"faktura"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_policy_kundavtal_s11",
+"question": "Vad gäller för kontakt och support?",
+"required_keywords": [
+"010-333 32 31",
+"chatta",
+"kontakt"
+],
+"source_file": "basfakta_policy_kundavtal.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s0",
+"question": "Vad är Riskettan för Bil (Risk 1)?",
+"required_keywords": [
+"35 timmar",
+"alkohol",
+"droger"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s1",
+"question": "Vad är Risktvåan för Bil (Halkbana)?",
+"required_keywords": [
+"4-5 timmar",
+"halkbana",
+"halkkörning"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s2",
+"question": "Vad är Riskettan för MC?",
+"required_keywords": [
+"attityder",
+"gäller ej bil",
+"motorcykel"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s3",
+"question": "Vad är Risktvåan för MC?",
+"required_keywords": [
+"bromsning",
+"hastighet",
+"kurvtagning"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s4",
+"question": "Gäller Riskutbildning för Bil även för MC?",
+"required_keywords": [
+"bil till mc",
+"gäller både",
+"gäller den"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s5",
+"question": "Hur länge är riskutbildningarna giltiga?",
+"required_keywords": [
+"fem år",
+"giltighet",
+"giltighetstid"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s6",
+"question": "I vilken ordning ska jag göra Risk 1 och Risk 2?",
+"required_keywords": [
+"början",
+"i vilken ordning",
+"när göra"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s7",
+"question": "Vad gäller för viktiga regler: id, tid och nykterhet?",
+"required_keywords": [
+"alkotest",
+"försent",
+"id-handling"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_riskutbildning_bil_mc_s8",
+"question": "Vad är Nollvisionen?",
+"required_keywords": [
+"dödas",
+"ingen",
+"nollvisionen"
+],
+"source_file": "basfakta_riskutbildning_bil_mc.json"
+},
+{
+"id": "fact_basfakta_saknade_svar_s0",
+"question": "Vad gäller för jag förstår inte frågan (fallback)?",
+"required_keywords": [
+"fallback",
+"inget svar",
+"förstår inte"
+],
+"source_file": "basfakta_saknade_svar.json"
+},
+{
+"id": "fact_basfakta_saknade_svar_s1",
+"question": "Vad gäller för kontakta support (fallback)?",
+"required_keywords": [
+"support",
+"kontakt",
+"nummer"
+],
+"source_file": "basfakta_saknade_svar.json"
+},
+{
+"id": "fact_basfakta_saknade_svar_s2",
+"question": "Vad gäller för rabatt på paket om man redan har körkort?",
+"required_keywords": [
+"b-körkort",
+"billigare",
+"har redan körkort"
+],
+"source_file": "basfakta_saknade_svar.json"
+},
+{
+"id": "fact_basfakta_saknade_svar_s3",
+"question": "Vad gäller för betalning efter lektion och avbetalning?",
+"required_keywords": [
+"förskott",
+"delbetala"
+],
+"source_file": "basfakta_saknade_svar.json"
+}
+]
+}

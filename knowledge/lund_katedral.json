@@ -1,0 +1,236 @@
+{
+  "id": "martenssons_trafikskola_lund_katedral",
+  "name": "Mårtenssons Trafikskola - Lund – Katedral",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Lund",
+  "area": "Katedral",
+  "description": "Välkommen till Mårtenssons Trafikskola vid Katedral! Lund är cyklarnas stad, men ett körkort ger dig frihet och en stark merit. Hos Mårtenssons Trafikskola i Lund får du den bästa utbildningen för att nå ditt mål!",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "lund",
+    "katedral",
+    "katedralskolan",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "046 – 261 04 81",
+    "email": "lund.katedral@trafikskolan.com",
+    "address": "Grönegatan 24, 222 24 Lund"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 - 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Lund",
+        "Katedral"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1199,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15399,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5699,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11099,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 3999,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5799,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "lund",
+        "katedral"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200031&locationId=200027",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200031&locationId=200027"
+  }
+}

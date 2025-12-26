@@ -1,0 +1,219 @@
+{
+  "id": "martenssons_trafikskola_eslov",
+  "name": "Mårtenssons Trafikskola – Eslöv",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Eslöv",
+  "description": "Välkommen till Mårtenssons Trafikskola i Eslöv! Vi erbjuder personlig och prisvärd körkortsutbildning i Eslöv. Med erfarna lärare och lättkörda bilar anpassar vi utbildningen efter dina behov – oavsett om du vill ha en intensivkurs eller kombinera med privat körning.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "eslöv",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "041 – 353 56 50",
+    "email": "eslov@trafikskolan.com",
+    "address": "Gröna Torg 4, 241 30 Eslöv"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 - 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Eslöv"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1149,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 9999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 14999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5449,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 10599,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 15599,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4199,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "eslöv"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200032&locationId=200028",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200032&locationId=200028"
+  }
+}

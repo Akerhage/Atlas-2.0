@@ -1,0 +1,228 @@
+{
+  "id": "martenssons_trafikskola_vellinge",
+  "name": "Mårtenssons Trafikskola – Vellinge",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Vellinge",
+  "description": "Välkommen till Mårtenssons Trafikskola i Vellinge! Redo att ta körkort? Hos Mårtenssons Trafikskola i Vellinge är du välkommen oavsett om du är nybörjare eller har övningskört tidigare. Vi erbjuder utbildning för moped, bil och släp – för alla, oavsett bakgrund eller behov.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "vellinge",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "040-42 02 15",
+    "email": "vellinge@trafikskolan.com",
+    "address": "Stortorget 3, 235 31 Vellinge"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "Stängt"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil",
+    "Släp"
+  ],
+  "languages": [
+    "svenska",
+    "engelska",
+    "danska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Vellinge"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1199,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15399,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5699,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11099,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 349,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "BE Paket",
+      "price": 5999,
+      "currency": "SEK",
+      "keywords": [
+        "be",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    },
+    {
+      "service_name": "B96 Paket",
+      "price": 4199,
+      "currency": "SEK",
+      "keywords": [
+        "b96",
+        "släp",
+        "paket",
+        "pris",
+        "kostnad",
+        "vellinge"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200037&locationId=200030",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200037&locationId=200031&serviceId=459"
+  }
+}

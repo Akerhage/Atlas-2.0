@@ -1,0 +1,206 @@
+{
+  "id": "martenssons_trafikskola_malmo_limhamn",
+  "name": "Mårtenssons Trafikskola - Malmö – Limhamn",
+  "brand": "Mårtenssons Trafikskola",
+  "city": "Malmö",
+  "area": "Limhamn",
+  "description": "Välkommen till Mårtenssons Trafikskola på Limhamn! I natursköna Limhamn, nära havet, hittar du Mårtenssons Trafikskola.",
+  "keywords": [
+    "mårtenssons",
+    "trafikskola",
+    "malmö",
+    "limhamn",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "040 – 643 42 99",
+    "email": "limhamn@trafikskolan.com",
+    "address": "Järnvägsgatan 22, 216 14 Limhamn"
+  },
+  "opening_hours": [
+    {
+      "days": "Mån – Tors",
+      "hours": "08:30– 17:00"
+    },
+    {
+      "days": "Fredag",
+      "hours": "08:00 - 14:00"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil"
+  ],
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Malmö",
+        "Limhamn"
+      ]
+    },
+    {
+      "service_name": "Privat Teorilektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1149,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 9999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 14999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5549,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 10599,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 15999,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "pris",
+        "kostnad",
+        "malmö",
+        "limhamn"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200038&locationId=200039",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200038&locationId=200039"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "id": "my_driving_academy_umea",
+  "name": "My Driving Academy – Umeå",
+  "brand": "My Driving Academy",
+  "city": "Umeå",
+  "description": "Vi på My Driving Academy Umeå ger dig verktygen att övningsköra mer hemma och mindre med oss, du sparar både tid och pengar när du tar ditt körkort! Vi finns här för dig varje steg på vägen. Vår Trafikskola Umeå finns på Västra Norrlandsgatan 7.",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "umeå",
+    "kontakt",
+    "öppettider",
+    "priser"
+  ],
+  "contact": {
+    "phone": "010-20 70 775 (centralsupporten)",
+    "email": "hej@mydrivingacademy.com",
+    "address": "Västra Norrlandsgatan 7, 903 27 Umeå"
+  },
+  "opening_hours": [
+    {
+      "days": "Info",
+      "hours": "Umeå har ingen reception, supporten sköts av centralsupporten"
+    }
+  ],
+  "services_offered": [
+    "AM",
+    "Bil"
+  ],
+  "languages": [
+    "Svenska",
+    "Engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "AM Mopedutbildning",
+      "price": 10999,
+      "currency": "SEK",
+      "keywords": [
+        "Moped",
+        "AM",
+        "pris",
+        "kostnad",
+        "Umeå"
+      ]
+    },
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1199,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 1299,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Testlektion BIL",
+      "price": 899,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Prova-På-Uppkörning BIL",
+      "price": 1199,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Körbedömning for sökande till Trafiklärarutbildningen BIL",
+      "price": 1200,
+      "currency": "SEK",
+      "keywords": [
+        "körbedömning",
+        "trafiklärarutbildningen",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 15399,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 20499,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 5699,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 11099,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 16499,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    },
+    {
+      "service_name": "Risk 2 BIL",
+      "price": 3299,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "umeå"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200003&locationId=9",
+    "MC": null,
+    "AM": "https://booking.mydrivingacademy.com/widget?vehicleType=moped&productType=Bundle&regionId=200003&locationId=9&serviceId=477"
+  }
+}

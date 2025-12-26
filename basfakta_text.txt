@@ -1,0 +1,506 @@
+
+
+===== FIL 1 / 17: basfakta_12_stegsguide_bil.json =====
+
+**Hur tar man körkort? (Översikt av processen)**
+Keywords: 12 steg, börja ta körkort, hur gör man, hur tar jag körkort, processen, steg för steg, ta körkort, vägen till körkort, ordning, vad ska jag börja med
+
+**Steg 1: Körkortstillstånd och synprov**
+Keywords: 150 kr, 16 år, 5 år, ansökan, börja, första steget, giltigt 5 år, körkortstillstånd, steg 1, synprov, syntest, transportstyrelsen
+
+**Steg 2: Gå handledarutbildningen**
+Keywords: handledare, handledarkurs, handledarutbildning, introduktionskurs, introkurs, privat, steg 2, övningsköra privat
+
+**Steg 3: Övningskör privat och skaffa körkort billigare**
+Keywords: billigare, färre körlektioner, kombinera, kostnad, pris, privat övningskörning, spara pengar, steg 3, övningskör privat
+
+**Steg 4: Ta körlektioner med våra licensierade lärare**
+Keywords: 80 min, dubbellektioner, helger, kvällar, körlektion, körlektioner, licensierade, samma pris, steg 4, trafiklärare
+
+**Steg 5: Plugga teori med appen**
+Keywords: 1000 frågor, 1000 teorifrågor, appen, körkortsteori, mitt körkort, plugga, skyltar, steg 5, teori, teorifrågor, teoripaket, vägmärken
+
+**Steg 6: Riskettan (Risk 1)**
+Keywords: alkohol, droger, obligatorisk, risk 1, riskettan, riskutbildning del 1, steg 6, teoretisk, trötthet, när gör man riskettan
+
+**Steg 7: Halkbanan (Risk 2)**
+Keywords: halkbanan, obligatorisk, praktisk, risk 2, risktvåan, riskutbildning del 2, steg 7, när gör man halkan
+
+**Steg 8: Utbildningskontroll**
+Keywords: bedömning, fejkad uppkörning, genrep, prova-på-uppkörning, redo för prov, steg 8, utbildningskontroll
+
+**Steg 9: Boka körkortsprov**
+Keywords: boka prov, förarprov, godkänd, hjälpa till, kontoret, kunskapsprov, körkortsprov, steg 9, teoriprov, trafikverket, uppkörning, utbildningskontroll
+
+**Steg 10: Teoriprovet (Kunskapsprov)**
+Keywords: 52 rätt, 70 frågor, godkänd, klara provet, kunskapsprov, mitt körkort, steg 10, teoriprov, trafikverket
+
+**Steg 11: Uppkörningen (Körprov)**
+Keywords: 30-40 minuter, förarprovet, förarprövare, klara provet, körprov, körprovet, steg 11, säkerhetskontroll, trafikverket, uppkörning
+
+**Steg 12: Prövotiden**
+Keywords: 2 år, förarprov, göra om prov, körkort indraget, prövotid, steg 12, teori och uppkörning
+
+
+
+===== FIL 2 / 17: basfakta_am_kort_och_kurser.json =====
+
+**Vad är ett AM-körkort (moped klass 1, EU-moppe)?**
+Keywords: am, eu-moppe, ingen skillnad, klass 1, körkort, moped, moped klass 1, mopedkörkort, moppe, moppekort
+
+**Vilka är kraven för att få ett AM-körkort?**
+Keywords: 15 år, am, krav, krävs, körkortstillstånd, mopedkörkort, åldersgräns
+
+**Vad är åldersgränsen för AM-kurs?**
+Keywords: 14 år, 14 år och 9 månader, 14,5 år, 9 månader, am-kurs, börja, hur gammal, när kan jag, påbörja, startålder, ålder, åldersgräns
+
+**Hur lång är AM-kursen och vad ingår?**
+Keywords: 10 timmar teori, 17 timmar, 320 minuter, am, am-kurs, hjälm, hur lång, ingår, innehåll, kurs, kursinnehåll, körning i trafik, lån av moped, längd, manöver/grupp-körning, skyddsutrustning, teori, tid, trafikkörning, utrustning, vad ingår
+
+**Platser, Tider och Prisstandard för AM-kurs**
+Keywords: am, kontor, kostnad, pris, standardpris, 10999, hela sverige, skollov, sportlov, påsklov, sommarlov, höstlov, jullov, helgkurs, kvällskurs
+
+**Kör extra försiktigt under prövotiden**
+Keywords: 2 år, am, körkort, prövotid
+
+**Prov och Uppkörning för AM-körkort**
+Keywords: am, körprov, prov, teoriprov, trafikkörning, trafikverket, uppkörning, bedömning, godkänd, lärare, 320 minuter, klara provet, kunskapsprov
+
+**Skillnad Moped klass 1 och EU-moppe**
+Keywords: am, eu-moppe, ingen skillnad, moped klass 1, samma, skillnad
+
+**Bokning av AM-kurs**
+Keywords: am, anmäla, bokning, bokningslänk, boka här, boka online
+
+**AM-kurs i Göteborg**
+Keywords: am, bokningslänk, erbjuder, Göteborg, Högsbo, Ja, kurs, Mölndal, Mölnlycke, Ullevi, Boka här
+
+**Skillnad AM-kurs och bilkörlektion**
+Keywords: am, bilkörlektion, ingen skillnad, moped klass 1, personbil, skillnad
+
+**Privat övningskörning för Moped (AM)**
+Keywords: am, inte tillåtet, moped, moppe, måste ske hos utbildare, privat, privat övningskörning, övningsköra, övningsköra hemma, övningsköra privat, övningsköra privat med mopeden, handledare
+
+
+
+===== FIL 3 / 17: basfakta_be_b96.json =====
+
+**Hur tar man B96-körkort (Utökad B)?**
+Keywords: 160 min, 80 min, b96, b96-paket, behöver inte teoriprov, foto, fotografering, frånkoppling, husvagn, hästtransport, inget teoriprov, körprov, process, släp, tillkoppling, uppvärmning, utan teoriprov, utökad b
+
+**Hur tar man BE-körkort (Tungt släp)?**
+Keywords: 4 timmar, be, be-boken, foto, fotografering, giltigt, husvagn, hästtransport, krav, kunskapsprov, körkortstillstånd, körlektioner, körprov, mitt körkort, process, sms, ta be-kort, teori innan körning, teoriprov, tungt släp, upplägg
+
+**Vad är skillnaden mellan B96 och BE?**
+Keywords: 3500 kg, 4250 kg, b96, be, be-boken, skillnad, teori, teoriprov, totalvikt, vad är skillnaden, viktgräns
+
+
+
+===== FIL 4 / 17: basfakta_introduktionskurs_handledarkurs_bil.json =====
+
+**Vad är en introduktionskurs (handledarkurs)?**
+Keywords: handledare, handledarkurs, handledarutbildning, introduktionskurs, introkurs, obligatorisk, personbil, privat övningskörning, vad är
+
+**Krav för att bli handledare**
+Keywords: 15 elever, 24 år, 5 år, EES-land, giltigt körkort, handledare, indraget körkort, krav, krav handledare, nekad, rattfylleri, vilka krav, ålder
+
+**Gäller utländska körkort för handledare?**
+Keywords: EES, EES-land, Norge, Polen, Tyskland, utländskt körkort
+
+**Krav på eleven (Ålder och tillstånd)**
+Keywords: 15 år och 9 månader, 16 år, elevens ålder, hur gammal, krav elev, körkortstillstånd, ålder, åldersgräns
+
+**Måste elev och handledare gå kursen samtidigt?**
+Keywords: gå tillsammans, olika tillfällen, samma tid, samtidigt, separat
+
+**Hur lång är kursen och vad ingår?**
+Keywords: 3,5 timmar, hur lång tid, kaffe, kvällstid, längd, pauser, te, tid, tre och en halv timme, vad ingår
+
+**Hur ansöker man om handledarskap (Handledarbevis)?**
+Keywords: ansöka, digitalt, e-tjänst, handledarbevis, handledarskap, hur gör man, kostar, pris, transportstyrelsen
+
+**Giltighetstid**
+Keywords: 5 år, giltighet, giltighetstid, hur länge gäller, ny elev
+
+**Viktigt: Ta med ID-handling!**
+Keywords: glömt id, id-handling, legitimation, pass, ta med, viktigt
+
+**Behöver jag gå kursen för MC eller körning på trafikskola?**
+Keywords: bara skola, enbart trafikskola, mc, trafikskola
+
+
+
+===== FIL 5 / 17: basfakta_korkortsteori_mitt_korkort.json =====
+
+**Vad är 'Mitt Körkort' för något?**
+Keywords: AM, android, app, app store, B, google play, iphone, MC, mitt körkort, mobilapp, teori, teoripaket, vad är
+
+**Kostar appen något? (Gratis vs Premium)**
+Keywords: betala, engångskostnad, gratis, kostar, köpa, ladda ner, obegränsad tillgång, premium, pris, testa, vad kostar
+
+**Vad innehåller teoripaketet?**
+Keywords: 1000 frågor, 300 frågor, delar, innehåll, plugga, prov, skyltar, teoripaket, vad ingår, vägmärken, övningsfrågor
+
+**Finns teorin som ljudbok? (Uppläsning)**
+Keywords: dyslexi, hjälpmedel, ljudbok, lyssna, läsa, lässvårigheter, talsyntes, uppläsning
+
+**Andra funktioner: Boka och Chatta**
+Keywords: avboka, boka, chatta, feedback, funktioner, internet, kontakt, lektioner, lärare, offline, saldo
+
+**Statistik: Bemästra frågorna för att klara provet**
+Keywords: 90%, 900 frågor, bemästra, chans, första försöket, garanti, klara provet, statistik, två gånger i rad
+
+**Kan jag använda appen på datorn?**
+Keywords: bluestacks, dator, mac, pc, webben, webbläsare
+
+**Privata teorilektioner**
+Keywords: en till en, extra hjälp, hjälp med teorin, privatlektion, svårt med teorin, teorilektion
+
+
+
+===== FIL 6 / 17: basfakta_korkortstillstand.json =====
+
+**Vad är ett körkortstillstånd?**
+Keywords: körkortsprov, körkortstillstånd, obligatoriskt, tillstånd, transportstyrelsen, vad är, övningsköra
+
+**Hur ansöker jag (Bil/MC/Moped)?**
+Keywords: ansökan, bil, e-tjänst, hur ansöker, hälsodeklaration, mc, moped, optiker, process, synintyg, syntest, transportstyrelsen
+
+**Behövs läkarintyg för bil (Grupp 1)?**
+Keywords: adhd, diabetes, diagnos, grupp 1, inget läkarintyg, inte, läkarintyg, nej, syntest
+
+**Vad kostar det?**
+Keywords: 150 kr, ansökan, avgift, gratis, kostnad, pris, synundersökning, vad kostar
+
+**Hur lång tid tar det (Handläggningstid)?**
+Keywords: 4 veckor, fyra veckor, handläggningstid, hur lång tid, när får jag, utredning, väntetid
+
+**Giltighetstid och Förlängning av körkortstillstånd**
+Keywords: 5 år, ansöka om nytt, förlänga, gammalt, giltighetstid tillstånd, giltigt tillstånd, gått ut, hur länge gäller tillståndet, inte förlänga, tillstånd giltighetstid, körkortstillstånd giltigt, förlänga tillstånd, nytt tillstånd
+
+**Krav på hälsa och vandel (Varför nekas man?)**
+Keywords: alkolås, avslag, belastningsregister, brott, hälsa, lämplighet, nekad, polisen, rattfylleri, vandel
+
+**Körkortstillstånd för Lastbil/Buss (Grupp 2/3)**
+Keywords: buss, grupp 2, grupp 3, lastbil, läkarintyg, läkarundersökning, tung behörighet
+
+**Körkortstillstånd för MC**
+Keywords: ansöka, grupp 1, giltigt, krav, körkortstillstånd, mc, syntest, transportstyrelsen, övningsköra
+
+**Behöver jag körkortstillstånd för AM?**
+Keywords: am, behöver, krävs, körkortstillstånd
+
+**Åldersgräns för ansökan**
+Keywords: ansöka, hur gammal, ingen åldersgräns, startålder, söka, ålder
+
+
+
+===== FIL 7 / 17: basfakta_lastbil_c_ce_c1_c1e.json =====
+
+**Vad är C-körkort (Tung lastbil)?**
+Keywords: c, c-körkort, lastbil, tung lastbil, utan viktgräns, vad är, yrkesförare
+
+**Vad är CE-körkort (Tung lastbil med släp)?**
+Keywords: ce, ce-körkort, släpvagn, tung lastbil, tungt släp, vad är
+
+**Vad är skillnaden på C1 och C? (Medeltung vs Tung)**
+Keywords: 7500 kg, c, c1, husbil, medeltung, skillnad, tung, viktgräns
+
+**Krav för att ta lastbilskörkort**
+Keywords: b-körkort, giltigt, grundkrav, grupp 2, krav, körkortstillstånd, lastbil, läkarintyg, ålder
+
+**Vad är YKB (Yrkeskompetensbevis)?**
+Keywords: arbeta, jobba, lagkrav, vad är ykb, ykb, yrkesförare, yrkeskompetensbevis
+
+**YKB Grundutbildning (140 timmar)**
+Keywords: 140 timmar, 18 år, grundutbildning, ny förare, prov, ykb, ykb grund
+
+**YKB Fortbildning (35 timmar)**
+Keywords: 35 timmar, delkurser, fortbildning, förnya, giltighetstid, vart 5 år, ykb, ykb fortbildning
+
+**Var erbjuder ni lastbilsutbildning (C/CE/YKB)?**
+Keywords: göteborg, hässleholm, kristianstad, lastbil, malmö, stockholm, var finns ni, var utbildar ni
+
+**Kontakt och Bokning för Tung Trafik**
+Keywords: 010-188 83 26, boka lastbil, kontakt, offert, pris, ring, support, tungtrafik@trafikskolan.com
+
+**Vad är C1E-körkort?**
+Keywords: 12000 kg, c1e, medeltung med släp, släp, totalvikt
+
+
+
+===== FIL 8 / 17: basfakta_lektioner_paket_bil.json =====
+
+**Vad är en Testlektion (Provlektion)?**
+Keywords: bedömning, boka testlektion, en gång, nybörjare, planering, provlektion, rabatt, startlektion, testlektion, utbildningsplan, vad är
+
+**Vad är en Körlektion (80 min)?**
+Keywords: 80 min, 80 minuter, bil, effektivt, hur lång, körlektion, längd, lärare, övningskörning
+
+**Vad är skillnaden på Manuell och Automat?**
+Keywords: automat, automatkörkort, manuell, pris skillnad, skillnad, samma pris, växellåda
+
+**Våra Lektionspaket (Minipaket, Mellanpaket, Baspaket)**
+Keywords: 10 lektioner, 15 lektioner, 5 lektioner, baspaket, billigare, lektionspaket, mellanpaket, minipaket, paket, pris, rabatt
+
+**Våra Totalpaket (Startpaket med kurser)**
+Keywords: allt i ett, halkbana, ingår, komplett, riskettan, risktvåan, startpaket, teori, totalpaket
+
+**Ingår Trafikverkets avgifter i paketen?**
+Keywords: avgifter, betala, fotografering, ingår ej, inte, kostnad prov, trafikverket, uppkörningsavgift
+
+**Vad är en Prova-på-uppkörning (Utbildningskontroll)?**
+Keywords: bedömning, fejkad uppkörning, genrep, prova på, test, utbildningskontroll
+
+**Hur fungerar Intensivkurs (2 veckor)?**
+Keywords: 2 veckor, flexibel, hur fungerar, intensivkurs, intensivutbildning, snabb kurs, varje dag
+
+**Extra stöd för återfallselever**
+Keywords: anpassning, gammalt körkort, indraget, individuellt, rostig, återfallselev, återtagning
+
+
+
+===== FIL 9 / 17: basfakta_lektioner_paket_mc.json =====
+
+**Hur många körlektioner behövs för MC?**
+Keywords: 15, 20, antal, antal lektioner, behövs, hur många, individuellt, körlektioner, mc, motorcykel, totalt
+
+**Vad ingår i Totalpaket för MC?**
+Keywords: alla moment, ingår, innehåll, lån av mc, manöverbana, manöverträning, mc, motorcykel, paket, risk 1, risk 2, riskettan, risktvåan, teorimaterial, totalpaket, trafik, uppkörning, uppvärmning, vad ingår
+
+**Vad ingår i Lektionspaket för MC?**
+Keywords: 10 lektioner, 5 lektioner, antal, bara körlektioner, köpa, lektionspaket, mc, mc körlektion, motorcykel, paket, rabatt
+
+**Hur lång är en MC-lektion (Solo vs Duo)?**
+Keywords: 100 min, 80 min, 80 minuter, dubbellektion, duo, duo-lektion, hur lång, körlektion, längd, mc, motorcykel, solo, tid, två elever
+
+**Får man låna MC-kläder och utrustning?**
+Keywords: handskar, hjälm, kläder, låna, mc, mc-ställ, motorcykel, ryggskydd, skyddsutrustning, stövlar, utrustning
+
+**Vad är skillnaden på Totalpaket och Lektionspaket (MC)?**
+Keywords: bara körlektioner, jämförelse, lektionspaket, mc, motorcykel, skillnad, totalpaket, vad ska jag välja
+
+**Var startar körlektionerna (Bana eller Trafik)?**
+Keywords: bana, börja, gillinge, manöverbana, manövergård, mc, motorcykel, start, stora holm, trafik, var kör vi
+
+
+
+===== FIL 10 / 17: basfakta_mc_a_a1_a2.json =====
+
+**A1-körkort (Lätt motorcykel)**
+Keywords: 0,1 kw/kg, 11kw, 125cc, 16 år, a1, cc, kubik, lätt mc, lätt motorcykel, ålder
+
+**A2-körkort (Mellanstor motorcykel)**
+Keywords: 0,2 kw/kg, 18 år, 35kw, 70kw, a2, effekt, mellanstor mc, mellanklass, strypt, ålder
+
+**A-körkort (Tung motorcykel)**
+Keywords: 20 år, 21 år, 24 år, a, a-kort, direkttillträde, obegränsad, tung mc, tung motorcykel, ålder
+
+**Uppgradera A1 till A2, eller A2 till A**
+Keywords: a1 till a2, a2 till a, behöver jag göra om teorin, göra om riskettan, ingen teori, inte teoriprov, körprov, slipper teori, två år, uppgradera, uppgradering
+
+**Trehjulig och Fyrhjulig MC (Regler)**
+Keywords: 21 år, atv, b-kort, fyrhjulig, quad, trehjulig, undantag
+
+**Var erbjuder ni MC-utbildning?**
+Keywords: göteborg, helsingborg, hässleholm, kristianstad, landskrona, lund, malmö, mc-kort, stockholm, trelleborg, var finns ni, ystad, ängelholm, österåker
+
+
+
+===== FIL 11 / 17: basfakta_mc_lektioner_utbildning.json =====
+
+**Jag är nybörjare på MC, hur börjar jag?**
+Keywords: börja, första lektionen, mc, mc körlektion, mc-behörighet, mc-kategori, motorcykel, nybörjare, pris
+
+**Vilka förkunskaper krävs för intensivkursen för MC?**
+Keywords: förkunskaper, intensivkurs, intensivvecka, krav, mc, mc-behörighet, mc-kategori, motorcykel, nivåtest, pris, stanna, starta, startlektion, växla
+
+**Vad ingår vid MC-körprov?**
+Keywords: uppvärmning, lån av mc, säkerhetskontroll, 25-30 min, körprov, mc-körprov, vad ingår
+
+**Vad ingår i en intensivvecka för MC?**
+Keywords: 5 heldagar, digital teori, en vecka, heldagar, ingår, innehåller, intensivvecka, lån av mc, manöverkörning, mc, mc risk 1, mc risk 2, mc-behörighet, mc-kategori, motorcykel, pris, risk 1, risk 2, startlektion, uppvärmning inför körprovet
+
+**Räcker det med en intensivvecka för att klara MC-kortet?**
+Keywords: intensivvecka, räcker, extra lektioner, individuell bedömning
+
+**Behöver jag egen utrustning för MC-lektioner?**
+Keywords: hjälm, kläder, lektion, lån av mc, låna, mc, mc körlektion, mc-behörighet, mc-kategori, motorcykel, skyddskläder, skyddsutrustning, utrustning
+
+**Vad är en DUO-lektion för MC i Göteborg?**
+Keywords: 100 min, 100 minuter, duo-lektion, göteborg, manöverbana, manöverkörning, mc, mc-behörighet, mc-kategori, motorcykel, pris, stora holm, två elever
+
+**Vilka motorcyklar använder ni för utbildning?**
+Keywords: bensin, el-mc, endast bensin, fordon, Yamaha, MT-07, lån av mc, mc, mc-behörighet, motorcykel, motorcykel typ, vilka
+
+**Finns intensivvecka på andra orter än Göteborg?**
+Keywords: andra orter, utanför göteborg, stockholm, malmö, intensivvecka, var
+
+**Finns anpassning för återfallselever på MC?**
+Keywords: anpassning, extra lektioner, individuellt, mc, motorcykel, återfallselev, återfallselever
+
+
+
+===== FIL 12 / 17: basfakta_nollutrymme.json =====
+
+**Fakturaadress Mårtenssons**
+Keywords: fakturaadress mårtenssons, faktura mårtenssons, skicka faktura mårtenssons, fakturaadress, faktura-adress, vart skicka faktura, skicka en faktura, scancloud
+
+**Fakturaadress MDA**
+Keywords: fakturaadress mda, faktura mda, faktura my driving academy, skicka faktura mda
+
+**Ångerrätt Policy**
+Keywords: ångerrätt, ångra köp, ångra mitt köp, få pengarna tillbaka, få pengar tillbaka, kräva pengarna tillbaka, administrativ avgift, ångerfrist, distanshandelslagen
+
+**Hej**
+Keywords: hej, tja, tjena, hallå, god morgon, god dag, hejsan
+
+**Tack**
+Keywords: tack, tack så mycket, tusen tack, schysst, grymt tack
+
+**Vem är du?**
+Keywords: vem är du, vad är du, är du en människa, är du på riktigt, pratar jag med en dator, bot
+
+**Jag vill prata med en människa**
+Keywords: prata med en människa, prata med personal, kundtjänst, vill ringa, telefonnummer, supporten
+
+
+
+===== FIL 13 / 17: basfakta_om_foretaget.json =====
+
+**Är Mårtenssons Trafikskola och My Driving Academy samma företag?**
+Keywords: 41 kontor, antal kontor, mda, mts, my driving academy, mårtenssons, samma företag, sammanslagning, slogs ihop, största körskola
+
+**Hemsida för My Driving Academy**
+Keywords: hemsida, länk, mda, my driving academy, webb, webbadress, webbplats
+
+**Hemsida för Mårtenssons Trafikskola**
+Keywords: hemsida, länk, mts, mårtenssons, webb, webbadress, webbplats
+
+**Hur många klarar proven på första försöket?**
+Keywords: 70%, första försöket, godkända, hur många, klarar proven, mitt körkort, resultat, statistik
+
+**Varför skiljer sig priserna åt i landet?**
+Keywords: dyrare, kontor, olika priser, pris, prisskillnad, stad, varför, varierar
+
+**Företagsuppgifter & Support - My Driving Academy**
+Keywords: 010-20 70 775, email, företagsuppgifter, kontakt, my driving academy, org nr, organisationsnummer, support, telefon
+
+**Företagsuppgifter & Support - Mårtenssons Trafikskola**
+Keywords: 010-333 32 31, företagsuppgifter, kontakt, mårtenssons trafikskola, org nr, organisationsnummer, support, telefon
+
+**Fakturaadress - Mårtenssons Trafikskola**
+Keywords: faktura, fakturaadress, mårtenssons faktura, pdf faktura, scancloud, skicka faktura
+
+**Fakturaadress - My Driving Academy (MDA)**
+Keywords: faktura, fakturaadress, mda faktura, my driving academy, pdf faktura, scancloud, skicka faktura
+
+
+
+===== FIL 14 / 17: basfakta_personbil_b.json =====
+
+**Åldersgräns för B-körkort**
+Keywords: 16 år, 18 år, B, b-körkort, få körkort, hur gammal, personbil, ta körkort, ålder, åldersgräns
+
+**Krav för att övningsköra privat**
+Keywords: 16 år, grön skylt, handledare, introduktionskurs, krav, körkortstillstånd, skylt, vad krävs, övningskör, övningsköra privat
+
+**Får man ha passagerare när man övningskör?**
+Keywords: barn i bilen, kompis, passagerare, sitta bak, skjutsa
+
+**Manuell vs Automat (Kod 78)**
+Keywords: automat, automatkörkort, begränsning, kod 78, manuell, skillnad, uppkörning automat, villkor, växellåda
+
+**Vad ingår i uppkörningen (Körprov)?**
+Keywords: 25 minuter, 45 minuter, examinator, innehåll, kontrollpunkter, körning, körprov, säkerhetskontroll, trafikverket, uppkörning, vad gör man
+
+**Får jag dra släp på vanligt B-körkort?**
+Keywords: 3500 kg, 750 kg, b-kort, dra släp, husvagn, släp, släpvagn, vikt
+
+**Kan en 17-åring övningsköra?**
+Keywords: 16 år, 17 år, 17-åring, får jag övningsköra, kan övningsköra, tonåring
+
+
+
+===== FIL 15 / 17: basfakta_policy_kundavtal.json =====
+
+**När måste jag senast avboka en körlektion?**
+Keywords: 12:00, avgift, avboka, avbokningsregler, full debitering, körlektion, senast, vardagen före
+
+**Avbokningsregler för Kurser (Risk 1, Intro)**
+Keywords: 12:00, avboka, handledarkurs, introduktionskurs, risk 1, riskettan, vardagen innan
+
+**Avbokningsregler för Halkbana (Risk 2)**
+Keywords: 4 vardagar, avboka, halkbana, risk 2, risktvåan
+
+**Avbokningsregler för AM-kurs (Moped)**
+Keywords: 1 vecka, 7 dagar, am-kurs, avboka, kl 12:00, mopedkurs
+
+**Avbokningsregler för MC-Intensivkurs**
+Keywords: 14 dagar, 2 veckor, avboka, intensivkurs, kl 12:00, mc intensiv
+
+**Vad gäller vid sjukdom? (Läkarintyg)**
+Keywords: debitering, inom 1 vecka, läkarintyg, sjuk, sjukdom, sjukintyg, slippa betala
+
+**Gäller VAB som giltig frånvaro?**
+Keywords: giltig frånvaro, räknas inte, vab, vård av barn
+
+**Ångerrätt och Återbetalning (14 dagar)**
+Keywords: 10%, 14 dagar, administrativ avgift, pengarna tillbaka, ångerrätt, återbetalning
+
+**Hur länge gäller mina köpta paket? (Giltighetstid)**
+Keywords: 2 år, 24 månader, förfaller, giltighet, giltighetstid, hur länge, outnyttjade, giltighetstid paket, paket giltighet, köpta lektioner giltighetstid, paket
+
+**Integritetspolicy och GDPR (Hur hanterar ni mina uppgifter?)**
+Keywords: data, gdpr, integritet, integritetspolicy, personuppgifter, radering, sparar, transportstyrelsen
+
+**Betalningsalternativ**
+Keywords: betala efter, betala senare, betalning, betalningsalternativ, betala, hur betalar jag, delbetalning, efterskott, faktura, förskott, klarna, kort, swish
+
+**Kontakt och Support**
+Keywords: 010-333 32 31, chatta, kontakt, nummer, ring, support, telefon
+
+
+
+===== FIL 16 / 17: basfakta_riskutbildning_bil_mc.json =====
+
+**Vad är Riskettan för Bil (Risk 1)?**
+Keywords: 3,5 timmar, alkohol, bil, droger, obligatorisk, risk 1, risk 1 bil, riskettan, riskettan bil, teoretisk, trötthet
+
+**Vad är Risktvåan för Bil (Halkbana)?**
+Keywords: 4-5 timmar, bil, halkbana, halkkörning, körkortstillstånd, praktisk, risk 2, risk 2 bil, risktvåan, risktvåan bil, sladd
+
+**Vad är Riskettan för MC?**
+Keywords: attityder, gäller ej bil, mc, motorcykel, obligatorisk, risk 1, risk 1 mc, riskettan mc, specifik, teoretisk
+
+**Vad är Risktvåan för MC?**
+Keywords: bana, bromsning, hastighet, kurvtagning, körkortstillstånd, mc, motorcykel, praktisk, risk 2, risk 2 mc, risktvåan mc
+
+**Gäller Riskutbildning för Bil även för MC?**
+Keywords: bil till mc, byta, gäller både, gäller den, kombinera, mc till bil, nej, separata
+
+**Hur länge är riskutbildningarna giltiga?**
+Keywords: 5 år, fem år, giltighet, giltighetstid, hur länge, utgår
+
+**I vilken ordning ska jag göra Risk 1 och Risk 2?**
+Keywords: början, i vilken ordning, när göra, ordning, planering, slutet, tidigt
+
+**Viktiga regler: ID, Tid och Nykterhet**
+Keywords: alkotest, försent, id-handling, komma i tid, krav, legitimation, nykter, regler
+
+**Vad är Nollvisionen?**
+Keywords: dödas, ingen, nollvisionen, skadas, trafiksäkerhet, vad är
+
+
+
+===== FIL 17 / 17: basfakta_saknade_svar.json =====
+
+**Jag förstår inte frågan (Fallback)**
+Keywords: fallback, inget svar, förstår inte, missförstånd, hjälp, vad ska jag göra
+
+**Kontakta Support (Fallback)**
+Keywords: support, kontakt, ring, nummer, kundtjänst, prata med någon
+
+**Rabatt på paket om man redan har körkort**
+Keywords: b-körkort, billigare, har redan körkort, rabatt, reducerat pris
+

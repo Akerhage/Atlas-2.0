@@ -1,0 +1,226 @@
+{
+  "id": "my_driving_academy_varberg",
+  "name": "My Driving Academy – Varberg",
+  "brand": "My Driving Academy",
+  "city": "Varberg",
+  "description": "Vi är en trafikskola i Varberg där du gör mer hemma och mindre hos oss. Därmed blir ditt körkort billigare samtidigt som du får bästa möjliga kvalitet. Du hittar oss vid Östra Vallgatan 28. Skaffa ditt körkort i Varberg hos oss!",
+  "keywords": [
+    "my driving academy",
+    "mda",
+    "trafikskola",
+    "varberg",
+    "kontakt",
+    "öppettider",
+    "priser",
+    "körkort",
+    "billigare körkort"
+  ],
+  "contact": {
+    "phone": "010-20 70 775 (centralsupporten)",
+    "email": "hej@mydrivingacademy.com",
+    "address": "Östra Vallgatan 28, 432 41 Varberg"
+  },
+  "opening_hours": [
+    {
+      "days": "Info",
+      "hours": "Ingen bemannad reception, ring, chatta eller mejla centralsupporten."
+    }
+  ],
+  "services_offered": [
+    "Bil"
+  ],
+  "languages": [
+    "svenska",
+    "engelska"
+  ],
+  "prices": [
+    {
+      "service_name": "Körlektion Bil",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "körlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Privat teorilektion BIL",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "privat",
+        "teori",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Testlektion BIL",
+      "price": 999,
+      "currency": "SEK",
+      "keywords": [
+        "testlektion",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Prova-På-Uppkörning BIL",
+      "price": 1349,
+      "currency": "SEK",
+      "keywords": [
+        "prova-på-uppkörning",
+        "uppkörning",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 5 BIL",
+      "price": 10799,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 5",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 10 BIL",
+      "price": 16299,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 10",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Totalpaket 15 BIL",
+      "price": 22099,
+      "currency": "SEK",
+      "keywords": [
+        "totalpaket 15",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Minipaket BIL",
+      "price": 6199,
+      "currency": "SEK",
+      "keywords": [
+        "minipaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Mellanpaket BIL",
+      "price": 12199,
+      "currency": "SEK",
+      "keywords": [
+        "mellanpaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Baspaket BIL",
+      "price": 17999,
+      "currency": "SEK",
+      "keywords": [
+        "baspaket",
+        "paket",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Intensivutbildning (2 veckor) BIL",
+      "price": 19999,
+      "currency": "SEK",
+      "keywords": [
+        "intensivkurs",
+        "intensivutbildning",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Introduktionskurs/Handledarkurs BIL",
+      "price": 299,
+      "currency": "SEK",
+      "keywords": [
+        "introduktionskurs",
+        "handledarkurs",
+        "bil",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Risk 1 BIL",
+      "price": 799,
+      "currency": "SEK",
+      "keywords": [
+        "risk 1",
+        "riskettan",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    },
+    {
+      "service_name": "Risk 2 BIL",
+      "price": 2399,
+      "currency": "SEK",
+      "keywords": [
+        "risk 2",
+        "risktvåan",
+        "halkbana",
+        "bil",
+        "kurs",
+        "pris",
+        "kostnad",
+        "varberg"
+      ]
+    }
+  ],
+  "booking_links": {
+    "CAR": "https://booking.mydrivingacademy.com/widget?vehicleType=car&productType=Bundle&regionId=200048&locationId=200063",
+    "MC": null,
+    "AM": null
+  }
+}

@@ -1,0 +1,373 @@
+/* Atlas Navigator — Premium Automotive Theme
+Inspirerat av: Audi Virtual Cockpit, Tesla UI, Premium Navigation
+Design: Cyan & Mint accents, Deep blacks, Soft glows, Luxury feels
+-------------------------------------------------------------------- */
+
+:root {
+/* Bakgrund */
+--bg-image: url("./atlas-navigator-bg.jpg");
+--bg-color: #0a0e1a;
+
+/* Färger - Deep Premium Blacks med Cyan/Mint accents */
+--bg-dark-primary: #0d1117;
+--bg-dark-secondary: #12181f;
+--bg-dark-tertiary: #1a1f2e;
+--text-primary: #e8f1f5;
+--text-secondary: #a0c4d9;
+--accent-primary: #00d4ff;
+--accent-hover: #00ffa3;
+--border-color: rgba(0, 212, 255, 0.15);
+
+/* === MAILMALLAR & INKORG – FIXAT FÖR ATLAS NAVIGATOR (cyan/mint istället för grönt) === */
+--group-bg: rgba(0, 212, 255, 0.08);
+--group-hover: rgba(0, 212, 255, 0.18);
+--group-text: #00f2ea;
+--group-border: rgba(0, 212, 255, 0.4);
+--group-shadow: rgba(0, 212, 255, 0.2);
+--group-shadow-hover: rgba(0, 212, 255, 0.6);
+--item-bg: rgba(0, 212, 255, 0.1);
+--item-hover: rgba(0, 212, 255, 0.25);
+--item-border: rgba(0, 212, 255, 0.35);
+--accent: #00f2ea;
+
+/* Glassmorfism - Ultra Premium med Glow */
+--bg-frosty-sidebar: rgba(13, 17, 23, 0.75);
+--bg-frosty-header: rgba(18, 24, 31, 0.8);
+--bg-frosty-content: rgba(18, 24, 31, 0.7);
+--bg-frosty-bubble-atlas: rgba(26, 31, 46, 0.9);
+--bg-frosty-bubble-user: linear-gradient(135deg, #00d4ff 0%, #00ffa3 100%);
+--bg-frosty-input-area: rgba(18, 24, 31, 0.75);
+--bg-frosty-input-field: rgba(26, 31, 46, 0.8);
+--blur-amount: 25px;
+}
+
+/* Applicera bakgrund */
+body {
+background: var(--bg-image) center/cover no-repeat fixed;
+background-color: var(--bg-color);
+color: var(--text-primary);
+backdrop-filter: brightness(0.95) contrast(1.1);
+}
+
+/* === PREMIUM SIDEBAR STYLING === */
+.sidebar {
+backdrop-filter: blur(var(--blur-amount)) saturate(150%);
+-webkit-backdrop-filter: blur(var(--blur-amount)) saturate(150%);
+box-shadow: 
+4px 0 24px rgba(0, 212, 255, 0.1),
+inset -1px 0 0 rgba(0, 212, 255, 0.2);
+}
+
+.sidebar-logo {
+box-shadow: 
+0 8px 32px rgba(0, 212, 255, 0.3),
+0 0 60px rgba(0, 255, 163, 0.2),
+inset 0 1px 0 rgba(255, 255, 255, 0.1);
+border: 2px solid rgba(0, 212, 255, 0.3);
+}
+
+.sidebar-logo:hover {
+transform: scale(1.08) rotate(3deg);
+box-shadow: 
+0 12px 48px rgba(0, 212, 255, 0.5),
+0 0 80px rgba(0, 255, 163, 0.4);
+}
+
+/* === PREMIUM MENU ITEMS === */
+.menu-item {
+color: var(--text-secondary);
+position: relative;
+overflow: visible;
+border-left: 2px solid transparent;
+transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.menu-item::before {
+content: '';
+position: absolute;
+left: -2px;
+top: 50%;
+transform: translateY(-50%);
+width: 2px;
+height: 0;
+background: linear-gradient(180deg, #00d4ff, #00ffa3);
+border-radius: 0 2px 2px 0;
+transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+box-shadow: 0 0 10px rgba(0, 212, 255, 0.6);
+}
+
+.menu-item:hover {
+background: rgba(0, 212, 255, 0.08);
+color: #00d4ff;
+transform: translateX(6px);
+box-shadow: 
+inset 0 0 20px rgba(0, 212, 255, 0.1),
+0 4px 12px rgba(0, 212, 255, 0.15);
+}
+
+.menu-item:hover::before {
+height: 70%;
+}
+
+.menu-item.active {
+background: linear-gradient(90deg, 
+rgba(0, 212, 255, 0.2) 0%, 
+rgba(0, 255, 163, 0.1) 100%);
+color: #00ffa3;
+font-weight: 700;
+border-left: 2px solid #00ffa3;
+box-shadow: 
+inset 0 0 30px rgba(0, 255, 163, 0.15),
+0 4px 20px rgba(0, 212, 255, 0.2);
+}
+
+.menu-item.active::before {
+height: 85%;
+box-shadow: 0 0 15px rgba(0, 255, 163, 0.8);
+}
+
+/* === PREMIUM HEADER === */
+.chat-header {
+backdrop-filter: blur(var(--blur-amount)) saturate(140%);
+-webkit-backdrop-filter: blur(var(--blur-amount)) saturate(140%);
+box-shadow: 
+0 4px 24px rgba(0, 0, 0, 0.3),
+inset 0 -1px 0 rgba(0, 212, 255, 0.2);
+}
+
+.chat-header h2 {
+text-shadow: 
+0 2px 10px rgba(0, 212, 255, 0.4),
+0 0 30px rgba(0, 255, 163, 0.2);
+}
+
+/* === PREMIUM MESSAGES === */
+.message .bubble {
+box-shadow: 
+0 4px 16px rgba(0, 0, 0, 0.3),
+inset 0 1px 0 rgba(255, 255, 255, 0.05);
+transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.message.atlas .bubble {
+background: var(--bg-frosty-bubble-atlas);
+border: 1px solid rgba(0, 212, 255, 0.2);
+box-shadow: 
+0 4px 20px rgba(0, 0, 0, 0.4),
+inset 0 1px 0 rgba(0, 212, 255, 0.1),
+0 0 30px rgba(0, 212, 255, 0.05);
+}
+
+.message.atlas .bubble:hover {
+transform: translateY(-2px);
+box-shadow: 
+0 8px 32px rgba(0, 0, 0, 0.5),
+inset 0 1px 0 rgba(0, 212, 255, 0.2),
+0 0 40px rgba(0, 212, 255, 0.1);
+}
+
+.message.user .bubble {
+background: var(--bg-frosty-bubble-user);
+border: 1px solid rgba(0, 255, 163, 0.3);
+box-shadow: 
+0 4px 24px rgba(0, 212, 255, 0.4),
+0 0 40px rgba(0, 255, 163, 0.2),
+inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.message.user .bubble:hover {
+transform: translateY(-2px);
+box-shadow: 
+0 8px 36px rgba(0, 212, 255, 0.6),
+0 0 60px rgba(0, 255, 163, 0.3);
+}
+
+/* === PREMIUM INPUT AREA === */
+.chat-input-area {
+backdrop-filter: blur(var(--blur-amount)) saturate(140%);
+-webkit-backdrop-filter: blur(var(--blur-amount)) saturate(140%);
+box-shadow: 
+0 -4px 24px rgba(0, 0, 0, 0.3),
+inset 0 1px 0 rgba(0, 212, 255, 0.15);
+}
+
+#chat-form {
+background: var(--bg-frosty-input-field);
+border: 1px solid rgba(0, 212, 255, 0.2);
+box-shadow: 
+inset 0 2px 8px rgba(0, 0, 0, 0.3),
+0 0 20px rgba(0, 212, 255, 0.05);
+}
+
+#chat-form:focus-within {
+border-color: rgba(0, 255, 163, 0.4);
+box-shadow: 
+0 0 30px rgba(0, 212, 255, 0.3),
+0 0 60px rgba(0, 255, 163, 0.2),
+inset 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+#send-button {
+background: linear-gradient(135deg, #00d4ff 0%, #00ffa3 100%);
+box-shadow: 
+0 4px 16px rgba(0, 212, 255, 0.4),
+0 0 30px rgba(0, 255, 163, 0.2),
+inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+#send-button:hover {
+background: linear-gradient(135deg, #00ffa3 0%, #00d4ff 100%);
+box-shadow: 
+0 6px 24px rgba(0, 212, 255, 0.6),
+0 0 50px rgba(0, 255, 163, 0.4);
+}
+
+/* === PREMIUM BUTTONS === */
+.header-button {
+background: linear-gradient(135deg, #00d4ff 0%, #00ffa3 100%);
+box-shadow: 
+0 4px 16px rgba(0, 212, 255, 0.3),
+0 0 30px rgba(0, 255, 163, 0.15),
+inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.header-button:hover {
+background: linear-gradient(135deg, #00ffa3 0%, #00d4ff 100%);
+box-shadow: 
+0 6px 24px rgba(0, 212, 255, 0.5),
+0 0 50px rgba(0, 255, 163, 0.3);
+transform: translateY(-2px);
+}
+
+/* === PREMIUM CONTAINERS === */
+.template-editor-container,
+.about-container,
+.template-list-container {
+backdrop-filter: blur(22px) saturate(150%);
+-webkit-backdrop-filter: blur(22px) saturate(150%);
+box-shadow: 
+0 8px 32px rgba(0, 0, 0, 0.4),
+inset 0 1px 0 rgba(0, 212, 255, 0.1);
+border: 1px solid rgba(0, 212, 255, 0.15);
+}
+
+/* === PREMIUM GUIDE STEPS === */
+.guide-step {
+background: linear-gradient(135deg, 
+rgba(0, 212, 255, 0.08) 0%, 
+rgba(0, 255, 163, 0.05) 100%);
+border-left: 3px solid #00d4ff;
+box-shadow: 
+0 4px 16px rgba(0, 0, 0, 0.2),
+inset 0 1px 0 rgba(0, 212, 255, 0.1);
+}
+
+.guide-step:hover {
+background: linear-gradient(135deg, 
+rgba(0, 212, 255, 0.12) 0%, 
+rgba(0, 255, 163, 0.08) 100%);
+box-shadow: 
+0 6px 24px rgba(0, 212, 255, 0.3),
+0 0 40px rgba(0, 255, 163, 0.1);
+}
+
+.step-number {
+background: linear-gradient(135deg, #00d4ff, #00ffa3);
+box-shadow: 
+0 4px 12px rgba(0, 212, 255, 0.4),
+0 0 30px rgba(0, 255, 163, 0.3);
+}
+
+/* === PREMIUM SHORTCUTS === */
+.shortcut-item {
+background: linear-gradient(135deg, 
+rgba(0, 212, 255, 0.05) 0%, 
+rgba(0, 255, 163, 0.03) 100%);
+border-left: 2px solid transparent;
+transition: all 0.3s ease;
+}
+
+.shortcut-item:hover {
+background: linear-gradient(135deg, 
+rgba(0, 212, 255, 0.1) 0%, 
+rgba(0, 255, 163, 0.06) 100%);
+border-left: 2px solid #00d4ff;
+box-shadow: 
+0 4px 16px rgba(0, 212, 255, 0.2),
+0 0 30px rgba(0, 255, 163, 0.1);
+transform: translateX(4px);
+}
+
+.shortcut-item kbd {
+background: linear-gradient(180deg, #1a1f2e 0%, #12181f 100%);
+border: 1px solid rgba(0, 212, 255, 0.3);
+box-shadow: 
+0 3px 0 rgba(0, 0, 0, 0.5),
+0 0 15px rgba(0, 212, 255, 0.2),
+inset 0 1px 0 rgba(0, 212, 255, 0.2);
+color: #00d4ff;
+}
+
+/* === PREMIUM SCROLLBAR === */
+::-webkit-scrollbar-thumb {
+background: linear-gradient(180deg, #00d4ff, #00ffa3);
+box-shadow: 
+0 0 10px rgba(0, 212, 255, 0.5),
+inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: linear-gradient(180deg, #00ffa3, #00d4ff);
+box-shadow: 0 0 20px rgba(0, 255, 163, 0.8);
+}
+
+/* === EXTRA PREMIUM TOUCHES === */
+.template-item.active {
+background: linear-gradient(90deg, 
+rgba(0, 212, 255, 0.15) 0%, 
+rgba(0, 255, 163, 0.1) 100%);
+border-left: 3px solid #00ffa3;
+box-shadow: 
+inset 0 0 20px rgba(0, 212, 255, 0.1),
+0 4px 16px rgba(0, 212, 255, 0.2);
+}
+
+.status-lamp-dot.green {
+background-color: #00ffa3;
+box-shadow: 
+0 0 20px #00ffa3,
+0 0 40px rgba(0, 255, 163, 0.5);
+}
+/* Fixar så Mailmallar & Inkorg får samma neutrala stil som Hem/Om */
+#nav-mail-templates.active,
+#nav-inbox.active {
+background: rgba(0, 255, 209, 0.08) !important;  /* Mycket svag cyan – samma som Hem/Om */
+border-left: 3px solid #00f2ea !important;
+box-shadow: none !important;
+color: #ffffff !important;
+}
+
+.nav-badge {
+/* "Redline Red" - Tänk rödmarkeringen på en varvräknare. 
+Extrem kontrast mot det cyan/gröna temat. */
+background: linear-gradient(135deg, #ff4757, #ff6b81) !important;
+box-shadow: 0 0 20px rgba(255, 71, 87, 0.7) !important;
+color: white !important;
+text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); /* Glödande text */
+border: 1px solid rgba(255, 71, 87, 0.4); /* Tunn "glas"-kant */
+}
+
+/* Behåller dina snygga neon-taggar */
+.tag-chatt {
+background: rgba(0, 255, 157, 0.1) !important;
+color: #00ff9d !important;
+text-shadow: 0 0 8px rgba(0, 255, 157, 0.6);
+border: 1px solid rgba(0, 255, 157, 0.3);
+}
+
+.tag-form {
+background: rgba(0, 212, 255, 0.1) !important;
+color: #00d4ff !important;
+text-shadow: 0 0 8px rgba(0, 212, 255, 0.6);
+border: 1px solid rgba(0, 212, 255, 0.3);
+}

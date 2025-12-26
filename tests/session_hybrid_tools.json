@@ -1,0 +1,78 @@
+[
+{
+"name": "SCENARIO 1: Fakta -> Skämt -> Fakta (Minne)",
+"steps": [
+{ "query": "Vad kostar Risk 1 i Göteborg?", "expect": ["Göteborg", "899"] },
+{ "query": "Dra ett skämt för mig!", "expect": ["?"], "missing": ["Göteborg"] },
+{ "query": "Okej, vad kostar Risk 2 då?", "expect": ["Göteborg", "Risk 2", "2399"] }
+]
+},
+{
+"name": "SCENARIO 2: Väder (Tool) -> Körkort (RAG) Context Transfer",
+"steps": [
+{ "query": "Vad är det för väder i Göteborg?", "expect": ["göteborg", "grad"] },
+{ "query": "Vad kostar en testlektion där?", "expect": ["999"], "missing": ["Stockholm", "Enskededalen"] }
+]
+},
+{
+"name": "SCENARIO 3: MC-Prioritet (Fordon före Plats)",
+"steps": [
+{ "query": "Jag vill ta MC-kort.", "expect": ["MC", "lektioner"] },
+{ "query": "Vad kostar det i Stockholm?", "expect": ["Stockholm", "MC"] }
+]
+},
+{
+"name": "SCENARIO 4: Overwrite (Plats -> Policy -> Fakta)",
+"steps": [
+{ "query": "Vad är vädret i Kiruna?", "expect": ["kiruna", "grad"] },
+{ "query": "Äh strunt i det. Vad kostar Risk 1 i Ystad?", "expect": ["Ystad", "899"], "missing": ["Kiruna"] },
+{ "query": "Vad handlar Risk 1 om?", "expect": ["alkohol", "droger", "trötthet"], "missing": ["Kiruna", "Ystad"] }
+]
+},
+{
+"name": "SCENARIO 5: Lång Sessionskedja (5 steg)",
+"steps": [
+{ "query": "Jag vill ta B-körkort i Malmö", "expect": ["Malmö", "B-körkort"] },
+{ "query": "Jag har haft körkort i 6 år.", "expect": ["handledare"], "must_contain_one_of": ["6 år", "sex år"] },
+{ "query": "Hur länge är handledarkursen giltig?", "expect": ["5 år"] },
+{ "query": "Vad kostar minipaket?", "expect": ["Minipaket"] },
+{ "query": "Vad är er fakturaadress?", "expect": ["martenssons.trafikskola@pdf.scancloud.se"], "missing": ["Malmö"] }
+]
+},
+{
+"name": "SCENARIO 6: Area-Overwrite (Plats -> Area)",
+"steps": [
+{ "query": "Vad kostar testlektionen i Kungsbacka?", "expect": ["testlektion", "Kungsbacka", "999"] },
+{ "query": "Vad kostar AM vid Ullevi?", "expect": ["Ullevi", "Göteborg", "10999"], "missing": ["Kungsbacka"] }
+]
+},
+{
+"name": "SCENARIO 7: Intressebyte (BIL -> MC -> BIL)",
+"steps": [
+{ "query": "Vad ingår i totalpaketet för bil?", "expect": ["Risk 1", "BIL"] },
+{ "query": "Och vad ingår för MC?", "expect": ["MC", "manöverträning"] },
+{ "query": "Vad ingår i minipaket för bil?", "expect": ["Minipaket", "BIL"] }
+]
+},
+{
+"name": "SCENARIO 8: Otydlig Policy (Contextual Policy)",
+"steps": [
+{ "query": "Jag vill köpa ett paket i Uppsala.", "expect": ["Uppsala", "paket"] },
+{ "query": "Hur länge gäller paketet?", "expect": ["24 månader"], "missing": ["Uppsala"] }
+]
+},
+{
+"name": "SCENARIO 9: Köra tungt (BE/C-kort)",
+"steps": [
+{ "query": "Vad kostar BE-kort i Stockholm?", "expect": ["Stockholm", "BE", "paket"] }, 
+{ "query": "Vad är ålderskravet för C-körkort?", "expect": ["C-körkort", "21 år"] }
+]
+},
+{
+"name": "SCENARIO 10: Åldersfråga (MC-Context)",
+"steps": [
+{ "query": "Hur gammal måste man vara för att övningsköra i Göteborg?", "expect": ["Göteborg", "16 år"] },
+{ "query": "Och för MC?", "expect": ["Göteborg", "MC"] }
+]
+}
+]

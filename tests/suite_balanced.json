@@ -1,0 +1,876 @@
+{
+  "name": "Atlas Balanced Suite",
+  "tests": [
+    {
+      "id": "contact_check_linkoping",
+      "question": "Hur kontaktar jag kontoret i Linköping ?",
+      "required_keywords": [
+        "Linköping",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "linkoping.json"
+    },
+    {
+      "id": "price_sample_angelholm",
+      "question": "Vad kostar AM Mopedutbildning i Ängelholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Ängelholm"
+      ],
+      "source_file": "angelholm.json"
+    },
+    {
+      "id": "contact_check_kristianstad",
+      "question": "Hur kontaktar jag kontoret i Kristianstad ?",
+      "required_keywords": [
+        "Kristianstad",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "kristianstad.json"
+    },
+    {
+      "id": "price_sample_malmo_sodervarn",
+      "question": "Vad kostar AM Mopedutbildning i Malmö?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Malmö"
+      ],
+      "source_file": "malmo_sodervarn.json"
+    },
+    {
+      "id": "contact_check_stockholm_kungsholmen",
+      "question": "Hur kontaktar jag kontoret i Stockholm ?",
+      "required_keywords": [
+        "Stockholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "stockholm_kungsholmen.json"
+    },
+    {
+      "id": "contact_check_vasteras",
+      "question": "Hur kontaktar jag kontoret i Västerås ?",
+      "required_keywords": [
+        "Västerås",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "vasteras.json"
+    },
+    {
+      "id": "contact_check_lund_katedral",
+      "question": "Hur kontaktar jag kontoret i Lund ?",
+      "required_keywords": [
+        "Lund",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "lund_katedral.json"
+    },
+    {
+      "id": "contact_check_malmo_limhamn",
+      "question": "Hur kontaktar jag kontoret i Malmö ?",
+      "required_keywords": [
+        "Malmö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "malmo_limhamn.json"
+    },
+    {
+      "id": "contact_check_hollviken",
+      "question": "Hur kontaktar jag kontoret i Höllviken ?",
+      "required_keywords": [
+        "Höllviken",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "hollviken.json"
+    },
+    {
+      "id": "price_sample_goteborg_vastra_frolunda",
+      "question": "Vad kostar Testlektion Bil i Göteborg?",
+      "required_keywords": [
+        "999",
+        "kr",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_vastra_frolunda.json"
+    },
+    {
+      "id": "contact_check_umea",
+      "question": "Hur kontaktar jag kontoret i Umeå ?",
+      "required_keywords": [
+        "Umeå",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "umea.json"
+    },
+    {
+      "id": "contact_check_stockholm_osteraker",
+      "question": "Hur kontaktar jag kontoret i Stockholm ?",
+      "required_keywords": [
+        "Stockholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "stockholm_osteraker.json"
+    },
+    {
+      "id": "price_sample_malmo_triangeln",
+      "question": "Vad kostar Körlektion Bil i Malmö?",
+      "required_keywords": [
+        "1149",
+        "kr",
+        "Malmö"
+      ],
+      "source_file": "malmo_triangeln.json"
+    },
+    {
+      "id": "contact_check_goteborg_hogsbo",
+      "question": "Hur kontaktar jag kontoret i Göteborg ?",
+      "required_keywords": [
+        "Göteborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "goteborg_hogsbo.json"
+    },
+    {
+      "id": "price_sample_malmo_varnhem",
+      "question": "Vad kostar Körlektion Bil i Malmö?",
+      "required_keywords": [
+        "1149",
+        "kr",
+        "Malmö"
+      ],
+      "source_file": "malmo_varnhem.json"
+    },
+    {
+      "id": "contact_check_stockholm_solna",
+      "question": "Hur kontaktar jag kontoret i Stockholm ?",
+      "required_keywords": [
+        "Stockholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "stockholm_solna.json"
+    },
+    {
+      "id": "price_sample_stockholm_enskededalen",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_enskededalen.json"
+    },
+    {
+      "id": "price_sample_malmo_vastra_hamnen",
+      "question": "Vad kostar AM Mopedutbildning i Malmö?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Malmö"
+      ],
+      "source_file": "malmo_vastra_hamnen.json"
+    },
+    {
+      "id": "contact_check_eslov",
+      "question": "Hur kontaktar jag kontoret i Eslöv ?",
+      "required_keywords": [
+        "Eslöv",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "eslov.json"
+    },
+    {
+      "id": "contact_check_stockholm_sodermalm",
+      "question": "Hur kontaktar jag kontoret i Stockholm ?",
+      "required_keywords": [
+        "Stockholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "stockholm_sodermalm.json"
+    },
+    {
+      "id": "contact_check_angelholm",
+      "question": "Hur kontaktar jag kontoret i Ängelholm ?",
+      "required_keywords": [
+        "Ängelholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "angelholm.json"
+    },
+    {
+      "id": "price_sample_stockholm_djursholm",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_djursholm.json"
+    },
+    {
+      "id": "price_sample_stockholm_solna",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_solna.json"
+    },
+    {
+      "id": "price_sample_landskrona",
+      "question": "Vad kostar AM Mopedutbildning i Landskrona?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Landskrona"
+      ],
+      "source_file": "landskrona.json"
+    },
+    {
+      "id": "price_sample_trelleborg",
+      "question": "Vad kostar AM Mopedutbildning i Trelleborg?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Trelleborg"
+      ],
+      "source_file": "trelleborg.json"
+    },
+    {
+      "id": "contact_check_hassleholm",
+      "question": "Hur kontaktar jag kontoret i Hässleholm ?",
+      "required_keywords": [
+        "Hässleholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "hassleholm.json"
+    },
+    {
+      "id": "contact_check_trelleborg",
+      "question": "Hur kontaktar jag kontoret i Trelleborg ?",
+      "required_keywords": [
+        "Trelleborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "trelleborg.json"
+    },
+    {
+      "id": "price_sample_kristianstad",
+      "question": "Vad kostar AM Mopedutbildning i Kristianstad?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Kristianstad"
+      ],
+      "source_file": "kristianstad.json"
+    },
+    {
+      "id": "price_sample_linkoping",
+      "question": "Vad kostar AM Mopedutbildning i Linköping?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Linköping"
+      ],
+      "source_file": "linkoping.json"
+    },
+    {
+      "id": "price_sample_umea",
+      "question": "Vad kostar AM Mopedutbildning i Umeå?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Umeå"
+      ],
+      "source_file": "umea.json"
+    },
+    {
+      "id": "contact_check_uppsala",
+      "question": "Hur kontaktar jag kontoret i Uppsala ?",
+      "required_keywords": [
+        "Uppsala",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "uppsala.json"
+    },
+    {
+      "id": "contact_check_stockholm_ostermalm",
+      "question": "Hur kontaktar jag kontoret i Stockholm ?",
+      "required_keywords": [
+        "Stockholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "stockholm_ostermalm.json"
+    },
+    {
+      "id": "contact_check_landskrona",
+      "question": "Hur kontaktar jag kontoret i Landskrona ?",
+      "required_keywords": [
+        "Landskrona",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "landskrona.json"
+    },
+    {
+      "id": "price_sample_uppsala",
+      "question": "Vad kostar Körlektion Bil i Uppsala?",
+      "required_keywords": [
+        "1399",
+        "kr",
+        "Uppsala"
+      ],
+      "source_file": "uppsala.json"
+    },
+    {
+      "id": "price_sample_eslov",
+      "question": "Vad kostar AM Mopedutbildning i Eslöv?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Eslöv"
+      ],
+      "source_file": "eslov.json"
+    },
+    {
+      "id": "contact_check_stockholm_enskededalen",
+      "question": "Hur kontaktar jag kontoret i Stockholm ?",
+      "required_keywords": [
+        "Stockholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "stockholm_enskededalen.json"
+    },
+    {
+      "id": "contact_check_lund_sodertull",
+      "question": "Hur kontaktar jag kontoret i Lund ?",
+      "required_keywords": [
+        "Lund",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "lund_sodertull.json"
+    },
+    {
+      "id": "contact_check_vaxjo",
+      "question": "Hur kontaktar jag kontoret i Växjö ?",
+      "required_keywords": [
+        "Växjö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "vaxjo.json"
+    },
+    {
+      "id": "price_sample_lund_sodertull",
+      "question": "Vad kostar AM Mopedutbildning i Lund?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Lund"
+      ],
+      "source_file": "lund_sodertull.json"
+    },
+    {
+      "id": "price_sample_vasteras",
+      "question": "Vad kostar AM Mopedutbildning i Västerås?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Västerås"
+      ],
+      "source_file": "vasteras.json"
+    },
+    {
+      "id": "price_sample_malmo_limhamn",
+      "question": "Vad kostar AM Mopedutbildning i Malmö?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Malmö"
+      ],
+      "source_file": "malmo_limhamn.json"
+    },
+    {
+      "id": "price_sample_stockholm_sodermalm",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_sodermalm.json"
+    },
+    {
+      "id": "contact_check_ystad",
+      "question": "Hur kontaktar jag kontoret i Ystad ?",
+      "required_keywords": [
+        "Ystad",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "ystad.json"
+    },
+    {
+      "id": "price_sample_stockholm_ostermalm",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_ostermalm.json"
+    },
+    {
+      "id": "price_sample_gavle",
+      "question": "Vad kostar Testlektion BIL i Gävle?",
+      "required_keywords": [
+        "899",
+        "kr",
+        "Gävle"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "contact_check_goteborg_ullevi",
+      "question": "Hur kontaktar jag kontoret i Göteborg ?",
+      "required_keywords": [
+        "Göteborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "goteborg_ullevi.json"
+    },
+    {
+      "id": "price_sample_hassleholm",
+      "question": "Vad kostar AM Mopedutbildning i Hässleholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Hässleholm"
+      ],
+      "source_file": "hassleholm.json"
+    },
+    {
+      "id": "contact_check_malmo_sodervarn",
+      "question": "Hur kontaktar jag kontoret i Malmö ?",
+      "required_keywords": [
+        "Malmö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "malmo_sodervarn.json"
+    },
+    {
+      "id": "price_sample_kungsbacka",
+      "question": "Vad kostar AM Mopedutbildning i Kungsbacka?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Kungsbacka"
+      ],
+      "source_file": "kungsbacka.json"
+    },
+    {
+      "id": "price_sample_hollviken",
+      "question": "Vad kostar AM Mopedutbildning i Höllviken?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Höllviken"
+      ],
+      "source_file": "hollviken.json"
+    },
+    {
+      "id": "contact_check_kungsbacka",
+      "question": "Hur kontaktar jag kontoret i Kungsbacka ?",
+      "required_keywords": [
+        "Kungsbacka",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "kungsbacka.json"
+    },
+    {
+      "id": "contact_check_varberg",
+      "question": "Hur kontaktar jag kontoret i Varberg ?",
+      "required_keywords": [
+        "Varberg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "varberg.json"
+    },
+    {
+      "id": "price_sample_helsingborg_city",
+      "question": "Vad kostar AM Mopedutbildning i Helsingborg?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Helsingborg"
+      ],
+      "source_file": "helsingborg_city.json"
+    },
+    {
+      "id": "contact_check_helsingborg_city",
+      "question": "Hur kontaktar jag kontoret i Helsingborg ?",
+      "required_keywords": [
+        "Helsingborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "helsingborg_city.json"
+    },
+    {
+      "id": "contact_check_malmo_city",
+      "question": "Hur kontaktar jag kontoret i Malmö ?",
+      "required_keywords": [
+        "Malmö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "malmo_city.json"
+    },
+    {
+      "id": "contact_check_goteborg_molndal",
+      "question": "Hur kontaktar jag kontoret i Göteborg ?",
+      "required_keywords": [
+        "Göteborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "goteborg_molndal.json"
+    },
+    {
+      "id": "price_sample_stockholm_kungsholmen",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_kungsholmen.json"
+    },
+    {
+      "id": "contact_check_helsingborg_halsobacken",
+      "question": "Hur kontaktar jag kontoret i Helsingborg ?",
+      "required_keywords": [
+        "Helsingborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "helsingborg_halsobacken.json"
+    },
+    {
+      "id": "price_sample_goteborg_molnlycke",
+      "question": "Vad kostar AM Mopedutbildning i Göteborg?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molnlycke.json"
+    },
+    {
+      "id": "price_sample_ystad",
+      "question": "Vad kostar AM Mopedutbildning i Ystad?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Ystad"
+      ],
+      "source_file": "ystad.json"
+    },
+    {
+      "id": "price_sample_goteborg_hogsbo",
+      "question": "Vad kostar AM Mopedutbildning i Göteborg?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_hogsbo.json"
+    },
+    {
+      "id": "price_sample_varberg",
+      "question": "Vad kostar Körlektion Bil i Varberg?",
+      "required_keywords": [
+        "1349",
+        "kr",
+        "Varberg"
+      ],
+      "source_file": "varberg.json"
+    },
+    {
+      "id": "contact_check_stockholm_djursholm",
+      "question": "Hur kontaktar jag kontoret i Stockholm ?",
+      "required_keywords": [
+        "Stockholm",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "stockholm_djursholm.json"
+    },
+    {
+      "id": "price_sample_vellinge",
+      "question": "Vad kostar AM Mopedutbildning i Vellinge?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Vellinge"
+      ],
+      "source_file": "vellinge.json"
+    },
+    {
+      "id": "price_sample_lund_katedral",
+      "question": "Vad kostar AM Mopedutbildning i Lund?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Lund"
+      ],
+      "source_file": "lund_katedral.json"
+    },
+    {
+      "id": "contact_check_malmo_varnhem",
+      "question": "Hur kontaktar jag kontoret i Malmö ?",
+      "required_keywords": [
+        "Malmö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "malmo_varnhem.json"
+    },
+    {
+      "id": "price_sample_goteborg_ullevi",
+      "question": "Vad kostar AM Mopedutbildning i Göteborg?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_ullevi.json"
+    },
+    {
+      "id": "price_sample_malmo_city",
+      "question": "Vad kostar AM Mopedutbildning i Malmö?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Malmö"
+      ],
+      "source_file": "malmo_city.json"
+    },
+    {
+      "id": "price_sample_goteborg_storaholm",
+      "question": "Vad kostar Risk 2 BIL i Göteborg?",
+      "required_keywords": [
+        "2399",
+        "kr",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_storaholm.json"
+    },
+    {
+      "id": "contact_check_vellinge",
+      "question": "Hur kontaktar jag kontoret i Vellinge ?",
+      "required_keywords": [
+        "Vellinge",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "vellinge.json"
+    },
+    {
+      "id": "contact_check_malmo_triangeln",
+      "question": "Hur kontaktar jag kontoret i Malmö ?",
+      "required_keywords": [
+        "Malmö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "malmo_triangeln.json"
+    },
+    {
+      "id": "price_sample_vaxjo",
+      "question": "Vad kostar AM Mopedutbildning i Växjö?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Växjö"
+      ],
+      "source_file": "vaxjo.json"
+    },
+    {
+      "id": "contact_check_goteborg_vastra_frolunda",
+      "question": "Hur kontaktar jag kontoret i Göteborg ?",
+      "required_keywords": [
+        "Göteborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "goteborg_vastra_frolunda.json"
+    },
+    {
+      "id": "contact_check_goteborg_molnlycke",
+      "question": "Hur kontaktar jag kontoret i Göteborg ?",
+      "required_keywords": [
+        "Göteborg",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "goteborg_molnlycke.json"
+    },
+    {
+      "id": "contact_check_gavle",
+      "question": "Hur kontaktar jag kontoret i Gävle ?",
+      "required_keywords": [
+        "Gävle",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "gavle.json"
+    },
+    {
+      "id": "contact_check_malmo_vastra_hamnen",
+      "question": "Hur kontaktar jag kontoret i Malmö ?",
+      "required_keywords": [
+        "Malmö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "malmo_vastra_hamnen.json"
+    },
+    {
+      "id": "price_sample_stockholm_osteraker",
+      "question": "Vad kostar AM Mopedutbildning i Stockholm?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Stockholm"
+      ],
+      "source_file": "stockholm_osteraker.json"
+    },
+    {
+      "id": "price_sample_kalmar",
+      "question": "Vad kostar AM Mopedutbildning i Kalmar?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Kalmar"
+      ],
+      "source_file": "kalmar.json"
+    },
+    {
+      "id": "price_sample_goteborg_molndal",
+      "question": "Vad kostar AM Mopedutbildning i Göteborg?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Göteborg"
+      ],
+      "source_file": "goteborg_molndal.json"
+    },
+    {
+      "id": "contact_check_kalmar",
+      "question": "Hur kontaktar jag kontoret i Kalmar ?",
+      "required_keywords": [
+        "Kalmar",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "kalmar.json"
+    },
+    {
+      "id": "price_sample_malmo_bulltofta",
+      "question": "Vad kostar AM Mopedutbildning i Malmö?",
+      "required_keywords": [
+        "10999",
+        "kr",
+        "Malmö"
+      ],
+      "source_file": "malmo_bulltofta.json"
+    },
+    {
+      "id": "contact_check_malmo_bulltofta",
+      "question": "Hur kontaktar jag kontoret i Malmö ?",
+      "required_keywords": [
+        "Malmö",
+        "telefon",
+        "mail",
+        "010"
+      ],
+      "source_file": "malmo_bulltofta.json"
+    },
+    {
+      "id": "price_sample_helsingborg_halsobacken",
+      "question": "Vad kostar Körlektion Bil i Helsingborg?",
+      "required_keywords": [
+        "1249",
+        "kr",
+        "Helsingborg"
+      ],
+      "source_file": "helsingborg_halsobacken.json"
+    }
+  ]
+}
